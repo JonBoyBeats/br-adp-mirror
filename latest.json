@@ -1,14 +1,25 @@
 {
- "generated_at": "2026-10-22T16:37:29Z",
+ "generated_at": "2026-10-22T17:12:43Z",
  "baseline_cutoff": "2026-10-22T01:00:00Z",
  "slates": [
+  {
+   "label": "cfb_fri",
+   "sport": "cfb",
+   "slate_id": "26356f4c-dd35-4d13-b737-718e606908be",
+   "title": "Fri Main Slate",
+   "cutoff": "2026-10-23T22:52:00Z",
+   "snapshot_utc": "2026-10-22T171230Z",
+   "players": [],
+   "baseline": null,
+   "pool": "pool/26356f4c-dd35-4d13-b737-718e606908be.json"
+  },
   {
    "label": "cfb_sat_late",
    "sport": "cfb",
    "slate_id": "b0c08898-ef85-4d7f-a6f2-bb845c90a6aa",
    "title": "Sat Late Slate",
    "cutoff": "2026-10-24T22:52:00Z",
-   "snapshot_utc": "2026-10-22T115545Z",
+   "snapshot_utc": "2026-10-22T171230Z",
    "players": [],
    "baseline": null,
    "pool": "pool/b0c08898-ef85-4d7f-a6f2-bb845c90a6aa.json"
@@ -19,7 +30,7 @@
    "slate_id": "05743add-5e3b-45fd-996d-c3baf26034e2",
    "title": "Sat Main Slate",
    "cutoff": "2026-10-24T15:52:00Z",
-   "snapshot_utc": "2026-10-22T115545Z",
+   "snapshot_utc": "2026-10-22T171230Z",
    "players": [
     {
      "appearance_id": "8ea3d411-9613-4b82-9a5d-bd2b31a20a4d",
@@ -40,7 +51,7 @@
      "team": "WVU",
      "team_id": "516258e6-cbbb-4d5f-81e7-98ec9375027c",
      "position": "QB",
-     "adp": 1.8,
+     "adp": 1.7,
      "injury": null
     },
     {
@@ -73,7 +84,7 @@
      "team": "UCLA",
      "team_id": "5bf5a4b7-bb12-4adf-a507-60eeb9bda0d8",
      "position": "RB",
-     "adp": 5.6,
+     "adp": 5.5,
      "injury": null
     },
     {
@@ -95,7 +106,7 @@
      "team": "IND",
      "team_id": "90e5da89-02d6-4bdb-a1ac-f98448075412",
      "position": "WR",
-     "adp": 7.1,
+     "adp": 7.5,
      "injury": null
     },
     {
@@ -117,7 +128,7 @@
      "team": "ILL",
      "team_id": "9e7a6e95-bea0-4bf8-86f3-9b70b807c704",
      "position": "WR",
-     "adp": 9.1,
+     "adp": 9.2,
      "injury": null
     },
     {
@@ -128,18 +139,7 @@
      "team": "IOWA",
      "team_id": "73d236ba-b44d-44e3-a121-4c3884c31bd9",
      "position": "RB",
-     "adp": 10.3,
-     "injury": null
-    },
-    {
-     "appearance_id": "0b9eceb0-9ceb-41a2-86f6-c8a66179f962",
-     "player_id": "15905d0a-f590-449a-a4ea-6ce3bf0827a2",
-     "first_name": "Nick",
-     "last_name": "Marsh",
-     "team": "IND",
-     "team_id": "90e5da89-02d6-4bdb-a1ac-f98448075412",
-     "position": "WR",
-     "adp": 11.5,
+     "adp": 10.4,
      "injury": null
     },
     {
@@ -150,7 +150,18 @@
      "team": "TCU",
      "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
      "position": "WR",
-     "adp": 11.8,
+     "adp": 11.4,
+     "injury": null
+    },
+    {
+     "appearance_id": "0b9eceb0-9ceb-41a2-86f6-c8a66179f962",
+     "player_id": "15905d0a-f590-449a-a4ea-6ce3bf0827a2",
+     "first_name": "Nick",
+     "last_name": "Marsh",
+     "team": "IND",
+     "team_id": "90e5da89-02d6-4bdb-a1ac-f98448075412",
+     "position": "WR",
+     "adp": 12.1,
      "injury": null
     },
     {
@@ -161,7 +172,7 @@
      "team": "MIA",
      "team_id": "375218f9-fb9f-4ffe-af00-e6d981349703",
      "position": "RB",
-     "adp": 13.4,
+     "adp": 14.0,
      "injury": null
     },
     {
@@ -172,7 +183,7 @@
      "team": "MIA",
      "team_id": "375218f9-fb9f-4ffe-af00-e6d981349703",
      "position": "QB",
-     "adp": 14.1,
+     "adp": 14.4,
      "injury": null
     },
     {
@@ -183,7 +194,7 @@
      "team": "WVU",
      "team_id": "516258e6-cbbb-4d5f-81e7-98ec9375027c",
      "position": "WR",
-     "adp": 14.8,
+     "adp": 15.3,
      "injury": null
     },
     {
@@ -194,7 +205,7 @@
      "team": "ORE",
      "team_id": "365198b9-4772-4198-b1ab-614c5b24ee73",
      "position": "TE",
-     "adp": 16.5,
+     "adp": 16.2,
      "injury": null
     },
     {
@@ -205,7 +216,7 @@
      "team": "BYU",
      "team_id": "fcfcfa20-fca3-4493-b662-dcf04bb66551",
      "position": "QB",
-     "adp": 17.0,
+     "adp": 17.7,
      "injury": null
     },
     {
@@ -216,18 +227,7 @@
      "team": "BYU",
      "team_id": "fcfcfa20-fca3-4493-b662-dcf04bb66551",
      "position": "WR",
-     "adp": 18.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "bb7d16a6-07e9-4dc3-9787-6466921563f5",
-     "player_id": "10603e65-011c-4d16-8698-b18dc07b5fac",
-     "first_name": "Cole",
-     "last_name": "Tabb",
-     "team": "CIN",
-     "team_id": "bf1a66b8-bcd3-4fcb-ad3b-a9bbd530b800",
-     "position": "RB",
-     "adp": 20.8,
+     "adp": 18.1,
      "injury": null
     },
     {
@@ -238,7 +238,29 @@
      "team": "MSST",
      "team_id": "e58bc430-5aee-4d29-b7cd-6b491c7a41e6",
      "position": "WR",
-     "adp": 20.9,
+     "adp": 19.7,
+     "injury": null
+    },
+    {
+     "appearance_id": "e9378d3f-e1a1-40d6-a966-6b5977234ef6",
+     "player_id": "6ab5e4ea-f9c0-426d-8adb-f8fcaaf74a99",
+     "first_name": "Isaiah",
+     "last_name": "Sategna",
+     "team": "OKLA",
+     "team_id": "98c5d11a-1488-4d98-9110-80f813491bd2",
+     "position": "WR",
+     "adp": 20.1,
+     "injury": null
+    },
+    {
+     "appearance_id": "bb7d16a6-07e9-4dc3-9787-6466921563f5",
+     "player_id": "10603e65-011c-4d16-8698-b18dc07b5fac",
+     "first_name": "Cole",
+     "last_name": "Tabb",
+     "team": "CIN",
+     "team_id": "bf1a66b8-bcd3-4fcb-ad3b-a9bbd530b800",
+     "position": "RB",
+     "adp": 21.1,
      "injury": null
     },
     {
@@ -249,19 +271,8 @@
      "team": "TCU",
      "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
      "position": "TE",
-     "adp": 21.0,
+     "adp": 22.4,
      "injury": "Questionable"
-    },
-    {
-     "appearance_id": "e9378d3f-e1a1-40d6-a966-6b5977234ef6",
-     "player_id": "6ab5e4ea-f9c0-426d-8adb-f8fcaaf74a99",
-     "first_name": "Isaiah",
-     "last_name": "Sategna",
-     "team": "OKLA",
-     "team_id": "98c5d11a-1488-4d98-9110-80f813491bd2",
-     "position": "WR",
-     "adp": 21.4,
-     "injury": null
     },
     {
      "appearance_id": "7d9b1a68-1faa-4ac9-a02a-b85b4e94ab41",
@@ -271,7 +282,7 @@
      "team": "LSU",
      "team_id": "3f963090-102a-4b8d-bc9b-52b93a9acb5d",
      "position": "WR",
-     "adp": 22.6,
+     "adp": 22.9,
      "injury": null
     },
     {
@@ -282,7 +293,7 @@
      "team": "IOWA",
      "team_id": "73d236ba-b44d-44e3-a121-4c3884c31bd9",
      "position": "TE",
-     "adp": 23.5,
+     "adp": 25.0,
      "injury": null
     },
     {
@@ -293,7 +304,7 @@
      "team": "LSU",
      "team_id": "3f963090-102a-4b8d-bc9b-52b93a9acb5d",
      "position": "QB",
-     "adp": 25.3,
+     "adp": 25.5,
      "injury": null
     },
     {
@@ -304,7 +315,7 @@
      "team": "ORE",
      "team_id": "365198b9-4772-4198-b1ab-614c5b24ee73",
      "position": "RB",
-     "adp": 25.8,
+     "adp": 25.6,
      "injury": null
     },
     {
@@ -315,7 +326,7 @@
      "team": "TTU",
      "team_id": "d8c72ef1-b248-4e6a-84d0-beb9b5f99392",
      "position": "TE",
-     "adp": 28.4,
+     "adp": 28.1,
      "injury": null
     },
     {
@@ -326,7 +337,7 @@
      "team": "OKLA",
      "team_id": "98c5d11a-1488-4d98-9110-80f813491bd2",
      "position": "TE",
-     "adp": 29.4,
+     "adp": 29.6,
      "injury": null
     },
     {
@@ -337,29 +348,7 @@
      "team": "TTU",
      "team_id": "d8c72ef1-b248-4e6a-84d0-beb9b5f99392",
      "position": "WR",
-     "adp": 30.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "9283fa97-1b72-4dc0-abd7-e403b3c227d6",
-     "player_id": "9cff4632-af4e-4988-8078-c5617dd9cbd4",
-     "first_name": "Keelon",
-     "last_name": "Russell",
-     "team": "BAMA",
-     "team_id": "f418e3f8-7b02-4f74-b5fa-309b191bb94e",
-     "position": "QB",
-     "adp": 30.4,
-     "injury": null
-    },
-    {
-     "appearance_id": "56355edb-d02f-4ac8-a00d-a1754bb16c9a",
-     "player_id": "3c612ba5-e59a-484a-a19d-fb50f4113d35",
-     "first_name": "Blue",
-     "last_name": "Hicks",
-     "team": "PITT",
-     "team_id": "5d58bc61-b610-4b51-8651-8b401cae0c1d",
-     "position": "WR",
-     "adp": 32.6,
+     "adp": 30.6,
      "injury": null
     },
     {
@@ -370,29 +359,18 @@
      "team": "ORE",
      "team_id": "365198b9-4772-4198-b1ab-614c5b24ee73",
      "position": "WR",
-     "adp": 32.8,
+     "adp": 31.1,
      "injury": null
     },
     {
-     "appearance_id": "bef64af7-d282-4233-a56b-f9f2538998e7",
-     "player_id": "664127ec-e85c-49b6-ba55-343f7525dfba",
-     "first_name": "Nyck",
-     "last_name": "Harbor",
-     "team": "SCAR",
-     "team_id": "6abd4f5d-9165-40f0-af8e-46adef7cfee6",
-     "position": "WR",
-     "adp": 32.9,
-     "injury": null
-    },
-    {
-     "appearance_id": "84aecf5f-61cc-405c-840c-a9c2db857ae9",
-     "player_id": "894ccfe2-9ab2-4f89-aac0-4db96ce6bbbb",
-     "first_name": "Matt",
-     "last_name": "Fuller",
-     "team": "SCAR",
-     "team_id": "6abd4f5d-9165-40f0-af8e-46adef7cfee6",
-     "position": "RB",
-     "adp": 34.0,
+     "appearance_id": "9283fa97-1b72-4dc0-abd7-e403b3c227d6",
+     "player_id": "9cff4632-af4e-4988-8078-c5617dd9cbd4",
+     "first_name": "Keelon",
+     "last_name": "Russell",
+     "team": "BAMA",
+     "team_id": "f418e3f8-7b02-4f74-b5fa-309b191bb94e",
+     "position": "QB",
+     "adp": 31.6,
      "injury": null
     },
     {
@@ -403,40 +381,40 @@
      "team": "MSST",
      "team_id": "e58bc430-5aee-4d29-b7cd-6b491c7a41e6",
      "position": "QB",
-     "adp": 34.1,
+     "adp": 32.6,
      "injury": "Questionable"
     },
     {
-     "appearance_id": "ebeb00b1-476d-4a32-8388-bf6e8cf6a092",
-     "player_id": "8b0212b8-bce2-4576-a89d-4e776e6cf212",
-     "first_name": "Walker",
-     "last_name": "Lyons",
-     "team": "BYU",
-     "team_id": "fcfcfa20-fca3-4493-b662-dcf04bb66551",
-     "position": "TE",
-     "adp": 34.4,
+     "appearance_id": "bef64af7-d282-4233-a56b-f9f2538998e7",
+     "player_id": "664127ec-e85c-49b6-ba55-343f7525dfba",
+     "first_name": "Nyck",
+     "last_name": "Harbor",
+     "team": "SCAR",
+     "team_id": "6abd4f5d-9165-40f0-af8e-46adef7cfee6",
+     "position": "WR",
+     "adp": 33.1,
      "injury": null
     },
     {
-     "appearance_id": "b662f690-bbe5-44ac-9a1b-68e55602fc9b",
-     "player_id": "121ded0b-c156-4901-a27a-cfd3ef27eb2b",
-     "first_name": "Fluff",
-     "last_name": "Bothwell",
-     "team": "MSST",
-     "team_id": "e58bc430-5aee-4d29-b7cd-6b491c7a41e6",
-     "position": "RB",
-     "adp": 34.5,
-     "injury": "Questionable"
+     "appearance_id": "56355edb-d02f-4ac8-a00d-a1754bb16c9a",
+     "player_id": "3c612ba5-e59a-484a-a19d-fb50f4113d35",
+     "first_name": "Blue",
+     "last_name": "Hicks",
+     "team": "PITT",
+     "team_id": "5d58bc61-b610-4b51-8651-8b401cae0c1d",
+     "position": "WR",
+     "adp": 33.6,
+     "injury": null
     },
     {
-     "appearance_id": "6402983e-6773-47e6-b7ba-629c41f1d68d",
-     "player_id": "ab08ebe7-fe9d-4d49-9196-eab80ebeda8a",
-     "first_name": "LaNorris",
-     "last_name": "Sellers",
+     "appearance_id": "84aecf5f-61cc-405c-840c-a9c2db857ae9",
+     "player_id": "894ccfe2-9ab2-4f89-aac0-4db96ce6bbbb",
+     "first_name": "Matt",
+     "last_name": "Fuller",
      "team": "SCAR",
      "team_id": "6abd4f5d-9165-40f0-af8e-46adef7cfee6",
-     "position": "QB",
-     "adp": 34.8,
+     "position": "RB",
+     "adp": 33.7,
      "injury": null
     },
     {
@@ -447,7 +425,29 @@
      "team": "TCU",
      "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
      "position": "WR",
-     "adp": 34.9,
+     "adp": 34.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "930a9e36-b6e5-4a32-a992-a9fb40a5b789",
+     "player_id": "1d743b12-2827-4692-a4d3-3bed89036edc",
+     "first_name": "Trey'Dez",
+     "last_name": "Green",
+     "team": "LSU",
+     "team_id": "3f963090-102a-4b8d-bc9b-52b93a9acb5d",
+     "position": "TE",
+     "adp": 34.4,
+     "injury": null
+    },
+    {
+     "appearance_id": "6402983e-6773-47e6-b7ba-629c41f1d68d",
+     "player_id": "ab08ebe7-fe9d-4d49-9196-eab80ebeda8a",
+     "first_name": "LaNorris",
+     "last_name": "Sellers",
+     "team": "SCAR",
+     "team_id": "6abd4f5d-9165-40f0-af8e-46adef7cfee6",
+     "position": "QB",
+     "adp": 34.5,
      "injury": null
     },
     {
@@ -458,8 +458,41 @@
      "team": "UCF",
      "team_id": "ec10d4ff-d8d0-4c8b-b493-a855479db6e1",
      "position": "WR",
-     "adp": 35.0,
+     "adp": 34.7,
      "injury": null
+    },
+    {
+     "appearance_id": "ebeb00b1-476d-4a32-8388-bf6e8cf6a092",
+     "player_id": "8b0212b8-bce2-4576-a89d-4e776e6cf212",
+     "first_name": "Walker",
+     "last_name": "Lyons",
+     "team": "BYU",
+     "team_id": "fcfcfa20-fca3-4493-b662-dcf04bb66551",
+     "position": "TE",
+     "adp": 34.8,
+     "injury": null
+    },
+    {
+     "appearance_id": "dbf9180c-c6de-4f41-934b-6c623d4af6bb",
+     "player_id": "74c5fba6-77be-4e88-8139-5e5674a81723",
+     "first_name": "Byrum",
+     "last_name": "Brown",
+     "team": "AUB",
+     "team_id": "c38c29de-1e7b-493a-b0d7-eaddb23c1ab5",
+     "position": "QB",
+     "adp": 34.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "b662f690-bbe5-44ac-9a1b-68e55602fc9b",
+     "player_id": "121ded0b-c156-4901-a27a-cfd3ef27eb2b",
+     "first_name": "Fluff",
+     "last_name": "Bothwell",
+     "team": "MSST",
+     "team_id": "e58bc430-5aee-4d29-b7cd-6b491c7a41e6",
+     "position": "RB",
+     "adp": 35.1,
+     "injury": "Questionable"
     },
     {
      "appearance_id": "3f739a2b-9d68-4837-99d0-2e75193ec369",
@@ -473,25 +506,14 @@
      "injury": null
     },
     {
-     "appearance_id": "dbf9180c-c6de-4f41-934b-6c623d4af6bb",
-     "player_id": "74c5fba6-77be-4e88-8139-5e5674a81723",
-     "first_name": "Byrum",
-     "last_name": "Brown",
-     "team": "AUB",
-     "team_id": "c38c29de-1e7b-493a-b0d7-eaddb23c1ab5",
-     "position": "QB",
-     "adp": 35.4,
-     "injury": null
-    },
-    {
-     "appearance_id": "05c93e4c-f1a4-4ccc-bed0-9ddafdfab4da",
-     "player_id": "1eb4ebd4-8869-42ec-9355-3d900054c305",
-     "first_name": "Darius",
-     "last_name": "Taylor",
-     "team": "MINN",
-     "team_id": "023d5b6e-4fe3-4c79-96fc-7fa24dc9c9b7",
+     "appearance_id": "3babf5e5-8558-46fa-bfe7-928665e79610",
+     "player_id": "d2eed6dc-4309-47f5-9d3c-2903a7cf02df",
+     "first_name": "Jordon",
+     "last_name": "Davison",
+     "team": "ORE",
+     "team_id": "365198b9-4772-4198-b1ab-614c5b24ee73",
      "position": "RB",
-     "adp": 35.5,
+     "adp": 35.4,
      "injury": null
     },
     {
@@ -502,17 +524,39 @@
      "team": "BAMA",
      "team_id": "f418e3f8-7b02-4f74-b5fa-309b191bb94e",
      "position": "WR",
-     "adp": 35.5,
+     "adp": 35.6,
      "injury": null
     },
     {
-     "appearance_id": "3babf5e5-8558-46fa-bfe7-928665e79610",
-     "player_id": "d2eed6dc-4309-47f5-9d3c-2903a7cf02df",
-     "first_name": "Jordon",
-     "last_name": "Davison",
-     "team": "ORE",
-     "team_id": "365198b9-4772-4198-b1ab-614c5b24ee73",
+     "appearance_id": "313fa89e-90a3-4c0c-b944-6dda175ee7f2",
+     "player_id": "42120f9a-dc1d-4fe4-9ada-d97fb884ce55",
+     "first_name": "JV",
+     "last_name": "Gibson",
+     "team": "CIN",
+     "team_id": "bf1a66b8-bcd3-4fcb-ad3b-a9bbd530b800",
+     "position": "WR",
+     "adp": 35.6,
+     "injury": null
+    },
+    {
+     "appearance_id": "05c93e4c-f1a4-4ccc-bed0-9ddafdfab4da",
+     "player_id": "1eb4ebd4-8869-42ec-9355-3d900054c305",
+     "first_name": "Darius",
+     "last_name": "Taylor",
+     "team": "MINN",
+     "team_id": "023d5b6e-4fe3-4c79-96fc-7fa24dc9c9b7",
      "position": "RB",
+     "adp": 35.7,
+     "injury": null
+    },
+    {
+     "appearance_id": "2e77a3f9-3752-465d-b2cd-53a0ddcac6df",
+     "player_id": "2ba64e84-fc7c-4af8-a198-30fdd11a1a7c",
+     "first_name": "Cooper",
+     "last_name": "Barkate",
+     "team": "MIA",
+     "team_id": "375218f9-fb9f-4ffe-af00-e6d981349703",
+     "position": "WR",
      "adp": 35.9,
      "injury": null
     },
@@ -525,6 +569,17 @@
      "team_id": "90e5da89-02d6-4bdb-a1ac-f98448075412",
      "position": "RB",
      "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "f73ee401-9fc2-4808-ba9b-eae57b970088",
+     "player_id": "36b53992-2ea0-496b-a617-bdb6e3e5d44f",
+     "first_name": "Mike",
+     "last_name": "Matthews",
+     "team": "TENN",
+     "team_id": "0bda1a74-f5ac-4bab-8de7-9216167d9858",
+     "position": "WR",
+     "adp": 36.0,
      "injury": null
     },
     {
@@ -611,7 +666,7 @@
    "slate_id": "97a09c26-330b-40be-8951-db637665d19a",
    "title": "Sun Early Slate",
    "cutoff": "2026-10-25T16:52:00Z",
-   "snapshot_utc": "2026-10-22T115545Z",
+   "snapshot_utc": "2026-10-22T171230Z",
    "players": [
     {
      "appearance_id": "82f7ffa7-2c56-4707-b052-df250ad24f07",
@@ -621,7 +676,7 @@
      "team": "ATL",
      "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
      "position": "RB",
-     "adp": 1.5,
+     "adp": 1.3,
      "injury": null
     },
     {
@@ -632,7 +687,7 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "RB",
-     "adp": 1.5,
+     "adp": 1.7,
      "injury": null
     },
     {
@@ -643,7 +698,7 @@
      "team": "BAL",
      "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
      "position": "RB",
-     "adp": 3.5,
+     "adp": 3.3,
      "injury": null
     },
     {
@@ -654,7 +709,7 @@
      "team": "CIN",
      "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
      "position": "WR",
-     "adp": 3.5,
+     "adp": 3.7,
      "injury": null
     },
     {
@@ -665,7 +720,7 @@
      "team": "HOU",
      "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "WR",
-     "adp": 5.5,
+     "adp": 5.7,
      "injury": null
     },
     {
@@ -676,7 +731,7 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "QB",
-     "adp": 6.0,
+     "adp": 6.3,
      "injury": null
     },
     {
@@ -687,7 +742,7 @@
      "team": "BAL",
      "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
      "position": "WR",
-     "adp": 7.5,
+     "adp": 6.7,
      "injury": null
     },
     {
@@ -698,7 +753,7 @@
      "team": "MIN",
      "team_id": "5af1e185-627e-5345-851d-3c65c5b66614",
      "position": "WR",
-     "adp": 7.5,
+     "adp": 9.0,
      "injury": null
     },
     {
@@ -709,7 +764,7 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "TE",
-     "adp": 8.5,
+     "adp": 9.0,
      "injury": null
     },
     {
@@ -720,7 +775,7 @@
      "team": "IND",
      "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
      "position": "RB",
-     "adp": 10.0,
+     "adp": 9.3,
      "injury": null
     },
     {
@@ -731,7 +786,7 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "RB",
-     "adp": 12.5,
+     "adp": 12.0,
      "injury": null
     },
     {
@@ -742,7 +797,7 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "WR",
-     "adp": 14.0,
+     "adp": 13.7,
      "injury": null
     },
     {
@@ -753,18 +808,7 @@
      "team": "ATL",
      "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
      "position": "WR",
-     "adp": 15.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "3bbefaa7-d709-4c9d-8a17-a9ebc65f72b2",
-     "player_id": "59c11870-cdb6-4c4f-be1b-92d2fcb98c32",
-     "first_name": "Isaiah",
-     "last_name": "Likely",
-     "team": "NYG",
-     "team_id": "d40a4380-49a6-5b5f-ab7d-f5393787ed12",
-     "position": "TE",
-     "adp": 15.0,
+     "adp": 14.7,
      "injury": null
     },
     {
@@ -775,6 +819,17 @@
      "team": "NYJ",
      "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "WR",
+     "adp": 15.7,
+     "injury": null
+    },
+    {
+     "appearance_id": "3bbefaa7-d709-4c9d-8a17-a9ebc65f72b2",
+     "player_id": "59c11870-cdb6-4c4f-be1b-92d2fcb98c32",
+     "first_name": "Isaiah",
+     "last_name": "Likely",
+     "team": "NYG",
+     "team_id": "d40a4380-49a6-5b5f-ab7d-f5393787ed12",
+     "position": "TE",
      "adp": 16.0,
      "injury": null
     },
@@ -786,7 +841,7 @@
      "team": "TB",
      "team_id": "1a20f1da-c502-5224-9c4a-bc363174cd21",
      "position": "RB",
-     "adp": 16.5,
+     "adp": 16.3,
      "injury": null
     },
     {
@@ -797,51 +852,7 @@
      "team": "CIN",
      "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
      "position": "WR",
-     "adp": 16.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "04e23e61-1286-4ea6-8e4d-9b5d9f153dd9",
-     "player_id": "9e383307-302a-4285-93aa-69bb32de103d",
-     "first_name": "Malik",
-     "last_name": "Nabers",
-     "team": "NYG",
-     "team_id": "d40a4380-49a6-5b5f-ab7d-f5393787ed12",
-     "position": "WR",
-     "adp": 16.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "b50ee267-5678-4283-acdc-d03f4914ba35",
-     "player_id": "9edce99f-fad8-4de1-9e20-435b3d12c310",
-     "first_name": "Lamar",
-     "last_name": "Jackson",
-     "team": "BAL",
-     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
-     "position": "QB",
-     "adp": 17.0,
-     "injury": "Questionable"
-    },
-    {
-     "appearance_id": "d5b28564-a908-4c85-8727-db5364caf972",
-     "player_id": "59614625-f243-4cb9-8038-146619f12e70",
-     "first_name": "C.J.",
-     "last_name": "Stroud",
-     "team": "HOU",
-     "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
-     "position": "QB",
-     "adp": 19.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "162bdc3a-51ee-4fa7-bb13-31037dfce512",
-     "player_id": "2e423f4b-b5a8-4564-bd49-8e4295a94364",
-     "first_name": "Kyle",
-     "last_name": "Pitts",
-     "team": "ATL",
-     "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
-     "position": "TE",
-     "adp": 21.0,
+     "adp": 16.7,
      "injury": null
     },
     {
@@ -852,7 +863,51 @@
      "team": "CIN",
      "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
      "position": "QB",
-     "adp": 21.5,
+     "adp": 17.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "04e23e61-1286-4ea6-8e4d-9b5d9f153dd9",
+     "player_id": "9e383307-302a-4285-93aa-69bb32de103d",
+     "first_name": "Malik",
+     "last_name": "Nabers",
+     "team": "NYG",
+     "team_id": "d40a4380-49a6-5b5f-ab7d-f5393787ed12",
+     "position": "WR",
+     "adp": 17.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "b50ee267-5678-4283-acdc-d03f4914ba35",
+     "player_id": "9edce99f-fad8-4de1-9e20-435b3d12c310",
+     "first_name": "Lamar",
+     "last_name": "Jackson",
+     "team": "BAL",
+     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
+     "position": "QB",
+     "adp": 18.0,
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": "d5b28564-a908-4c85-8727-db5364caf972",
+     "player_id": "59614625-f243-4cb9-8038-146619f12e70",
+     "first_name": "C.J.",
+     "last_name": "Stroud",
+     "team": "HOU",
+     "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
+     "position": "QB",
+     "adp": 21.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "162bdc3a-51ee-4fa7-bb13-31037dfce512",
+     "player_id": "2e423f4b-b5a8-4564-bd49-8e4295a94364",
+     "first_name": "Kyle",
+     "last_name": "Pitts",
+     "team": "ATL",
+     "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
+     "position": "TE",
+     "adp": 21.7,
      "injury": null
     },
     {
@@ -863,7 +918,18 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "QB",
-     "adp": 23.5,
+     "adp": 24.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "581cdc90-a23c-4374-819b-89209c9da444",
+     "player_id": "5a3633f7-36fb-425a-aaed-15fd24ecc5b0",
+     "first_name": "Jalen",
+     "last_name": "Coker",
+     "team": "CAR",
+     "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
+     "position": "WR",
+     "adp": 25.0,
      "injury": null
     },
     {
@@ -874,18 +940,18 @@
      "team": "TB",
      "team_id": "1a20f1da-c502-5224-9c4a-bc363174cd21",
      "position": "WR",
-     "adp": 26.5,
+     "adp": 26.0,
      "injury": "Questionable"
     },
     {
-     "appearance_id": "581cdc90-a23c-4374-819b-89209c9da444",
-     "player_id": "5a3633f7-36fb-425a-aaed-15fd24ecc5b0",
-     "first_name": "Jalen",
-     "last_name": "Coker",
-     "team": "CAR",
-     "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
-     "position": "WR",
-     "adp": 27.0,
+     "appearance_id": "35bf8271-82ed-4f9e-be99-275c9003640c",
+     "player_id": "e8312b02-cf05-4abd-808d-33a115a6b29c",
+     "first_name": "Chase",
+     "last_name": "Brown",
+     "team": "CIN",
+     "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
+     "position": "RB",
+     "adp": 26.3,
      "injury": null
     },
     {
@@ -896,7 +962,7 @@
      "team": "MIA",
      "team_id": "9153e0a9-da83-5246-ba43-417537f1bcce",
      "position": "RB",
-     "adp": 27.5,
+     "adp": 28.3,
      "injury": null
     },
     {
@@ -907,7 +973,7 @@
      "team": "MIN",
      "team_id": "5af1e185-627e-5345-851d-3c65c5b66614",
      "position": "RB",
-     "adp": 27.5,
+     "adp": 28.7,
      "injury": null
     },
     {
@@ -918,19 +984,8 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "WR",
-     "adp": 28.0,
+     "adp": 30.7,
      "injury": "Doubtful"
-    },
-    {
-     "appearance_id": "35bf8271-82ed-4f9e-be99-275c9003640c",
-     "player_id": "e8312b02-cf05-4abd-808d-33a115a6b29c",
-     "first_name": "Chase",
-     "last_name": "Brown",
-     "team": "CIN",
-     "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
-     "position": "RB",
-     "adp": 28.5,
-     "injury": null
     },
     {
      "appearance_id": "bd32798e-395e-4e3a-955a-7fc7d6be4199",
@@ -940,29 +995,7 @@
      "team": "CLE",
      "team_id": "338ae7df-02ad-5a94-9767-60f511bd55e1",
      "position": "TE",
-     "adp": 28.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "437418f2-8e43-4b8d-9cda-dd66134b33e9",
-     "player_id": "234e0f4b-e7d1-4852-b65a-348ac45f49d6",
-     "first_name": "Tyler",
-     "last_name": "Warren",
-     "team": "IND",
-     "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
-     "position": "TE",
      "adp": 31.0,
-     "injury": "Questionable"
-    },
-    {
-     "appearance_id": "2d07751f-c78a-4b79-a55e-046781df061c",
-     "player_id": "03826128-13cd-4ea6-8b5f-911aa427db82",
-     "first_name": "Kenyon",
-     "last_name": "Sadiq",
-     "team": "NYJ",
-     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
-     "position": "TE",
-     "adp": 32.0,
      "injury": null
     },
     {
@@ -973,18 +1006,18 @@
      "team": "MIN",
      "team_id": "5af1e185-627e-5345-851d-3c65c5b66614",
      "position": "TE",
-     "adp": 32.5,
+     "adp": 31.0,
      "injury": "Questionable"
     },
     {
-     "appearance_id": "f7daf447-720a-41f4-b657-0f339c8990de",
-     "player_id": "2362da81-1c77-4e2d-8931-0817d6e7ab96",
-     "first_name": "Omar",
-     "last_name": "Cooper",
-     "team": "NYJ",
-     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
+     "appearance_id": "c9ac4407-c8a7-4c48-a6df-35b60aaae2bd",
+     "player_id": "33b215dc-3bf9-450d-8e9b-58281339235a",
+     "first_name": "Carnell",
+     "last_name": "Tate",
+     "team": "TEN",
+     "team_id": "f96aa8db-21c2-5b86-b49d-7e64b4eda61d",
      "position": "WR",
-     "adp": 33.5,
+     "adp": 31.7,
      "injury": null
     },
     {
@@ -995,18 +1028,51 @@
      "team": "HOU",
      "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "RB",
-     "adp": 34.0,
+     "adp": 32.3,
      "injury": null
     },
     {
-     "appearance_id": "c9ac4407-c8a7-4c48-a6df-35b60aaae2bd",
-     "player_id": "33b215dc-3bf9-450d-8e9b-58281339235a",
-     "first_name": "Carnell",
-     "last_name": "Tate",
-     "team": "TEN",
-     "team_id": "f96aa8db-21c2-5b86-b49d-7e64b4eda61d",
+     "appearance_id": "437418f2-8e43-4b8d-9cda-dd66134b33e9",
+     "player_id": "234e0f4b-e7d1-4852-b65a-348ac45f49d6",
+     "first_name": "Tyler",
+     "last_name": "Warren",
+     "team": "IND",
+     "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
+     "position": "TE",
+     "adp": 32.7,
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": "2d07751f-c78a-4b79-a55e-046781df061c",
+     "player_id": "03826128-13cd-4ea6-8b5f-911aa427db82",
+     "first_name": "Kenyon",
+     "last_name": "Sadiq",
+     "team": "NYJ",
+     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
+     "position": "TE",
+     "adp": 33.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "f7daf447-720a-41f4-b657-0f339c8990de",
+     "player_id": "2362da81-1c77-4e2d-8931-0817d6e7ab96",
+     "first_name": "Omar",
+     "last_name": "Cooper",
+     "team": "NYJ",
+     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "WR",
-     "adp": 34.0,
+     "adp": 34.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "8dbf2ca0-a6eb-418b-938f-65ec38cea5a6",
+     "player_id": "65f31977-db08-47a5-818f-ae5c9365bcfa",
+     "first_name": "Mark",
+     "last_name": "Andrews",
+     "team": "BAL",
+     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
+     "position": "TE",
+     "adp": 34.7,
      "injury": null
     },
     {
@@ -1017,7 +1083,7 @@
      "team": "NYJ",
      "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "QB",
-     "adp": 34.5,
+     "adp": 35.0,
      "injury": null
     },
     {
@@ -1028,8 +1094,30 @@
      "team": "CLE",
      "team_id": "338ae7df-02ad-5a94-9767-60f511bd55e1",
      "position": "RB",
-     "adp": 34.5,
+     "adp": 35.0,
      "injury": "Questionable"
+    },
+    {
+     "appearance_id": "19f07721-5e6a-44de-85f1-16b96b169828",
+     "player_id": "eb8ed468-74f8-4713-aac4-7280c3e3dbcf",
+     "first_name": "Ja'Kobi",
+     "last_name": "Lane",
+     "team": "BAL",
+     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
+     "position": "WR",
+     "adp": 35.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "66f5c6de-af5d-4278-b81e-38a1310736ed",
+     "player_id": "ede3a669-4285-4d9f-b606-c2fe3979e90b",
+     "first_name": "Kyler",
+     "last_name": "Murray",
+     "team": "MIN",
+     "team_id": "5af1e185-627e-5345-851d-3c65c5b66614",
+     "position": "QB",
+     "adp": 35.3,
+     "injury": null
     },
     {
      "appearance_id": "8122bc2f-5b6d-47aa-8757-5e5a939ce301",
@@ -1039,7 +1127,7 @@
      "team": "CLE",
      "team_id": "338ae7df-02ad-5a94-9767-60f511bd55e1",
      "position": "WR",
-     "adp": 35.5,
+     "adp": 35.3,
      "injury": null
     },
     {
@@ -1050,7 +1138,7 @@
      "team": "HOU",
      "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "WR",
-     "adp": 35.5,
+     "adp": 35.7,
      "injury": null
     },
     {
@@ -1130,7 +1218,7 @@
    "slate_id": "fb70d946-30bc-4818-91fa-51e8552d0e48",
    "title": "Sun Late Slate",
    "cutoff": "2026-10-25T19:57:00Z",
-   "snapshot_utc": "2026-10-22T115545Z",
+   "snapshot_utc": "2026-10-22T171230Z",
    "players": [
     {
      "appearance_id": "ea8c1ea2-0911-496d-8028-fe0ab8c52174",
@@ -1140,7 +1228,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "RB",
-     "adp": 1.0,
+     "adp": 1.1,
      "injury": null
     },
     {
@@ -1151,7 +1239,7 @@
      "team": "LAR",
      "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
      "position": "WR",
-     "adp": 2.1,
+     "adp": 2.2,
      "injury": null
     },
     {
@@ -1162,7 +1250,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "WR",
-     "adp": 3.3,
+     "adp": 3.1,
      "injury": null
     },
     {
@@ -1173,7 +1261,7 @@
      "team": "LAR",
      "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
      "position": "RB",
-     "adp": 4.8,
+     "adp": 4.6,
      "injury": null
     },
     {
@@ -1184,7 +1272,7 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "WR",
-     "adp": 5.6,
+     "adp": 5.5,
      "injury": null
     },
     {
@@ -1195,7 +1283,7 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "WR",
-     "adp": 5.6,
+     "adp": 5.9,
      "injury": null
     },
     {
@@ -1206,7 +1294,7 @@
      "team": "LV",
      "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
      "position": "TE",
-     "adp": 6.6,
+     "adp": 7.1,
      "injury": null
     },
     {
@@ -1228,29 +1316,7 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "QB",
-     "adp": 9.8,
-     "injury": null
-    },
-    {
-     "appearance_id": "039a2e2d-6217-4bab-81e4-b6dc5b4a728a",
-     "player_id": "991d546e-1d68-4cc6-977e-62286356f087",
-     "first_name": "Jameson",
-     "last_name": "Williams",
-     "team": "DET",
-     "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
-     "position": "WR",
-     "adp": 10.8,
-     "injury": null
-    },
-    {
-     "appearance_id": "faa1d79a-e67c-4c8b-a898-72b11f48610a",
-     "player_id": "6691d6ae-d453-45d2-9604-4120271a1259",
-     "first_name": "Ashton",
-     "last_name": "Jeanty",
-     "team": "LV",
-     "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
-     "position": "RB",
-     "adp": 11.6,
+     "adp": 9.6,
      "injury": null
     },
     {
@@ -1261,7 +1327,29 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "QB",
-     "adp": 12.3,
+     "adp": 10.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "039a2e2d-6217-4bab-81e4-b6dc5b4a728a",
+     "player_id": "991d546e-1d68-4cc6-977e-62286356f087",
+     "first_name": "Jameson",
+     "last_name": "Williams",
+     "team": "DET",
+     "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
+     "position": "WR",
+     "adp": 11.3,
+     "injury": null
+    },
+    {
+     "appearance_id": "faa1d79a-e67c-4c8b-a898-72b11f48610a",
+     "player_id": "6691d6ae-d453-45d2-9604-4120271a1259",
+     "first_name": "Ashton",
+     "last_name": "Jeanty",
+     "team": "LV",
+     "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
+     "position": "RB",
+     "adp": 11.9,
      "injury": null
     },
     {
@@ -1272,7 +1360,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "TE",
-     "adp": 14.1,
+     "adp": 13.1,
      "injury": null
     },
     {
@@ -1283,7 +1371,18 @@
      "team": "DEN",
      "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
      "position": "WR",
-     "adp": 15.3,
+     "adp": 14.8,
+     "injury": null
+    },
+    {
+     "appearance_id": "151a6e7f-be99-4af6-8924-02451bf17c00",
+     "player_id": "0169a966-cf5f-4e6e-8b03-1583650fd6ae",
+     "first_name": "Michael",
+     "last_name": "Wilson",
+     "team": "ARI",
+     "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
+     "position": "WR",
+     "adp": 15.8,
      "injury": null
     },
     {
@@ -1294,19 +1393,8 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "RB",
-     "adp": 15.4,
+     "adp": 15.9,
      "injury": "Probable"
-    },
-    {
-     "appearance_id": "151a6e7f-be99-4af6-8924-02451bf17c00",
-     "player_id": "0169a966-cf5f-4e6e-8b03-1583650fd6ae",
-     "first_name": "Michael",
-     "last_name": "Wilson",
-     "team": "ARI",
-     "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
-     "position": "WR",
-     "adp": 15.6,
-     "injury": null
     },
     {
      "appearance_id": "f1468dcb-1ded-44a6-b3a7-b466e0d085b1",
@@ -1316,7 +1404,7 @@
      "team": "LAR",
      "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
      "position": "QB",
-     "adp": 16.3,
+     "adp": 17.4,
      "injury": null
     },
     {
@@ -1327,7 +1415,7 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "TE",
-     "adp": 17.9,
+     "adp": 18.1,
      "injury": null
     },
     {
@@ -1338,7 +1426,7 @@
      "team": "LV",
      "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
      "position": "WR",
-     "adp": 18.0,
+     "adp": 18.8,
      "injury": null
     },
     {
@@ -1349,7 +1437,7 @@
      "team": "LAR",
      "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
      "position": "TE",
-     "adp": 19.6,
+     "adp": 20.6,
      "injury": null
     },
     {
@@ -1360,7 +1448,7 @@
      "team": "DEN",
      "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
      "position": "RB",
-     "adp": 21.9,
+     "adp": 21.6,
      "injury": null
     },
     {
@@ -1371,7 +1459,7 @@
      "team": "DEN",
      "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
      "position": "RB",
-     "adp": 22.3,
+     "adp": 21.8,
      "injury": null
     },
     {
@@ -1382,6 +1470,17 @@
      "team": "DEN",
      "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
      "position": "WR",
+     "adp": 22.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "8cf54c8a-e274-4f0e-aadb-7d0137774e6a",
+     "player_id": "395374cd-d5aa-4dff-ba55-e5d6921c96b9",
+     "first_name": "Bo",
+     "last_name": "Nix",
+     "team": "DEN",
+     "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
+     "position": "QB",
      "adp": 22.4,
      "injury": null
     },
@@ -1397,17 +1496,6 @@
      "injury": null
     },
     {
-     "appearance_id": "8cf54c8a-e274-4f0e-aadb-7d0137774e6a",
-     "player_id": "395374cd-d5aa-4dff-ba55-e5d6921c96b9",
-     "first_name": "Bo",
-     "last_name": "Nix",
-     "team": "DEN",
-     "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
-     "position": "QB",
-     "adp": 23.1,
-     "injury": null
-    },
-    {
      "appearance_id": "6582ff9a-81e1-451e-8e9b-1fad70959da0",
      "player_id": "aff41efa-823a-4bf3-b4bc-4d197adf9e50",
      "first_name": "Evan",
@@ -1415,7 +1503,18 @@
      "team": "DEN",
      "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
      "position": "TE",
-     "adp": 23.3,
+     "adp": 23.5,
+     "injury": null
+    },
+    {
+     "appearance_id": "ca6f7a8e-ecce-4d75-b70a-37568635380c",
+     "player_id": "505405b8-19e0-4e74-9c0a-c29e5c8ae1bb",
+     "first_name": "Jacoby",
+     "last_name": "Brissett",
+     "team": "ARI",
+     "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
+     "position": "QB",
+     "adp": 23.6,
      "injury": null
     },
     {
@@ -1426,7 +1525,7 @@
      "team": "ARI",
      "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
      "position": "RB",
-     "adp": 23.5,
+     "adp": 23.8,
      "injury": null
     },
     {
@@ -1437,7 +1536,7 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "WR",
-     "adp": 23.5,
+     "adp": 23.8,
      "injury": null
     },
     {
@@ -1448,7 +1547,18 @@
      "team": "ARI",
      "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
      "position": "WR",
-     "adp": 23.6,
+     "adp": 23.8,
+     "injury": null
+    },
+    {
+     "appearance_id": "803c0f53-d614-4497-9482-2888ac8bf15b",
+     "player_id": "c7d94033-423f-480f-99ca-c1565a50986e",
+     "first_name": "Colby",
+     "last_name": "Parkinson",
+     "team": "LAR",
+     "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
+     "position": "TE",
+     "adp": 23.9,
      "injury": null
     },
     {
@@ -1528,7 +1638,7 @@
    "slate_id": "8ccccc12-f964-41e8-a147-f79146a1fd28",
    "title": "Sun Main Slate",
    "cutoff": "2026-10-25T16:52:00Z",
-   "snapshot_utc": "2026-10-22T115545Z",
+   "snapshot_utc": "2026-10-22T171230Z",
    "players": [
     {
      "appearance_id": "ea8c1ea2-0911-496d-8028-fe0ab8c52174",
@@ -1571,7 +1681,7 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "RB",
-     "adp": 4.5,
+     "adp": 4.4,
      "injury": null
     },
     {
@@ -1582,7 +1692,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "WR",
-     "adp": 4.8,
+     "adp": 4.9,
      "injury": null
     },
     {
@@ -1626,7 +1736,7 @@
      "team": "LAR",
      "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
      "position": "RB",
-     "adp": 9.4,
+     "adp": 9.3,
      "injury": null
     },
     {
@@ -1637,7 +1747,7 @@
      "team": "LV",
      "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
      "position": "TE",
-     "adp": 11.4,
+     "adp": 11.2,
      "injury": null
     },
     {
@@ -1648,7 +1758,7 @@
      "team": "MIN",
      "team_id": "5af1e185-627e-5345-851d-3c65c5b66614",
      "position": "WR",
-     "adp": 11.6,
+     "adp": 11.7,
      "injury": null
     },
     {
@@ -1659,7 +1769,7 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "WR",
-     "adp": 12.0,
+     "adp": 12.1,
      "injury": null
     },
     {
@@ -1670,7 +1780,7 @@
      "team": "IND",
      "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
      "position": "RB",
-     "adp": 14.1,
+     "adp": 14.2,
      "injury": null
     },
     {
@@ -1692,7 +1802,7 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "TE",
-     "adp": 15.4,
+     "adp": 15.1,
      "injury": null
     },
     {
@@ -1703,7 +1813,7 @@
      "team": "BAL",
      "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
      "position": "WR",
-     "adp": 15.9,
+     "adp": 16.2,
      "injury": null
     },
     {
@@ -1714,7 +1824,7 @@
      "team": "NYG",
      "team_id": "d40a4380-49a6-5b5f-ab7d-f5393787ed12",
      "position": "WR",
-     "adp": 17.0,
+     "adp": 17.2,
      "injury": null
     },
     {
@@ -1725,18 +1835,7 @@
      "team": "ATL",
      "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
      "position": "WR",
-     "adp": 19.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "f9885bd5-6010-446c-9f4d-449f0a7eac05",
-     "player_id": "a4388eb5-9783-46f2-b262-43fbe0201ea3",
-     "first_name": "Trey",
-     "last_name": "McBride",
-     "team": "ARI",
-     "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
-     "position": "TE",
-     "adp": 19.5,
+     "adp": 18.8,
      "injury": null
     },
     {
@@ -1747,6 +1846,17 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "RB",
+     "adp": 19.5,
+     "injury": null
+    },
+    {
+     "appearance_id": "f9885bd5-6010-446c-9f4d-449f0a7eac05",
+     "player_id": "a4388eb5-9783-46f2-b262-43fbe0201ea3",
+     "first_name": "Trey",
+     "last_name": "McBride",
+     "team": "ARI",
+     "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
+     "position": "TE",
      "adp": 19.6,
      "injury": null
     },
@@ -1769,7 +1879,7 @@
      "team": "NYJ",
      "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "WR",
-     "adp": 24.0,
+     "adp": 24.2,
      "injury": null
     },
     {
@@ -1780,7 +1890,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "TE",
-     "adp": 25.5,
+     "adp": 25.4,
      "injury": null
     },
     {
@@ -1791,7 +1901,7 @@
      "team": "SF",
      "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
      "position": "QB",
-     "adp": 26.8,
+     "adp": 26.5,
      "injury": null
     },
     {
@@ -1813,7 +1923,18 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "WR",
-     "adp": 27.8,
+     "adp": 27.6,
+     "injury": null
+    },
+    {
+     "appearance_id": "da4b6c98-1089-45e2-8213-5c6020b68d34",
+     "player_id": "8344283b-c062-4719-b8d9-ab751543e329",
+     "first_name": "Bucky",
+     "last_name": "Irving",
+     "team": "TB",
+     "team_id": "1a20f1da-c502-5224-9c4a-bc363174cd21",
+     "position": "RB",
+     "adp": 28.8,
      "injury": null
     },
     {
@@ -1824,19 +1945,8 @@
      "team": "BAL",
      "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
      "position": "QB",
-     "adp": 28.1,
+     "adp": 28.8,
      "injury": "Questionable"
-    },
-    {
-     "appearance_id": "da4b6c98-1089-45e2-8213-5c6020b68d34",
-     "player_id": "8344283b-c062-4719-b8d9-ab751543e329",
-     "first_name": "Bucky",
-     "last_name": "Irving",
-     "team": "TB",
-     "team_id": "1a20f1da-c502-5224-9c4a-bc363174cd21",
-     "position": "RB",
-     "adp": 28.7,
-     "injury": null
     },
     {
      "appearance_id": "ab121053-b9b8-4e79-9940-6d3160d67eb9",
@@ -1846,7 +1956,7 @@
      "team": "CIN",
      "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
      "position": "QB",
-     "adp": 29.4,
+     "adp": 29.3,
      "injury": null
     },
     {
@@ -1890,7 +2000,18 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "WR",
-     "adp": 32.0,
+     "adp": 31.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "35bf8271-82ed-4f9e-be99-275c9003640c",
+     "player_id": "e8312b02-cf05-4abd-808d-33a115a6b29c",
+     "first_name": "Chase",
+     "last_name": "Brown",
+     "team": "CIN",
+     "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
+     "position": "RB",
+     "adp": 33.6,
      "injury": null
     },
     {
@@ -1901,19 +2022,8 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "RB",
-     "adp": 33.7,
+     "adp": 33.9,
      "injury": "Probable"
-    },
-    {
-     "appearance_id": "35bf8271-82ed-4f9e-be99-275c9003640c",
-     "player_id": "e8312b02-cf05-4abd-808d-33a115a6b29c",
-     "first_name": "Chase",
-     "last_name": "Brown",
-     "team": "CIN",
-     "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
-     "position": "RB",
-     "adp": 33.8,
-     "injury": null
     },
     {
      "appearance_id": "d5b28564-a908-4c85-8727-db5364caf972",
@@ -1923,7 +2033,7 @@
      "team": "HOU",
      "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "QB",
-     "adp": 34.2,
+     "adp": 34.0,
      "injury": null
     },
     {
@@ -1945,7 +2055,7 @@
      "team": "NYJ",
      "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "RB",
-     "adp": 34.4,
+     "adp": 34.6,
      "injury": "Questionable"
     },
     {
@@ -1967,7 +2077,7 @@
      "team": "HOU",
      "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "RB",
-     "adp": 35.0,
+     "adp": 34.8,
      "injury": null
     },
     {
@@ -2136,28 +2246,6 @@
      "injury": null
     },
     {
-     "appearance_id": "0318d51d-09e2-4431-96b8-b2d96dc3ff73",
-     "player_id": "ebed0797-4404-4df7-bb66-1192d89e13d5",
-     "first_name": "Mike",
-     "last_name": "Evans",
-     "team": "SF",
-     "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
-     "position": "WR",
-     "adp": 35.9,
-     "injury": "Doubtful"
-    },
-    {
-     "appearance_id": "534df8ec-9a35-420a-a7d1-289052202239",
-     "player_id": "6d43b896-92a0-4ffd-8fe2-4a2ec2346e39",
-     "first_name": "Tre",
-     "last_name": "Tucker",
-     "team": "LV",
-     "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
-     "position": "WR",
-     "adp": 35.9,
-     "injury": null
-    },
-    {
      "appearance_id": "151a6e7f-be99-4af6-8924-02451bf17c00",
      "player_id": "0169a966-cf5f-4e6e-8b03-1583650fd6ae",
      "first_name": "Michael",
@@ -2169,6 +2257,17 @@
      "injury": null
     },
     {
+     "appearance_id": "0318d51d-09e2-4431-96b8-b2d96dc3ff73",
+     "player_id": "ebed0797-4404-4df7-bb66-1192d89e13d5",
+     "first_name": "Mike",
+     "last_name": "Evans",
+     "team": "SF",
+     "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
+     "position": "WR",
+     "adp": 35.9,
+     "injury": "Doubtful"
+    },
+    {
      "appearance_id": "ed168c65-133e-4739-a4b0-7dfa27f77af9",
      "player_id": "cc2d5397-aa26-4ca6-956c-7f5816a1671d",
      "first_name": "J.J.",
@@ -2176,6 +2275,28 @@
      "team": "NYG",
      "team_id": "d40a4380-49a6-5b5f-ab7d-f5393787ed12",
      "position": "QB",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "f7daf447-720a-41f4-b657-0f339c8990de",
+     "player_id": "2362da81-1c77-4e2d-8931-0817d6e7ab96",
+     "first_name": "Omar",
+     "last_name": "Cooper",
+     "team": "NYJ",
+     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
+     "position": "WR",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "534df8ec-9a35-420a-a7d1-289052202239",
+     "player_id": "6d43b896-92a0-4ffd-8fe2-4a2ec2346e39",
+     "first_name": "Tre",
+     "last_name": "Tucker",
+     "team": "LV",
+     "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
+     "position": "WR",
      "adp": 35.9,
      "injury": null
     },
@@ -2213,15 +2334,37 @@
      "injury": null
     },
     {
-     "appearance_id": "f7daf447-720a-41f4-b657-0f339c8990de",
-     "player_id": "2362da81-1c77-4e2d-8931-0817d6e7ab96",
-     "first_name": "Omar",
-     "last_name": "Cooper",
-     "team": "NYJ",
-     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
+     "appearance_id": "60cb0dd9-4e7c-4348-824c-73862d7185ea",
+     "player_id": "8420d79d-57f3-4296-90df-0edd9d78ab7b",
+     "first_name": "Jaylin",
+     "last_name": "Noel",
+     "team": "HOU",
+     "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "WR",
      "adp": 35.9,
      "injury": null
+    },
+    {
+     "appearance_id": "86b4e882-be78-4a54-9bff-194f158098f2",
+     "player_id": "5c1011d7-af2e-452b-9a72-693329dbcc24",
+     "first_name": "J.K.",
+     "last_name": "Dobbins",
+     "team": "DEN",
+     "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
+     "position": "RB",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "46b72561-f47f-45ee-bf0b-23b474ebb4fa",
+     "player_id": "17f8f4db-0b38-48ff-b9e3-a42af0fc3aa2",
+     "first_name": "Christian",
+     "last_name": "Kirk",
+     "team": "SF",
+     "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
+     "position": "WR",
+     "adp": 36.0,
+     "injury": "Questionable"
     },
     {
      "appearance_id": "b7b9c3b8-c6d9-446e-9c3a-44445e615e88",
@@ -2231,6 +2374,17 @@
      "team": "IND",
      "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
      "position": "QB",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "20bd3e2d-42fb-44d1-b527-6cc973f63a33",
+     "player_id": "da1f257c-ac6f-4146-988a-e0d417ac1cda",
+     "first_name": "Mike",
+     "last_name": "Gesicki",
+     "team": "CIN",
+     "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
+     "position": "TE",
      "adp": 36.0,
      "injury": null
     },
@@ -2246,35 +2400,35 @@
      "injury": null
     },
     {
-     "appearance_id": "60cb0dd9-4e7c-4348-824c-73862d7185ea",
-     "player_id": "8420d79d-57f3-4296-90df-0edd9d78ab7b",
-     "first_name": "Jaylin",
-     "last_name": "Noel",
-     "team": "HOU",
-     "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
-     "position": "WR",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "46b72561-f47f-45ee-bf0b-23b474ebb4fa",
-     "player_id": "17f8f4db-0b38-48ff-b9e3-a42af0fc3aa2",
-     "first_name": "Christian",
-     "last_name": "Kirk",
-     "team": "SF",
-     "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
-     "position": "WR",
+     "appearance_id": "38c03591-82ff-4fb5-8bee-94362f41d325",
+     "player_id": "f9fdd402-4e4f-4625-b168-0f47634a6b1f",
+     "first_name": "Quinshon",
+     "last_name": "Judkins",
+     "team": "CLE",
+     "team_id": "338ae7df-02ad-5a94-9767-60f511bd55e1",
+     "position": "RB",
      "adp": 36.0,
      "injury": "Questionable"
     },
     {
-     "appearance_id": "86b4e882-be78-4a54-9bff-194f158098f2",
-     "player_id": "5c1011d7-af2e-452b-9a72-693329dbcc24",
-     "first_name": "J.K.",
-     "last_name": "Dobbins",
-     "team": "DEN",
-     "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
+     "appearance_id": "c53fe836-5830-487e-bdd1-9d5288ff5b0c",
+     "player_id": "7a4958a8-b5af-4294-80c2-ab6131d8c29f",
+     "first_name": "Blake",
+     "last_name": "Corum",
+     "team": "LAR",
+     "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
      "position": "RB",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "2d07751f-c78a-4b79-a55e-046781df061c",
+     "player_id": "03826128-13cd-4ea6-8b5f-911aa427db82",
+     "first_name": "Kenyon",
+     "last_name": "Sadiq",
+     "team": "NYJ",
+     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
+     "position": "TE",
      "adp": 36.0,
      "injury": null
     },
@@ -2301,39 +2455,6 @@
      "injury": null
     },
     {
-     "appearance_id": "c53fe836-5830-487e-bdd1-9d5288ff5b0c",
-     "player_id": "7a4958a8-b5af-4294-80c2-ab6131d8c29f",
-     "first_name": "Blake",
-     "last_name": "Corum",
-     "team": "LAR",
-     "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
-     "position": "RB",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "20bd3e2d-42fb-44d1-b527-6cc973f63a33",
-     "player_id": "da1f257c-ac6f-4146-988a-e0d417ac1cda",
-     "first_name": "Mike",
-     "last_name": "Gesicki",
-     "team": "CIN",
-     "team_id": "ab235cf0-a041-5d36-8241-90a90f0dcb5e",
-     "position": "TE",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "2d07751f-c78a-4b79-a55e-046781df061c",
-     "player_id": "03826128-13cd-4ea6-8b5f-911aa427db82",
-     "first_name": "Kenyon",
-     "last_name": "Sadiq",
-     "team": "NYJ",
-     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
-     "position": "TE",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
      "appearance_id": "96b6c94b-154a-4c27-8872-ff48c8ac1da9",
      "player_id": "4f5a3c90-9e4f-49b7-b126-a99d0eb90286",
      "first_name": "Baker",
@@ -2356,15 +2477,15 @@
      "injury": "Questionable"
     },
     {
-     "appearance_id": "31a0b887-361b-4882-85c5-68db342e3f72",
-     "player_id": "7366cd9d-f434-4a89-b28c-f121c69f8666",
-     "first_name": "David",
-     "last_name": "Montgomery",
-     "team": "HOU",
-     "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
-     "position": "RB",
+     "appearance_id": "19f07721-5e6a-44de-85f1-16b96b169828",
+     "player_id": "eb8ed468-74f8-4713-aac4-7280c3e3dbcf",
+     "first_name": "Ja'Kobi",
+     "last_name": "Lane",
+     "team": "BAL",
+     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
+     "position": "WR",
      "adp": 36.0,
-     "injury": "Questionable"
+     "injury": null
     },
     {
      "appearance_id": "70534a8d-d3da-4fb6-8c05-b32d79168ec2",
@@ -2378,15 +2499,26 @@
      "injury": null
     },
     {
-     "appearance_id": "38c03591-82ff-4fb5-8bee-94362f41d325",
-     "player_id": "f9fdd402-4e4f-4625-b168-0f47634a6b1f",
-     "first_name": "Quinshon",
-     "last_name": "Judkins",
-     "team": "CLE",
-     "team_id": "338ae7df-02ad-5a94-9767-60f511bd55e1",
+     "appearance_id": "ca6f7a8e-ecce-4d75-b70a-37568635380c",
+     "player_id": "505405b8-19e0-4e74-9c0a-c29e5c8ae1bb",
+     "first_name": "Jacoby",
+     "last_name": "Brissett",
+     "team": "ARI",
+     "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
+     "position": "QB",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "18dfbdf9-61da-4b58-adba-e1ef0c88d3d9",
+     "player_id": "121cdd7c-b594-425c-864a-365b5e653747",
+     "first_name": "Tony",
+     "last_name": "Pollard",
+     "team": "TEN",
+     "team_id": "f96aa8db-21c2-5b86-b49d-7e64b4eda61d",
      "position": "RB",
      "adp": 36.0,
-     "injury": "Questionable"
+     "injury": null
     },
     {
      "appearance_id": "0450ea8a-3313-4a5a-a08a-8ff6a2782050",
@@ -2455,17 +2587,6 @@
      "injury": null
     },
     {
-     "appearance_id": "19f07721-5e6a-44de-85f1-16b96b169828",
-     "player_id": "eb8ed468-74f8-4713-aac4-7280c3e3dbcf",
-     "first_name": "Ja'Kobi",
-     "last_name": "Lane",
-     "team": "BAL",
-     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
-     "position": "WR",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
      "appearance_id": "6582ff9a-81e1-451e-8e9b-1fad70959da0",
      "player_id": "aff41efa-823a-4bf3-b4bc-4d197adf9e50",
      "first_name": "Evan",
@@ -2510,15 +2631,15 @@
      "injury": null
     },
     {
-     "appearance_id": "18dfbdf9-61da-4b58-adba-e1ef0c88d3d9",
-     "player_id": "121cdd7c-b594-425c-864a-365b5e653747",
-     "first_name": "Tony",
-     "last_name": "Pollard",
-     "team": "TEN",
-     "team_id": "f96aa8db-21c2-5b86-b49d-7e64b4eda61d",
+     "appearance_id": "31a0b887-361b-4882-85c5-68db342e3f72",
+     "player_id": "7366cd9d-f434-4a89-b28c-f121c69f8666",
+     "first_name": "David",
+     "last_name": "Montgomery",
+     "team": "HOU",
+     "team_id": "4ab08caa-b79d-598e-82ef-0906a60d2a89",
      "position": "RB",
      "adp": 36.0,
-     "injury": null
+     "injury": "Questionable"
     },
     {
      "appearance_id": "f79ea546-eaee-4585-a0b2-9e5f91345915",
@@ -2561,6 +2682,17 @@
      "team": "GB",
      "team_id": "a2fadaac-562f-5a7e-bd63-6d88d90c1ac4",
      "position": "WR",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "3fec912d-872c-4e8a-8ea7-07ab04e313b6",
+     "player_id": "221181bd-e4ef-4380-899e-7b2a6aae962b",
+     "first_name": "Josh",
+     "last_name": "Cuevas",
+     "team": "BAL",
+     "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
+     "position": "TE",
      "adp": 36.0,
      "injury": null
     },
