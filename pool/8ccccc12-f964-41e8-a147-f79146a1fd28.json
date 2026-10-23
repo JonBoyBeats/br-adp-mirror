@@ -83,24 +83,6 @@
    "position": "RB"
   },
   {
-   "appearance_id": "1f81654d-ef40-44db-af67-44a6fd2b885e",
-   "player_id": "d74acd73-504a-4c9b-8aa6-fe602de560a8",
-   "first_name": "Keenan",
-   "last_name": "Allen",
-   "team": "IND",
-   "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
-   "position": "WR"
-  },
-  {
-   "appearance_id": "0f82f0ca-0982-43c9-9ad4-a6d010bd5b3a",
-   "player_id": "c45eb3b7-6eee-4d80-82d6-4aaec07940fc",
-   "first_name": "Tyler",
-   "last_name": "Allgeier",
-   "team": "ARI",
-   "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
-   "position": "RB"
-  },
-  {
    "appearance_id": "45cb4c7f-9332-4e6d-ac43-b06c0061ce20",
    "player_id": "512d8d07-85b2-4163-aea0-1b2b0dd25c07",
    "first_name": "Luke",
@@ -708,8 +690,8 @@
    "player_id": "71693042-40f2-413d-b49d-17d923313d7b",
    "first_name": "DeeJay",
    "last_name": "Dallas",
-   "team": "MIN",
-   "team_id": "5af1e185-627e-5345-851d-3c65c5b66614",
+   "team": null,
+   "team_id": null,
    "position": "RB"
   },
   {
@@ -821,15 +803,6 @@
    "position": "WR"
   },
   {
-   "appearance_id": "e46ad4ce-cefe-4421-82eb-b326ffa5b251",
-   "player_id": "1edbae01-fd1f-408a-8b46-7365d293ee71",
-   "first_name": "Josh",
-   "last_name": "Downs",
-   "team": "IND",
-   "team_id": "f11f1cf1-9933-5203-8181-95020ee64399",
-   "position": "WR"
-  },
-  {
    "appearance_id": "a5e7bde3-0a1a-41d9-b6e6-1ca909c3499c",
    "player_id": "a57b6962-7323-4619-a6e8-5d224ccc42f2",
    "first_name": "Dylan",
@@ -837,15 +810,6 @@
    "team": "ATL",
    "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
    "position": "WR"
-  },
-  {
-   "appearance_id": "01c0d908-ddf1-46b6-b52d-3a3f2c6e3368",
-   "player_id": "6e4e0254-03c3-4541-9481-356b99453e96",
-   "first_name": "Greg",
-   "last_name": "Dulcich",
-   "team": "MIA",
-   "team_id": "9153e0a9-da83-5246-ba43-417537f1bcce",
-   "position": "TE"
   },
   {
    "appearance_id": "21e65706-a89b-40e5-9101-8d504e39da85",
@@ -918,6 +882,15 @@
    "team": "CAR",
    "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
    "position": "RB"
+  },
+  {
+   "appearance_id": "0318d51d-09e2-4431-96b8-b2d96dc3ff73",
+   "player_id": "ebed0797-4404-4df7-bb66-1192d89e13d5",
+   "first_name": "Mike",
+   "last_name": "Evans",
+   "team": "SF",
+   "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
+   "position": "WR"
   },
   {
    "appearance_id": "8cd3244b-9b8b-4761-bd86-1b20dde68a93",
@@ -2468,6 +2441,15 @@
    "position": "RB"
   },
   {
+   "appearance_id": "948b3e10-87e0-4080-9c89-ec33a9a1fb0f",
+   "player_id": "63374c3e-26cc-4d22-a77a-e29b8f5b2f4a",
+   "first_name": "Brian",
+   "last_name": "Robinson",
+   "team": "ATL",
+   "team_id": "8699a914-7d44-5a36-b7a6-2063d3ea761f",
+   "position": "RB"
+  },
+  {
    "appearance_id": "728147ac-fe5b-4c06-9a93-b7d26d8809b6",
    "player_id": "35d8246e-40f3-4465-a67d-f09b6d29f466",
    "first_name": "Demarcus",
@@ -2891,15 +2873,6 @@
    "position": "WR"
   },
   {
-   "appearance_id": "ab36b95c-b99e-4cb8-b1e9-5180007b29f3",
-   "player_id": "b51ef827-ba15-4a30-87f5-1a74d1bd84bf",
-   "first_name": "Courtland",
-   "last_name": "Sutton",
-   "team": "DEN",
-   "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
-   "position": "WR"
-  },
-  {
    "appearance_id": "1d98f8c7-1079-4188-8eb8-a74e780cd7ea",
    "player_id": "d3bfa7f1-2be2-4bbb-8d13-c1a8010eeb9a",
    "first_name": "Tua",
@@ -3197,15 +3170,6 @@
    "position": "WR"
   },
   {
-   "appearance_id": "ff54531b-a5e1-4f04-8ee7-9e3a1d1466dd",
-   "player_id": "59875f94-9884-4978-a233-7e86d9c5cfd6",
-   "first_name": "Cam",
-   "last_name": "Ward",
-   "team": "TEN",
-   "team_id": "f96aa8db-21c2-5b86-b49d-7e64b4eda61d",
-   "position": "QB"
-  },
-  {
    "appearance_id": "f7eddbec-f17e-4fc8-b3e0-04685f9a0c33",
    "player_id": "e7b3c934-50a8-4a3a-9f2b-a26cf98542ac",
    "first_name": "Jonathan",
@@ -3357,15 +3321,6 @@
    "team": "CLE",
    "team_id": "338ae7df-02ad-5a94-9767-60f511bd55e1",
    "position": "TE"
-  },
-  {
-   "appearance_id": "0350971a-a877-4b15-bdde-a60d90c2757a",
-   "player_id": "e9c2c7c2-1571-4540-af04-68952b3cee6d",
-   "first_name": "Jordan",
-   "last_name": "Whittington",
-   "team": "LAR",
-   "team_id": "d150534e-6a05-587b-b9e3-50ef86602e20",
-   "position": "WR"
   },
   {
    "appearance_id": "c73bdead-28a4-4091-9dc1-c5121d3d87ac",
