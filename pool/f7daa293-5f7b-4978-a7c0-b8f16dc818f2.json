@@ -212,16 +212,6 @@
    "injury": null
   },
   {
-   "appearance_id": "44dfa2df-69f6-4db4-a7d4-786566dcad53",
-   "player_id": "5b414d8b-0ff3-415e-aa73-0b22745c2187",
-   "first_name": "Dillon",
-   "last_name": "Brooks",
-   "team": "PHX",
-   "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
-   "position": "SF",
-   "injury": null
-  },
-  {
    "appearance_id": "bd2851e5-b4b1-4bfc-ab66-f9444f1e2e1d",
    "player_id": "da121191-705e-4311-8885-bfca127bc7bd",
    "first_name": "Kobe",
@@ -299,16 +289,6 @@
    "team": "BOS",
    "team_id": "8f5852b6-c8dc-4cce-980a-eab09b28919a",
    "position": "PG",
-   "injury": null
-  },
-  {
-   "appearance_id": "41050cbf-2904-4362-ab2e-8e91cd243d9b",
-   "player_id": "0553dfc4-8e08-480d-9702-8e2f710d3dd1",
-   "first_name": "Alex",
-   "last_name": "Caruso",
-   "team": "OKC",
-   "team_id": "f6d5eae0-8f7d-4c63-85b3-b06298f3852c",
-   "position": "SG",
    "injury": null
   },
   {
@@ -519,7 +499,7 @@
    "team": "DEN",
    "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
    "position": "G",
-   "injury": "Doubtful"
+   "injury": "Out"
   },
   {
    "appearance_id": "b69eb41e-5b33-4655-8b93-b766e238de4f",
@@ -922,6 +902,16 @@
    "injury": null
   },
   {
+   "appearance_id": "de0f6d0b-4fa9-4daf-8456-c4da347108dd",
+   "player_id": "877d23bc-4961-4372-bd1c-02cb7d5ba171",
+   "first_name": "Chet",
+   "last_name": "Holmgren",
+   "team": "OKC",
+   "team_id": "f6d5eae0-8f7d-4c63-85b3-b06298f3852c",
+   "position": "C",
+   "injury": "Out"
+  },
+  {
    "appearance_id": "8417a0c5-4322-4b86-9006-2c1e5cfd1689",
    "player_id": "eff56b66-f8cc-4781-a568-cb9a833a2dfb",
    "first_name": "Bryce",
@@ -1309,7 +1299,7 @@
    "team": "IND",
    "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
    "position": "PG",
-   "injury": "Questionable"
+   "injury": "Out"
   },
   {
    "appearance_id": "6f1270e7-bbe0-4b2c-93d3-4766513678ea",
@@ -1449,7 +1439,7 @@
    "team": "IND",
    "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
    "position": "SF",
-   "injury": null
+   "injury": "Probable"
   },
   {
    "appearance_id": "0fa68c82-f793-4d5f-a3d2-9b8de2d18c08",
@@ -1869,7 +1859,7 @@
    "team": "OKC",
    "team_id": "f6d5eae0-8f7d-4c63-85b3-b06298f3852c",
    "position": "C",
-   "injury": null
+   "injury": "Out"
   },
   {
    "appearance_id": "04718459-6865-4ea7-9ec4-fd210abd1b2d",
@@ -1909,7 +1899,7 @@
    "team": "MEM",
    "team_id": "56a5d8c8-eb72-47db-9e93-5b24d8f5443a",
    "position": "C",
-   "injury": null
+   "injury": "Questionable"
   },
   {
    "appearance_id": "e8d67562-e8a0-48bb-9904-16ae89aea642",
@@ -2009,7 +1999,7 @@
    "team": "OKC",
    "team_id": "f6d5eae0-8f7d-4c63-85b3-b06298f3852c",
    "position": "PG",
-   "injury": null
+   "injury": "Out"
   },
   {
    "appearance_id": "b6a2383e-1d12-4f4f-9117-53f0ed33f278",
@@ -2232,16 +2222,6 @@
    "injury": "Out"
   },
   {
-   "appearance_id": "45fdf067-d014-41f6-9a8c-9a4f5ac5d34f",
-   "player_id": "24d4f912-b73a-4920-802d-63f286fc1fc4",
-   "first_name": "Jaylin",
-   "last_name": "Williams",
-   "team": "OKC",
-   "team_id": "f6d5eae0-8f7d-4c63-85b3-b06298f3852c",
-   "position": "PF",
-   "injury": null
-  },
-  {
    "appearance_id": "c9cde884-32f3-4e0c-962a-65a154466a73",
    "player_id": "c3468611-d22f-4b3c-888e-a8f59081900f",
    "first_name": "Kenrich",
@@ -2300,6 +2280,16 @@
    "team_id": "f15a9fdd-f178-42ff-aab6-63b9198a34c8",
    "position": "C",
    "injury": null
+  },
+  {
+   "appearance_id": "41fb3f0e-0109-4c09-aff3-b10879a21aa7",
+   "player_id": "65ee4627-6193-4614-8ec6-b9b4a98ee9e8",
+   "first_name": "Ivica",
+   "last_name": "Zubac",
+   "team": "IND",
+   "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
+   "position": "C",
+   "injury": "Out"
   }
  ]
 }
