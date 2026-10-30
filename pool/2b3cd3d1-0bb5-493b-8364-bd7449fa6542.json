@@ -189,7 +189,7 @@
    "team": "UTAH",
    "team_id": "1e12318e-b847-4746-94ca-41d2d887e7fc",
    "position": "TE",
-   "injury": "Questionable"
+   "injury": null
   },
   {
    "appearance_id": "6baef15f-5d12-4902-b197-a0477147108b",
@@ -1519,7 +1519,7 @@
    "team": "TCU",
    "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
    "position": "WR",
-   "injury": null
+   "injury": "Out"
   },
   {
    "appearance_id": "b4ef82f5-2f6b-4ad0-b631-0c0d3acc1e3e",
@@ -1749,7 +1749,7 @@
    "team": "TTU",
    "team_id": "d8c72ef1-b248-4e6a-84d0-beb9b5f99392",
    "position": "RB",
-   "injury": "Questionable"
+   "injury": "Probable"
   },
   {
    "appearance_id": "8af90a99-5ae1-459f-8a70-e72584f5fae8",
@@ -3002,6 +3002,16 @@
    "injury": null
   },
   {
+   "appearance_id": "f7750d2d-2a1e-454f-bf12-e78c27868cc3",
+   "player_id": "c3b1cef7-8c49-480c-a64a-16bfe6da7b85",
+   "first_name": "Dierre",
+   "last_name": "Hill",
+   "team": "ORE",
+   "team_id": "365198b9-4772-4198-b1ab-614c5b24ee73",
+   "position": "RB",
+   "injury": null
+  },
+  {
    "appearance_id": "e5d92aec-3cd5-4cd2-a637-7e212c3e2c8f",
    "player_id": "e5ccd070-5540-4f69-a8d8-212fd1f5e7be",
    "first_name": "Tylik",
@@ -3132,16 +3142,6 @@
    "injury": null
   },
   {
-   "appearance_id": "bd6d3d3e-bfc1-4606-ae1a-50d85b91f240",
-   "player_id": "2453d086-fba3-4694-a21a-af2928787d5b",
-   "first_name": "London",
-   "last_name": "Humphreys",
-   "team": "UGA",
-   "team_id": "b7eddd06-91a2-47b0-8813-8b1ef4ddb287",
-   "position": "WR",
-   "injury": null
-  },
-  {
    "appearance_id": "8543f955-33eb-468f-b9d9-626f5c56d7a8",
    "player_id": "5746e212-57a1-4816-b9b2-3b438d541538",
    "first_name": "Brady",
@@ -3159,7 +3159,7 @@
    "team": "ARIZ",
    "team_id": "9e85ca91-d87e-4a78-8726-8482c731e48e",
    "position": "WR",
-   "injury": "Questionable"
+   "injury": "Probable"
   },
   {
    "appearance_id": "c71c4147-bad1-4194-9f36-14022d2d7a66",
@@ -4369,7 +4369,7 @@
    "team": "KU",
    "team_id": "780d1c04-6749-4b79-9c64-aa35a08146ab",
    "position": "QB",
-   "injury": "Probable"
+   "injury": "Questionable"
   },
   {
    "appearance_id": "e3ece510-491f-4961-8eb1-e8bb9f8b96cd",
@@ -4459,16 +4459,6 @@
    "team": "IND",
    "team_id": "90e5da89-02d6-4bdb-a1ac-f98448075412",
    "position": "WR",
-   "injury": null
-  },
-  {
-   "appearance_id": "be13e69e-e7c4-4069-ab9d-7f92a3d27ddf",
-   "player_id": "e7bf3723-979c-4f0f-a80d-bcff875f1ba8",
-   "first_name": "John",
-   "last_name": "Mateer",
-   "team": "OKLA",
-   "team_id": "98c5d11a-1488-4d98-9110-80f813491bd2",
-   "position": "QB",
    "injury": null
   },
   {
@@ -4750,6 +4740,16 @@
    "team_id": "9a9e2475-8506-4174-8f17-f5124d289a35",
    "position": "TE",
    "injury": null
+  },
+  {
+   "appearance_id": "689716c0-cf70-4247-95a2-625ac5e83788",
+   "player_id": "beaae26c-c7d4-40f3-8d3a-18d2dd1dcb0f",
+   "first_name": "Jekail",
+   "last_name": "Middlebrook",
+   "team": "UVA",
+   "team_id": "62a8e89a-fe26-4ce3-b03e-20fb903d8df3",
+   "position": "RB",
+   "injury": "Out"
   },
   {
    "appearance_id": "ea74b944-f02c-459f-8348-59e153fdd1c0",
@@ -5569,7 +5569,7 @@
    "team": "TCU",
    "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
    "position": "RB",
-   "injury": "Doubtful"
+   "injury": "Out"
   },
   {
    "appearance_id": "2e9600ed-4848-4f6c-ad64-51414ed0aa51",
@@ -6139,7 +6139,7 @@
    "team": "ARIZ",
    "team_id": "9e85ca91-d87e-4a78-8726-8482c731e48e",
    "position": "WR",
-   "injury": "Questionable"
+   "injury": "Probable"
   },
   {
    "appearance_id": "29c7fb61-5645-4baa-9174-0469bae71428",
@@ -6639,7 +6639,7 @@
    "team": "TCU",
    "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
    "position": "WR",
-   "injury": null
+   "injury": "Out"
   },
   {
    "appearance_id": "6cdb0db0-cd5c-460c-b1f4-9528b84255be",
@@ -6748,16 +6748,6 @@
    "last_name": "Singleton",
    "team": "FLA",
    "team_id": "c2aa79df-1ace-44ec-a99d-beb35edfea44",
-   "position": "WR",
-   "injury": null
-  },
-  {
-   "appearance_id": "e544b6ce-2e95-4263-8834-e8a39fe8ee03",
-   "player_id": "52f822ef-9040-4257-9c51-7cebb38b6cc0",
-   "first_name": "Ed",
-   "last_name": "Small",
-   "team": "TCU",
-   "team_id": "b7e00343-267d-45f9-8fcb-9574a932ee64",
    "position": "WR",
    "injury": null
   },
@@ -8049,7 +8039,7 @@
    "team": "UTAH",
    "team_id": "1e12318e-b847-4746-94ca-41d2d887e7fc",
    "position": "WR",
-   "injury": "Out"
+   "injury": null
   },
   {
    "appearance_id": "5d04f535-f956-45de-a4b8-0eec5dacebba",
