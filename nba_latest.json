@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T20:24:11Z",
+ "generated_at": "2026-11-03T21:23:55Z",
  "baseline_cutoff": "2026-11-03T17:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "ab9f4813-7f87-411b-9ec4-1159092e569d",
    "title": "Wed Late Slate",
    "cutoff": "2026-11-05T02:52:00Z",
-   "snapshot_utc": "2026-11-03T202326Z",
+   "snapshot_utc": "2026-11-03T212312Z",
    "players": [],
    "tagged": [
     {
@@ -112,7 +112,21 @@
      "injury": "Out"
     }
    ],
-   "contests": [],
+   "contests": [
+    {
+     "contest_style_id": "600d4716-261c-4c4e-9c17-1771a4334696",
+     "cutoff_at": "2026-11-05T02:47:00Z",
+     "description": "4 person drafts - $500 to first!",
+     "entry_count": 12,
+     "first_seen": "2026-11-03T21:23:12.806307+00:00",
+     "last_seen": "2026-11-03T21:23:12.806307+00:00",
+     "max_entries": 13,
+     "slug": "layup-line-after-dark-11-04-2026",
+     "status": "unfilled",
+     "title": "Layup Line After Dark",
+     "id": "05480107-9954-44bb-8e45-4c127c46792c"
+    }
+   ],
    "baseline": null,
    "pool": "pool/ab9f4813-7f87-411b-9ec4-1159092e569d.json"
   },
@@ -122,7 +136,7 @@
    "slate_id": "b354c136-a09c-43f8-a21f-eb7c97cdb9a0",
    "title": "Wed Main Slate",
    "cutoff": "2026-11-04T23:52:00Z",
-   "snapshot_utc": "2026-11-03T202326Z",
+   "snapshot_utc": "2026-11-03T212312Z",
    "players": [],
    "tagged": [
     {
@@ -187,6 +201,26 @@
     },
     {
      "appearance_id": null,
+     "player_id": "8e9726e9-ed27-4e4b-8c4a-9b7971094472",
+     "first_name": "Payton",
+     "last_name": "Pritchard",
+     "team": "BOS",
+     "team_id": "8f5852b6-c8dc-4cce-980a-eab09b28919a",
+     "position": "PG",
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": null,
+     "player_id": "280a5afc-a318-428e-8d67-3f1e13232277",
+     "first_name": "Jayson",
+     "last_name": "Tatum",
+     "team": "BOS",
+     "team_id": "8f5852b6-c8dc-4cce-980a-eab09b28919a",
+     "position": "PF",
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": null,
      "player_id": "1d61e4a8-2779-44d1-9aee-7b94319e855d",
      "first_name": "Kon",
      "last_name": "Knueppel",
@@ -214,6 +248,16 @@
      "team_id": "8ee0305d-067f-45e5-8586-1c111d3a43ec",
      "position": "C",
      "injury": "Questionable"
+    },
+    {
+     "appearance_id": null,
+     "player_id": "1dc5f283-636c-4460-b9a2-c96298249439",
+     "first_name": "Jalen",
+     "last_name": "Smith",
+     "team": "CHI",
+     "team_id": "8ee0305d-067f-45e5-8586-1c111d3a43ec",
+     "position": "C",
+     "injury": "Probable"
     },
     {
      "appearance_id": null,
@@ -323,7 +367,7 @@
      "team": "DET",
      "team_id": "47f5f48d-3d14-46f3-b6dc-1e7b4dfb1e69",
      "position": "SG",
-     "injury": "Questionable"
+     "injury": "Out"
     },
     {
      "appearance_id": null,
@@ -846,7 +890,21 @@
      "injury": "Out"
     }
    ],
-   "contests": [],
+   "contests": [
+    {
+     "contest_style_id": "600d4716-261c-4c4e-9c17-1771a4334696",
+     "cutoff_at": "2026-11-04T23:41:00Z",
+     "description": "6 person drafts - $1k to first!",
+     "entry_count": 36,
+     "first_seen": "2026-11-03T21:23:12.806307+00:00",
+     "last_seen": "2026-11-03T21:23:12.806307+00:00",
+     "max_entries": 33,
+     "slug": "the-layup-line-11-04-2026",
+     "status": "unfilled",
+     "title": "The Layup Line",
+     "id": "4d78d2e1-77c1-4444-93c0-668d14563fb9"
+    }
+   ],
    "baseline": null,
    "pool": "pool/b354c136-a09c-43f8-a21f-eb7c97cdb9a0.json"
   }
