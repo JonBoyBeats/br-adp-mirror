@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T21:23:54Z",
+ "generated_at": "2026-11-05T22:15:39Z",
  "baseline_cutoff": "2026-11-05T17:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "fae15d75-0239-4ba6-ba6f-bb5c22edfe46",
    "title": "Fri Late Slate",
    "cutoff": "2026-11-07T02:52:00Z",
-   "snapshot_utc": "2026-11-05T212328Z",
+   "snapshot_utc": "2026-11-05T221519Z",
    "players": [],
    "tagged": [
     {
@@ -112,7 +112,7 @@
    "slate_id": "e0ecb7cc-7096-44b9-a113-d4d668bef95f",
    "title": "Fri Main Slate",
    "cutoff": "2026-11-06T23:52:00Z",
-   "snapshot_utc": "2026-11-05T212328Z",
+   "snapshot_utc": "2026-11-05T221519Z",
    "players": [],
    "tagged": [
     {
@@ -143,7 +143,7 @@
      "team": "ATL",
      "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
      "position": "C",
-     "injury": "Questionable"
+     "injury": "Out"
     },
     {
      "appearance_id": null,
@@ -153,7 +153,7 @@
      "team": "ATL",
      "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
      "position": "PF",
-     "injury": "Questionable"
+     "injury": "Out"
     },
     {
      "appearance_id": null,
@@ -187,12 +187,32 @@
     },
     {
      "appearance_id": null,
+     "player_id": "35eb0d47-4057-42b2-9586-07417f1f008f",
+     "first_name": "Moussa",
+     "last_name": "Diabate",
+     "team": "CHA",
+     "team_id": "11cfe154-8ba6-4c22-be8f-2365656fb4da",
+     "position": "C",
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": null,
      "player_id": "1d61e4a8-2779-44d1-9aee-7b94319e855d",
      "first_name": "Kon",
      "last_name": "Knueppel",
      "team": "CHA",
      "team_id": "11cfe154-8ba6-4c22-be8f-2365656fb4da",
      "position": "SF",
+     "injury": "Out"
+    },
+    {
+     "appearance_id": null,
+     "player_id": "9bd2c1c6-76a2-4dff-bba0-3c83a075c3c0",
+     "first_name": "Dennis",
+     "last_name": "Schroder",
+     "team": "CHA",
+     "team_id": "11cfe154-8ba6-4c22-be8f-2365656fb4da",
+     "position": "PG",
      "injury": "Questionable"
     },
     {
@@ -217,6 +237,16 @@
     },
     {
      "appearance_id": null,
+     "player_id": "61577381-4073-475c-99ff-5edac21e64b4",
+     "first_name": "Tyrese",
+     "last_name": "Proctor",
+     "team": "CLE",
+     "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
+     "position": "PG",
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": null,
      "player_id": "23a85c4d-6953-4740-ad9d-4b930bee24c3",
      "first_name": "Nae'Qwan",
      "last_name": "Tomlin",
@@ -233,7 +263,7 @@
      "team": "CLE",
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "SG",
-     "injury": "Questionable"
+     "injury": "Out"
     },
     {
      "appearance_id": null,
@@ -437,6 +467,16 @@
     },
     {
      "appearance_id": null,
+     "player_id": "a1d68037-acec-4596-ad56-9cea344c3854",
+     "first_name": "Adem",
+     "last_name": "Bona",
+     "team": "PHI",
+     "team_id": "4dd50e92-0a87-4a6a-bb5d-31c36d88ae72",
+     "position": "C",
+     "injury": "Doubtful"
+    },
+    {
+     "appearance_id": null,
      "player_id": "d946c1af-2a25-4459-8aaa-2236fb3e7ae7",
      "first_name": "Ariel",
      "last_name": "Hukporti",
@@ -597,6 +637,16 @@
     },
     {
      "appearance_id": null,
+     "player_id": "b612acf0-6267-48a2-ac48-f52d45c27ece",
+     "first_name": "Anthony",
+     "last_name": "Davis",
+     "team": "WAS",
+     "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
+     "position": "PF",
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": null,
      "player_id": "2c7dfe51-32a5-473f-a1f2-118ff636c216",
      "first_name": "Tristan",
      "last_name": "Vukcevic",
@@ -626,7 +676,7 @@
    "slate_id": "4e00dae7-b4c9-44c1-a760-ce995a5f45e3",
    "title": "Thu Main Slate",
    "cutoff": "2026-11-06T01:52:00Z",
-   "snapshot_utc": "2026-11-05T212328Z",
+   "snapshot_utc": "2026-11-05T221519Z",
    "players": [
     {
      "appearance_id": "be44ae69-4163-4559-ae06-40239f8413ab",
@@ -790,7 +840,7 @@
      "team": "MIA",
      "team_id": "4ea17ce5-80e9-47b3-9955-2729a02bbe92",
      "position": "SF",
-     "adp": 15.7,
+     "adp": 15.6,
      "injury": null
     },
     {
@@ -823,7 +873,7 @@
      "team": "ORL",
      "team_id": "27c02dfc-343a-432b-8a64-c963035b609d",
      "position": "SF",
-     "adp": 18.1,
+     "adp": 18.0,
      "injury": null
     },
     {
@@ -845,7 +895,7 @@
      "team": "MIA",
      "team_id": "4ea17ce5-80e9-47b3-9955-2729a02bbe92",
      "position": "SF",
-     "adp": 20.0,
+     "adp": 20.1,
      "injury": null
     },
     {
@@ -856,7 +906,7 @@
      "team": "MIA",
      "team_id": "4ea17ce5-80e9-47b3-9955-2729a02bbe92",
      "position": "SG",
-     "adp": 20.3,
+     "adp": 20.2,
      "injury": null
     },
     {
@@ -1047,17 +1097,6 @@
      "injury": null
     },
     {
-     "appearance_id": "ac040a4f-9321-4cfb-bf7d-990b2fce6504",
-     "player_id": "52c0d261-0356-4fac-a16a-f75057496f4c",
-     "first_name": "Rasheer",
-     "last_name": "Fleming",
-     "team": "PHX",
-     "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
-     "position": "PF",
-     "adp": 24.0,
-     "injury": "Questionable"
-    },
-    {
      "appearance_id": "4b57bfdc-a5b2-4f4e-b7a6-1ae4871545b2",
      "player_id": "3138033d-1cc0-4489-b376-3ebe1277e982",
      "first_name": "Ryan",
@@ -1065,6 +1104,17 @@
      "team": "PHX",
      "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
      "position": "SF",
+     "adp": 24.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "7267374b-f095-4cd0-8a56-0d979ff1ee29",
+     "player_id": "3de87fd0-37ad-4611-a88d-0ec2732bf7b7",
+     "first_name": "Ryan",
+     "last_name": "Conwell",
+     "team": "MIA",
+     "team_id": "4ea17ce5-80e9-47b3-9955-2729a02bbe92",
+     "position": "SG",
      "adp": 24.0,
      "injury": null
     },
@@ -1089,6 +1139,17 @@
      "position": "F",
      "adp": 24.0,
      "injury": null
+    },
+    {
+     "appearance_id": "ac040a4f-9321-4cfb-bf7d-990b2fce6504",
+     "player_id": "52c0d261-0356-4fac-a16a-f75057496f4c",
+     "first_name": "Rasheer",
+     "last_name": "Fleming",
+     "team": "PHX",
+     "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
+     "position": "PF",
+     "adp": 24.0,
+     "injury": "Questionable"
     }
    ],
    "tagged": [
@@ -1381,13 +1442,17 @@
       [
        "2026-11-05T21:23Z",
        129
+      ],
+      [
+       "2026-11-05T22:15Z",
+       159
       ]
      ],
      "cutoff_at": "2026-11-06T01:47:00Z",
      "description": "5 entry max - $2k to first!",
-     "entry_count": 129,
+     "entry_count": 159,
      "first_seen": "2026-11-05T05:23:28.431621+00:00",
-     "last_seen": "2026-11-05T21:23:28.297318+00:00",
+     "last_seen": "2026-11-05T22:15:19.299698+00:00",
      "max_entries": 5,
      "slug": "the-crossover-11-05-2026",
      "status": "unfilled",
@@ -1559,13 +1624,17 @@
       [
        "2026-11-05T21:23Z",
        96
+      ],
+      [
+       "2026-11-05T22:15Z",
+       108
       ]
      ],
      "cutoff_at": "2026-11-06T01:47:00Z",
      "description": "4 person drafts - Admin",
-     "entry_count": 96,
+     "entry_count": 108,
      "first_seen": "2026-11-05T17:23:31.471512+00:00",
-     "last_seen": "2026-11-05T21:23:28.297318+00:00",
+     "last_seen": "2026-11-05T22:15:19.299698+00:00",
      "max_entries": 10,
      "slug": "ud-happy-hour-hoops-11-05-2026",
      "status": "unfilled",
@@ -1654,13 +1723,17 @@
       [
        "2026-11-05T21:23Z",
        2330
+      ],
+      [
+       "2026-11-05T22:15Z",
+       2664
       ]
      ],
      "cutoff_at": "2026-11-06T01:47:00Z",
      "description": "20 entry max - $2k to first!",
-     "entry_count": 2330,
+     "entry_count": 2664,
      "first_seen": "2026-11-05T05:23:28.431621+00:00",
-     "last_seen": "2026-11-05T21:23:28.297318+00:00",
+     "last_seen": "2026-11-05T22:15:19.299698+00:00",
      "max_entries": 20,
      "slug": "buzzer-beater-11-05-2026",
      "status": "unfilled",
@@ -1749,13 +1822,17 @@
       [
        "2026-11-05T21:23Z",
        7493
+      ],
+      [
+       "2026-11-05T22:15Z",
+       8415
       ]
      ],
      "cutoff_at": "2026-11-06T01:47:00Z",
      "description": "4 person drafts - $7k to first!",
-     "entry_count": 7493,
+     "entry_count": 8415,
      "first_seen": "2026-11-05T05:23:28.431621+00:00",
-     "last_seen": "2026-11-05T21:23:28.297318+00:00",
+     "last_seen": "2026-11-05T22:15:19.299698+00:00",
      "max_entries": 150,
      "slug": "thursday-night-hoops-11-05-2026",
      "status": "unfilled",
