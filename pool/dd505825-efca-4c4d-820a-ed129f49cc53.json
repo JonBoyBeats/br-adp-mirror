@@ -72,16 +72,6 @@
    "injury": "Out"
   },
   {
-   "appearance_id": "cf265409-0a7a-456c-b38c-7d0790854538",
-   "player_id": "5d7ad076-721d-457c-9ca8-fc7d101e8929",
-   "first_name": "Kaelon",
-   "last_name": "Black",
-   "team": "SF",
-   "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
-   "position": "RB",
-   "injury": null
-  },
-  {
    "appearance_id": "5bf9eda7-991e-4072-b461-f1212711e245",
    "player_id": "0c99e47c-9d97-4290-9021-3671087503e0",
    "first_name": "Jake",
@@ -542,16 +532,6 @@
    "injury": null
   },
   {
-   "appearance_id": "84341bf7-1d47-4e51-82d9-15e138290e29",
-   "player_id": "d78f8b26-1823-4f49-be34-b9eadd252c3c",
-   "first_name": "Justin",
-   "last_name": "Herbert",
-   "team": "LAC",
-   "team_id": "c7b497d4-18b6-522b-abaa-e5c3d24bc021",
-   "position": "QB",
-   "injury": null
-  },
-  {
    "appearance_id": "9686e7f0-ac12-42b0-a96e-de44433c3d54",
    "player_id": "89ddb0fb-14a4-4570-88d9-a525b372ab24",
    "first_name": "Patrick",
@@ -809,7 +789,7 @@
    "team": "SF",
    "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
    "position": "WR",
-   "injury": null
+   "injury": "Questionable"
   },
   {
    "appearance_id": "98b47c94-f75d-417e-b35c-19e659ba4c6c",
@@ -839,16 +819,6 @@
    "team": "LAC",
    "team_id": "c7b497d4-18b6-522b-abaa-e5c3d24bc021",
    "position": "TE",
-   "injury": null
-  },
-  {
-   "appearance_id": "a3cdc787-e56e-4cf2-952c-a3422e37b93e",
-   "player_id": "c5719ef0-3dcc-4740-84af-ef600d160bd9",
-   "first_name": "Cooper",
-   "last_name": "Kupp",
-   "team": "SEA",
-   "team_id": "31631011-5902-52f6-ba01-c4c8d8eb3fd9",
-   "position": "WR",
    "injury": null
   },
   {
@@ -1232,32 +1202,12 @@
    "injury": "Out"
   },
   {
-   "appearance_id": "69d72ec9-5224-48f9-b7f2-ab399900001e",
-   "player_id": "bf4e5ec9-fa5f-4dfe-96e7-5a936362ec97",
-   "first_name": "Jadarian",
-   "last_name": "Price",
-   "team": "SEA",
-   "team_id": "31631011-5902-52f6-ba01-c4c8d8eb3fd9",
-   "position": "RB",
-   "injury": null
-  },
-  {
    "appearance_id": "22fe4700-e9a7-4fc8-b490-9465b42ca878",
    "player_id": "61e751b2-ed75-46b6-9cc1-8cd44c830194",
    "first_name": "Teagan",
    "last_name": "Quitoriano",
    "team": "ARI",
    "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
-   "position": "TE",
-   "injury": null
-  },
-  {
-   "appearance_id": "a3c5ca8b-f43e-47ff-a65c-9f59bb9bc851",
-   "player_id": "2d216fff-284d-4e8b-be0d-466e8dac63ca",
-   "first_name": "Eli",
-   "last_name": "Raridon",
-   "team": "NE",
-   "team_id": "ef876de9-81ac-5e60-af6e-0ca1700f3a51",
    "position": "TE",
    "injury": null
   },
@@ -1326,8 +1276,8 @@
    "player_id": "92472ea8-d449-4926-8c57-b816fa82bfb8",
    "first_name": "Carter",
    "last_name": "Runyon",
-   "team": "LV",
-   "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
+   "team": null,
+   "team_id": null,
    "position": "TE",
    "injury": null
   },
@@ -1489,7 +1439,7 @@
    "team": "LV",
    "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
    "position": "TE",
-   "injury": "Questionable"
+   "injury": null
   },
   {
    "appearance_id": "1ac6801b-b9cd-48a1-9ddc-b1a380ce3825",
@@ -1519,7 +1469,7 @@
    "team": "LV",
    "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
    "position": "WR",
-   "injury": null
+   "injury": "Questionable"
   },
   {
    "appearance_id": "400baa22-40d3-4145-b70e-a7baf324b267",
@@ -1582,16 +1532,6 @@
    "injury": null
   },
   {
-   "appearance_id": "af9e55f6-a209-48f4-86b3-3cd5a48e1ea5",
-   "player_id": "eec7c936-d768-4635-9c46-d3c68d0e0616",
-   "first_name": "Jordan",
-   "last_name": "Watkins",
-   "team": "SF",
-   "team_id": "7161e62b-de20-56e2-a300-0dc23637faaa",
-   "position": "WR",
-   "injury": null
-  },
-  {
    "appearance_id": "cd7a476f-a774-470c-984e-5bfc4b85d6b5",
    "player_id": "b181f433-8f54-47cb-9bfd-d0ccbd906704",
    "first_name": "Theo",
@@ -1606,8 +1546,8 @@
    "player_id": "87d6d591-514f-446a-8cce-63b8befc4ae0",
    "first_name": "Cody",
    "last_name": "White",
-   "team": null,
-   "team_id": null,
+   "team": "LV",
+   "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
    "position": "WR",
    "injury": null
   },
