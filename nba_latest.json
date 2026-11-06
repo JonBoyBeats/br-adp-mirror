@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:14:49Z",
+ "generated_at": "2026-11-06T16:23:28Z",
  "baseline_cutoff": "2026-11-05T17:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "fae15d75-0239-4ba6-ba6f-bb5c22edfe46",
    "title": "Fri Late Slate",
    "cutoff": "2026-11-07T02:52:00Z",
-   "snapshot_utc": "2026-11-06T161418Z",
+   "snapshot_utc": "2026-11-06T162258Z",
    "players": [],
    "tagged": [
     {
@@ -112,7 +112,7 @@
    "slate_id": "e0ecb7cc-7096-44b9-a113-d4d668bef95f",
    "title": "Fri Main Slate",
    "cutoff": "2026-11-06T23:52:00Z",
-   "snapshot_utc": "2026-11-06T161418Z",
+   "snapshot_utc": "2026-11-06T162258Z",
    "players": [
     {
      "appearance_id": "6ef234c6-7668-411d-8b01-8faf07d22eb4",
@@ -819,17 +819,6 @@
      "injury": null
     },
     {
-     "appearance_id": "c5cf27f3-cd03-4c46-9ba3-1c0bf92564b3",
-     "player_id": "d2af4c28-4c1d-42b3-ae03-953e8ee540a9",
-     "first_name": "Daniel",
-     "last_name": "Gafford",
-     "team": "DAL",
-     "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
-     "position": "C",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
      "appearance_id": "43eddd4d-3479-4e0d-9c68-058f05674447",
      "player_id": "9e719478-77ae-485a-912c-17dba230ed8a",
      "first_name": "Jrue",
@@ -837,6 +826,17 @@
      "team": "POR",
      "team_id": "0b3fe726-7730-492a-aa50-20413a5c8dae",
      "position": "PG",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "c5cf27f3-cd03-4c46-9ba3-1c0bf92564b3",
+     "player_id": "d2af4c28-4c1d-42b3-ae03-953e8ee540a9",
+     "first_name": "Daniel",
+     "last_name": "Gafford",
+     "team": "DAL",
+     "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
+     "position": "C",
      "adp": 36.0,
      "injury": null
     },
@@ -929,17 +929,6 @@
      "injury": null
     },
     {
-     "appearance_id": "5f978ef1-aecf-4c9b-b204-78693bc3dd87",
-     "player_id": "10aea39a-7f45-4923-80ef-146aa9edca16",
-     "first_name": "Zach",
-     "last_name": "LaVine",
-     "team": "SAC",
-     "team_id": "f97fdf6e-8328-4000-ba49-0b2ce0beae71",
-     "position": "SG",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
      "appearance_id": "1a5da95c-7453-4a2f-928d-583e5f4c4eb5",
      "player_id": "37cd1ca3-e387-4e85-a96f-74907b7e5d29",
      "first_name": "Myles",
@@ -947,6 +936,17 @@
      "team": "MIL",
      "team_id": "e142b705-dd0a-4803-8cde-a35788a65341",
      "position": "C",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "5f978ef1-aecf-4c9b-b204-78693bc3dd87",
+     "player_id": "10aea39a-7f45-4923-80ef-146aa9edca16",
+     "first_name": "Zach",
+     "last_name": "LaVine",
+     "team": "SAC",
+     "team_id": "f97fdf6e-8328-4000-ba49-0b2ce0beae71",
+     "position": "SG",
      "adp": 36.0,
      "injury": null
     },
@@ -1591,13 +1591,17 @@
       [
        "2026-11-06T16:14Z",
        54
+      ],
+      [
+       "2026-11-06T16:22Z",
+       56
       ]
      ],
      "cutoff_at": "2026-11-06T23:41:00Z",
      "description": "5 entry max - $2k to first!",
-     "entry_count": 54,
+     "entry_count": 56,
      "first_seen": "2026-11-06T04:22:59.389427+00:00",
-     "last_seen": "2026-11-06T16:14:18.051650+00:00",
+     "last_seen": "2026-11-06T16:22:58.764027+00:00",
      "max_entries": 5,
      "slug": "the-crossover-11-06-2026",
      "status": "unfilled",
@@ -1666,13 +1670,17 @@
       [
        "2026-11-06T16:14Z",
        3978
+      ],
+      [
+       "2026-11-06T16:22Z",
+       4080
       ]
      ],
      "cutoff_at": "2026-11-06T23:41:00Z",
      "description": "6 person drafts - $7k to first!",
-     "entry_count": 3978,
+     "entry_count": 4080,
      "first_seen": "2026-11-06T04:22:59.389427+00:00",
-     "last_seen": "2026-11-06T16:14:18.051650+00:00",
+     "last_seen": "2026-11-06T16:22:58.764027+00:00",
      "max_entries": 150,
      "slug": "fast-break-friday-11-06-2026",
      "status": "unfilled",
@@ -1741,13 +1749,17 @@
       [
        "2026-11-06T16:14Z",
        2
+      ],
+      [
+       "2026-11-06T16:22Z",
+       2
       ]
      ],
      "cutoff_at": "2026-11-06T23:41:00Z",
      "description": "Single Entry - $1.5k to first!",
      "entry_count": 2,
      "first_seen": "2026-11-06T04:22:59.389427+00:00",
-     "last_seen": "2026-11-06T16:14:18.051650+00:00",
+     "last_seen": "2026-11-06T16:22:58.764027+00:00",
      "max_entries": 1,
      "slug": "pick-roll-11-06-2026",
      "status": "unfilled",
@@ -1824,13 +1836,17 @@
       [
        "2026-11-06T16:14Z",
        404
+      ],
+      [
+       "2026-11-06T16:22Z",
+       420
       ]
      ],
      "cutoff_at": "2026-11-06T23:41:00Z",
      "description": "6 person drafts - $1k to first!",
-     "entry_count": 404,
+     "entry_count": 420,
      "first_seen": "2026-11-06T02:23:31.518975+00:00",
-     "last_seen": "2026-11-06T16:14:18.051650+00:00",
+     "last_seen": "2026-11-06T16:22:58.764027+00:00",
      "max_entries": 33,
      "slug": "the-layup-line-11-06-2026",
      "status": "unfilled",
@@ -1899,13 +1915,17 @@
       [
        "2026-11-06T16:14Z",
        1249
+      ],
+      [
+       "2026-11-06T16:22Z",
+       1277
       ]
      ],
      "cutoff_at": "2026-11-06T23:41:00Z",
      "description": "20 entry max - $1k to first!",
-     "entry_count": 1249,
+     "entry_count": 1277,
      "first_seen": "2026-11-06T04:22:59.389427+00:00",
-     "last_seen": "2026-11-06T16:14:18.051650+00:00",
+     "last_seen": "2026-11-06T16:22:58.764027+00:00",
      "max_entries": 20,
      "slug": "buzzer-beater-11-06-2026",
      "status": "unfilled",
@@ -1922,7 +1942,7 @@
    "slate_id": "2bc7850e-93e7-4061-b7df-152611f21c40",
    "title": "Sat Main Slate",
    "cutoff": "2026-11-08T00:22:00Z",
-   "snapshot_utc": "2026-11-06T161418Z",
+   "snapshot_utc": "2026-11-06T162258Z",
    "players": [],
    "tagged": [
     {
