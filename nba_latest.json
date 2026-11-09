@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T03:24:01Z",
+ "generated_at": "2026-11-09T04:23:49Z",
  "baseline_cutoff": "2026-11-08T17:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "aa501f93-ff5a-4e72-9f15-77440fc8855f",
    "title": "Mon Main Slate",
    "cutoff": "2026-11-09T23:52:00Z",
-   "snapshot_utc": "2026-11-09T032337Z",
+   "snapshot_utc": "2026-11-09T042317Z",
    "players": [
     {
      "appearance_id": "91d2a994-9bf9-4b01-a8c0-c7a162b02877",
@@ -18,7 +18,7 @@
      "team": "SAS",
      "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
      "position": "C",
-     "adp": 1.7,
+     "adp": 1.4,
      "injury": null
     },
     {
@@ -40,7 +40,7 @@
      "team": "DEN",
      "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
      "position": "C",
-     "adp": 2.9,
+     "adp": 3.1,
      "injury": "Questionable"
     },
     {
@@ -51,7 +51,7 @@
      "team": "DET",
      "team_id": "47f5f48d-3d14-46f3-b6dc-1e7b4dfb1e69",
      "position": "PG",
-     "adp": 4.5,
+     "adp": 4.6,
      "injury": null
     },
     {
@@ -62,7 +62,7 @@
      "team": "DAL",
      "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
      "position": "SF",
-     "adp": 5.5,
+     "adp": 5.1,
      "injury": null
     },
     {
@@ -73,7 +73,7 @@
      "team": "ATL",
      "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
      "position": "SF",
-     "adp": 6.6,
+     "adp": 6.2,
      "injury": null
     },
     {
@@ -84,7 +84,7 @@
      "team": "GSW",
      "team_id": "d399490e-0df0-4c33-b7c2-fafdadc3a4eb",
      "position": "PG",
-     "adp": 7.3,
+     "adp": 7.5,
      "injury": null
     },
     {
@@ -95,7 +95,18 @@
      "team": "HOU",
      "team_id": "09540cc3-fc27-4a59-b7a6-7a63f0e1df95",
      "position": "C",
-     "adp": 8.2,
+     "adp": 8.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "d6a8d110-65f8-4032-8aaf-16833b8521e6",
+     "player_id": "251127ed-be4a-4102-91f0-19678a44dcf5",
+     "first_name": "Donovan",
+     "last_name": "Mitchell",
+     "team": "CLE",
+     "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
+     "position": "SG",
+     "adp": 9.9,
      "injury": null
     },
     {
@@ -106,19 +117,8 @@
      "team": "TOR",
      "team_id": "fd41e35e-7b5d-48c3-be0c-69e958976f6b",
      "position": "PF",
-     "adp": 10.2,
+     "adp": 10.3,
      "injury": "Questionable"
-    },
-    {
-     "appearance_id": "d6a8d110-65f8-4032-8aaf-16833b8521e6",
-     "player_id": "251127ed-be4a-4102-91f0-19678a44dcf5",
-     "first_name": "Donovan",
-     "last_name": "Mitchell",
-     "team": "CLE",
-     "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
-     "position": "SG",
-     "adp": 11.0,
-     "injury": null
     },
     {
      "appearance_id": "d93c8909-0554-4264-8aea-9635ce27823f",
@@ -128,7 +128,7 @@
      "team": "WAS",
      "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
      "position": "PF",
-     "adp": 11.9,
+     "adp": 12.3,
      "injury": "Questionable"
     },
     {
@@ -139,7 +139,7 @@
      "team": "PHX",
      "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
      "position": "SG",
-     "adp": 12.1,
+     "adp": 13.0,
      "injury": null
     },
     {
@@ -150,7 +150,7 @@
      "team": "GSW",
      "team_id": "d399490e-0df0-4c33-b7c2-fafdadc3a4eb",
      "position": "SF",
-     "adp": 14.3,
+     "adp": 13.0,
      "injury": null
     },
     {
@@ -161,29 +161,7 @@
      "team": "CLE",
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "PF",
-     "adp": 15.8,
-     "injury": null
-    },
-    {
-     "appearance_id": "3eb24c14-8477-4ae6-b264-62d64bbf2979",
-     "player_id": "a15f3504-1ee9-4634-874d-fd95ad1f9dcd",
-     "first_name": "Kevin",
-     "last_name": "Durant",
-     "team": "HOU",
-     "team_id": "09540cc3-fc27-4a59-b7a6-7a63f0e1df95",
-     "position": "PF",
-     "adp": 16.3,
-     "injury": null
-    },
-    {
-     "appearance_id": "eae8c7b5-884e-43e3-974d-46f9ed2fd7c6",
-     "player_id": "55579bc3-8de8-420a-bd89-c23cd4a4edc0",
-     "first_name": "Paul",
-     "last_name": "Reed",
-     "team": "DET",
-     "team_id": "47f5f48d-3d14-46f3-b6dc-1e7b4dfb1e69",
-     "position": "C",
-     "adp": 16.3,
+     "adp": 15.2,
      "injury": null
     },
     {
@@ -194,7 +172,18 @@
      "team": "LAL",
      "team_id": "97616c91-0509-42f8-99f3-04f3856a6377",
      "position": "SG",
-     "adp": 17.1,
+     "adp": 15.5,
+     "injury": null
+    },
+    {
+     "appearance_id": "3eb24c14-8477-4ae6-b264-62d64bbf2979",
+     "player_id": "a15f3504-1ee9-4634-874d-fd95ad1f9dcd",
+     "first_name": "Kevin",
+     "last_name": "Durant",
+     "team": "HOU",
+     "team_id": "09540cc3-fc27-4a59-b7a6-7a63f0e1df95",
+     "position": "PF",
+     "adp": 16.0,
      "injury": null
     },
     {
@@ -205,7 +194,18 @@
      "team": "LAL",
      "team_id": "97616c91-0509-42f8-99f3-04f3856a6377",
      "position": "C",
-     "adp": 18.2,
+     "adp": 17.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "eae8c7b5-884e-43e3-974d-46f9ed2fd7c6",
+     "player_id": "55579bc3-8de8-420a-bd89-c23cd4a4edc0",
+     "first_name": "Paul",
+     "last_name": "Reed",
+     "team": "DET",
+     "team_id": "47f5f48d-3d14-46f3-b6dc-1e7b4dfb1e69",
+     "position": "C",
+     "adp": 19.1,
      "injury": null
     },
     {
@@ -216,7 +216,7 @@
      "team": "DEN",
      "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
      "position": "PG",
-     "adp": 19.0,
+     "adp": 20.2,
      "injury": "Questionable"
     },
     {
@@ -227,7 +227,7 @@
      "team": "IND",
      "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
      "position": "PF",
-     "adp": 20.2,
+     "adp": 20.4,
      "injury": null
     },
     {
@@ -238,7 +238,7 @@
      "team": "HOU",
      "team_id": "09540cc3-fc27-4a59-b7a6-7a63f0e1df95",
      "position": "SF",
-     "adp": 20.8,
+     "adp": 21.4,
      "injury": null
     },
     {
@@ -249,7 +249,7 @@
      "team": "MEM",
      "team_id": "56a5d8c8-eb72-47db-9e93-5b24d8f5443a",
      "position": "SG",
-     "adp": 22.4,
+     "adp": 22.5,
      "injury": null
     },
     {
@@ -260,29 +260,7 @@
      "team": "MEM",
      "team_id": "56a5d8c8-eb72-47db-9e93-5b24d8f5443a",
      "position": "PF",
-     "adp": 23.9,
-     "injury": null
-    },
-    {
-     "appearance_id": "84550ebd-aa58-4883-963a-89430cd64bf6",
-     "player_id": "446ae12c-b571-45ea-a1ee-0afe159d53b8",
-     "first_name": "James",
-     "last_name": "Harden",
-     "team": "CLE",
-     "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
-     "position": "PG",
-     "adp": 25.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "6d85dfa3-e097-40a3-a469-27e95b5a192b",
-     "player_id": "c311d754-8979-4374-a4af-af325e7b074a",
-     "first_name": "Zion",
-     "last_name": "Williamson",
-     "team": "NOP",
-     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
-     "position": "PF",
-     "adp": 25.1,
+     "adp": 23.5,
      "injury": null
     },
     {
@@ -293,18 +271,7 @@
      "team": "WAS",
      "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
      "position": "PG",
-     "adp": 26.1,
-     "injury": null
-    },
-    {
-     "appearance_id": "96e7cd88-904b-40ab-8359-711f0a8b8c59",
-     "player_id": "035ea519-23f8-4d07-80ab-75a3af09ef14",
-     "first_name": "Kyrie",
-     "last_name": "Irving",
-     "team": "DAL",
-     "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
-     "position": "SG",
-     "adp": 26.9,
+     "adp": 25.5,
      "injury": null
     },
     {
@@ -315,7 +282,18 @@
      "team": "TOR",
      "team_id": "fd41e35e-7b5d-48c3-be0c-69e958976f6b",
      "position": "SF",
-     "adp": 27.4,
+     "adp": 26.4,
+     "injury": null
+    },
+    {
+     "appearance_id": "84550ebd-aa58-4883-963a-89430cd64bf6",
+     "player_id": "446ae12c-b571-45ea-a1ee-0afe159d53b8",
+     "first_name": "James",
+     "last_name": "Harden",
+     "team": "CLE",
+     "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
+     "position": "PG",
+     "adp": 26.6,
      "injury": null
     },
     {
@@ -326,7 +304,29 @@
      "team": "ATL",
      "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
      "position": "SG",
-     "adp": 29.1,
+     "adp": 26.7,
+     "injury": null
+    },
+    {
+     "appearance_id": "6d85dfa3-e097-40a3-a469-27e95b5a192b",
+     "player_id": "c311d754-8979-4374-a4af-af325e7b074a",
+     "first_name": "Zion",
+     "last_name": "Williamson",
+     "team": "NOP",
+     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
+     "position": "PF",
+     "adp": 26.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "96e7cd88-904b-40ab-8359-711f0a8b8c59",
+     "player_id": "035ea519-23f8-4d07-80ab-75a3af09ef14",
+     "first_name": "Kyrie",
+     "last_name": "Irving",
+     "team": "DAL",
+     "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
+     "position": "SG",
+     "adp": 27.4,
      "injury": null
     },
     {
@@ -337,18 +337,7 @@
      "team": "SAS",
      "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
      "position": "PG",
-     "adp": 30.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "c1832e0e-e1a3-429e-8a39-59c169ce0243",
-     "player_id": "20cd7474-4651-4cff-81bc-939895c17f60",
-     "first_name": "Dejounte",
-     "last_name": "Murray",
-     "team": "NOP",
-     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
-     "position": "PG",
-     "adp": 31.7,
+     "adp": 30.1,
      "injury": null
     },
     {
@@ -359,18 +348,7 @@
      "team": "ATL",
      "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
      "position": "C",
-     "adp": 32.3,
-     "injury": null
-    },
-    {
-     "appearance_id": "9c8fa242-e52a-486a-a0a0-74e1256b0699",
-     "player_id": "73a771f5-a6fe-4fd1-8917-23e89f6c4aaf",
-     "first_name": "Dylan",
-     "last_name": "Harper",
-     "team": "SAS",
-     "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
-     "position": "SG",
-     "adp": 32.6,
+     "adp": 30.8,
      "injury": null
     },
     {
@@ -381,18 +359,40 @@
      "team": "PHX",
      "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
      "position": "SF",
-     "adp": 33.0,
+     "adp": 32.3,
      "injury": null
     },
     {
-     "appearance_id": "04c02063-4fc2-4f27-b16d-bc05e592b90f",
-     "player_id": "d81bde0d-6f87-46b6-a6c3-9fb0eb352c67",
-     "first_name": "De'Aaron",
-     "last_name": "Fox",
+     "appearance_id": "c1832e0e-e1a3-429e-8a39-59c169ce0243",
+     "player_id": "20cd7474-4651-4cff-81bc-939895c17f60",
+     "first_name": "Dejounte",
+     "last_name": "Murray",
+     "team": "NOP",
+     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
+     "position": "PG",
+     "adp": 32.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "9c8fa242-e52a-486a-a0a0-74e1256b0699",
+     "player_id": "73a771f5-a6fe-4fd1-8917-23e89f6c4aaf",
+     "first_name": "Dylan",
+     "last_name": "Harper",
      "team": "SAS",
      "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
-     "position": "PG",
-     "adp": 33.7,
+     "position": "SG",
+     "adp": 33.8,
+     "injury": null
+    },
+    {
+     "appearance_id": "2814ba5c-6798-4f04-b7a6-75b6404e7ab2",
+     "player_id": "2357ef8a-ae80-4698-9fb9-1a94525c56b1",
+     "first_name": "Kyshawn",
+     "last_name": "George",
+     "team": "WAS",
+     "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
+     "position": "SG",
+     "adp": 34.2,
      "injury": null
     },
     {
@@ -403,7 +403,7 @@
      "team": "CHA",
      "team_id": "11cfe154-8ba6-4c22-be8f-2365656fb4da",
      "position": "C",
-     "adp": 34.2,
+     "adp": 34.4,
      "injury": null
     },
     {
@@ -414,18 +414,7 @@
      "team": "PHX",
      "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
      "position": "SG",
-     "adp": 34.3,
-     "injury": null
-    },
-    {
-     "appearance_id": "50484fef-85b2-47f4-8876-734d7c99ad45",
-     "player_id": "65ee4627-6193-4614-8ec6-b9b4a98ee9e8",
-     "first_name": "Ivica",
-     "last_name": "Zubac",
-     "team": "IND",
-     "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
-     "position": "C",
-     "adp": 34.8,
+     "adp": 34.9,
      "injury": null
     },
     {
@@ -440,25 +429,47 @@
      "injury": null
     },
     {
-     "appearance_id": "92d676ec-b1e9-437a-b996-6e87d4e2aae9",
-     "player_id": "d2af4c28-4c1d-42b3-ae03-953e8ee540a9",
-     "first_name": "Daniel",
-     "last_name": "Gafford",
-     "team": "DAL",
-     "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
-     "position": "C",
-     "adp": 35.0,
+     "appearance_id": "04c02063-4fc2-4f27-b16d-bc05e592b90f",
+     "player_id": "d81bde0d-6f87-46b6-a6c3-9fb0eb352c67",
+     "first_name": "De'Aaron",
+     "last_name": "Fox",
+     "team": "SAS",
+     "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
+     "position": "PG",
+     "adp": 35.1,
      "injury": null
     },
     {
-     "appearance_id": "316bff1c-5ae6-40a5-9bef-ec3901a87e24",
-     "player_id": "09c678f3-fe97-473d-b7b1-03fd9d26bf3e",
-     "first_name": "Draymond",
-     "last_name": "Green",
-     "team": "GSW",
-     "team_id": "d399490e-0df0-4c33-b7c2-fafdadc3a4eb",
+     "appearance_id": "50484fef-85b2-47f4-8876-734d7c99ad45",
+     "player_id": "65ee4627-6193-4614-8ec6-b9b4a98ee9e8",
+     "first_name": "Ivica",
+     "last_name": "Zubac",
+     "team": "IND",
+     "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
      "position": "C",
-     "adp": 35.2,
+     "adp": 35.4,
+     "injury": null
+    },
+    {
+     "appearance_id": "54f92964-c035-44a5-981f-61c8f7a3396b",
+     "player_id": "7671dd78-6f07-4986-9218-98940c34e88b",
+     "first_name": "Jeremiah",
+     "last_name": "Fears",
+     "team": "NOP",
+     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
+     "position": "PG",
+     "adp": 35.5,
+     "injury": null
+    },
+    {
+     "appearance_id": "49a795ac-7ab7-4d04-85aa-c7906f11e912",
+     "player_id": "6aca4dc0-4521-444c-9cf8-e1736c04562d",
+     "first_name": "AJ",
+     "last_name": "Dybantsa",
+     "team": "WAS",
+     "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
+     "position": "SF",
+     "adp": 35.5,
      "injury": null
     },
     {
@@ -473,23 +484,12 @@
      "injury": null
     },
     {
-     "appearance_id": "2814ba5c-6798-4f04-b7a6-75b6404e7ab2",
-     "player_id": "2357ef8a-ae80-4698-9fb9-1a94525c56b1",
-     "first_name": "Kyshawn",
-     "last_name": "George",
-     "team": "WAS",
-     "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
-     "position": "SG",
-     "adp": 35.5,
-     "injury": null
-    },
-    {
-     "appearance_id": "490f8e9a-96d2-4434-af7a-da493ea250ba",
-     "player_id": "3049edb3-278c-494d-a03d-bb1e9e7ebe4f",
-     "first_name": "Alex",
-     "last_name": "Sarr",
-     "team": "WAS",
-     "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
+     "appearance_id": "316bff1c-5ae6-40a5-9bef-ec3901a87e24",
+     "player_id": "09c678f3-fe97-473d-b7b1-03fd9d26bf3e",
+     "first_name": "Draymond",
+     "last_name": "Green",
+     "team": "GSW",
+     "team_id": "d399490e-0df0-4c33-b7c2-fafdadc3a4eb",
      "position": "C",
      "adp": 35.5,
      "injury": null
@@ -502,29 +502,40 @@
      "team": "GSW",
      "team_id": "d399490e-0df0-4c33-b7c2-fafdadc3a4eb",
      "position": "SG",
+     "adp": 35.5,
+     "injury": null
+    },
+    {
+     "appearance_id": "92d676ec-b1e9-437a-b996-6e87d4e2aae9",
+     "player_id": "d2af4c28-4c1d-42b3-ae03-953e8ee540a9",
+     "first_name": "Daniel",
+     "last_name": "Gafford",
+     "team": "DAL",
+     "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
+     "position": "C",
      "adp": 35.6,
      "injury": null
     },
     {
-     "appearance_id": "96137714-17ef-4325-89fa-11f840fa4718",
-     "player_id": "5a6d9324-cc0e-432b-8b40-44457bbc818c",
-     "first_name": "Kelly",
-     "last_name": "Oubre",
-     "team": "IND",
-     "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
-     "position": "SF",
-     "adp": 35.6,
+     "appearance_id": "8f51d31d-85cd-431f-bf2e-b0a06be36d7d",
+     "player_id": "2a5d4e29-7344-477e-aa5a-472a11428c31",
+     "first_name": "CJ",
+     "last_name": "McCollum",
+     "team": "ATL",
+     "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
+     "position": "PG",
+     "adp": 35.7,
      "injury": null
     },
     {
-     "appearance_id": "49a795ac-7ab7-4d04-85aa-c7906f11e912",
-     "player_id": "6aca4dc0-4521-444c-9cf8-e1736c04562d",
-     "first_name": "AJ",
-     "last_name": "Dybantsa",
+     "appearance_id": "490f8e9a-96d2-4434-af7a-da493ea250ba",
+     "player_id": "3049edb3-278c-494d-a03d-bb1e9e7ebe4f",
+     "first_name": "Alex",
+     "last_name": "Sarr",
      "team": "WAS",
      "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
-     "position": "SF",
-     "adp": 35.7,
+     "position": "C",
+     "adp": 35.8,
      "injury": null
     },
     {
@@ -535,38 +546,49 @@
      "team": "DET",
      "team_id": "47f5f48d-3d14-46f3-b6dc-1e7b4dfb1e69",
      "position": "SF",
-     "adp": 35.7,
+     "adp": 35.8,
      "injury": null
     },
     {
-     "appearance_id": "f6a8be11-698f-4cc6-9de2-c81b018fa8f5",
-     "player_id": "fc154c93-c140-469e-be8e-06930c2f261f",
-     "first_name": "DeMar",
-     "last_name": "DeRozan",
-     "team": "DEN",
-     "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
-     "position": "SF",
+     "appearance_id": "ef171bd3-3b0f-4820-8b48-e93aa523dbfe",
+     "player_id": "47f4506a-8f13-40d3-a270-c828160c19c5",
+     "first_name": "Jabari",
+     "last_name": "Smith Jr.",
+     "team": "HOU",
+     "team_id": "09540cc3-fc27-4a59-b7a6-7a63f0e1df95",
+     "position": "PF",
      "adp": 35.8,
-     "injury": "Questionable"
+     "injury": null
     },
     {
-     "appearance_id": "265ceb71-71c9-4dce-914f-6b740f7aa3e3",
-     "player_id": "be21248d-f687-4191-8d91-722624c6c195",
-     "first_name": "David",
-     "last_name": "Jones-Garcia",
-     "team": "SAS",
-     "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
+     "appearance_id": "96137714-17ef-4325-89fa-11f840fa4718",
+     "player_id": "5a6d9324-cc0e-432b-8b40-44457bbc818c",
+     "first_name": "Kelly",
+     "last_name": "Oubre",
+     "team": "IND",
+     "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
      "position": "SF",
      "adp": 35.9,
      "injury": null
     },
     {
-     "appearance_id": "bf0c3ae6-194a-4758-978f-f7e2f05329a1",
-     "player_id": "fd95eced-9a1e-4ac0-814f-5291ec4e3ebf",
-     "first_name": "Trey",
-     "last_name": "Murphy III",
-     "team": "NOP",
-     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
+     "appearance_id": "2a5fad7a-6da6-4d16-a8bf-c3a63ae1ed7f",
+     "player_id": "693fe703-1dcc-4752-817a-d50a3c8911c7",
+     "first_name": "Tre",
+     "last_name": "Mann",
+     "team": "WAS",
+     "team_id": "402685bd-a73c-4eb1-8c0f-55debd622215",
+     "position": "PG",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "48a1b44f-0758-468e-807e-351d6eed5952",
+     "player_id": "5b414d8b-0ff3-415e-aa73-0b22745c2187",
+     "first_name": "Dillon",
+     "last_name": "Brooks",
+     "team": "PHX",
+     "team_id": "f98f3baa-ad03-4188-9e8a-0cb52e1b900e",
      "position": "SF",
      "adp": 35.9,
      "injury": null
@@ -583,14 +605,58 @@
      "injury": null
     },
     {
-     "appearance_id": "9fdca2ef-1bfd-4672-81fc-fc1ece70c4e3",
-     "player_id": "7e61640c-d3cb-4a20-9e91-849ca68d6b26",
-     "first_name": "Obi",
-     "last_name": "Toppin",
-     "team": "IND",
-     "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
-     "position": "PF",
+     "appearance_id": "1767d8b3-bc63-4a50-b6ef-e2f2ecabdaf9",
+     "player_id": "e4069d2d-31f6-48b7-9183-6f7790b6a427",
+     "first_name": "Matisse",
+     "last_name": "Thybulle",
+     "team": "LAL",
+     "team_id": "97616c91-0509-42f8-99f3-04f3856a6377",
+     "position": "SG",
      "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "f6a8be11-698f-4cc6-9de2-c81b018fa8f5",
+     "player_id": "fc154c93-c140-469e-be8e-06930c2f261f",
+     "first_name": "DeMar",
+     "last_name": "DeRozan",
+     "team": "DEN",
+     "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
+     "position": "SF",
+     "adp": 35.9,
+     "injury": "Questionable"
+    },
+    {
+     "appearance_id": "6f6fcd5f-af8d-4fe6-967f-f423a50498ab",
+     "player_id": "6f1f8d7f-b004-4c2b-85f7-d47d4bf95cac",
+     "first_name": "Bronny",
+     "last_name": "James",
+     "team": "LAL",
+     "team_id": "97616c91-0509-42f8-99f3-04f3856a6377",
+     "position": "SG",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "bf0c3ae6-194a-4758-978f-f7e2f05329a1",
+     "player_id": "fd95eced-9a1e-4ac0-814f-5291ec4e3ebf",
+     "first_name": "Trey",
+     "last_name": "Murphy III",
+     "team": "NOP",
+     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
+     "position": "SF",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "99efa6a9-b4d5-4a4d-881a-a9211b7e3807",
+     "player_id": "ed7b7236-22d1-4cf8-aa75-e3498df98dc1",
+     "first_name": "Cam",
+     "last_name": "Spencer",
+     "team": "MEM",
+     "team_id": "56a5d8c8-eb72-47db-9e93-5b24d8f5443a",
+     "position": "SG",
+     "adp": 36.0,
      "injury": null
     },
     {
@@ -601,8 +667,41 @@
      "team": "TOR",
      "team_id": "fd41e35e-7b5d-48c3-be0c-69e958976f6b",
      "position": "PG",
-     "adp": 35.9,
+     "adp": 36.0,
      "injury": "Questionable"
+    },
+    {
+     "appearance_id": "5685c346-b161-43b8-9cc8-fffa1ff7092d",
+     "player_id": "d5348697-c7ae-49e9-a500-3dc5c505279a",
+     "first_name": "Collin",
+     "last_name": "Murray-Boyles",
+     "team": "TOR",
+     "team_id": "fd41e35e-7b5d-48c3-be0c-69e958976f6b",
+     "position": "PF",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "9fdca2ef-1bfd-4672-81fc-fc1ece70c4e3",
+     "player_id": "7e61640c-d3cb-4a20-9e91-849ca68d6b26",
+     "first_name": "Obi",
+     "last_name": "Toppin",
+     "team": "IND",
+     "team_id": "4da4781a-a2c2-49d7-a042-1dee71740668",
+     "position": "PF",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
+     "appearance_id": "265ceb71-71c9-4dce-914f-6b740f7aa3e3",
+     "player_id": "be21248d-f687-4191-8d91-722624c6c195",
+     "first_name": "David",
+     "last_name": "Jones-Garcia",
+     "team": "SAS",
+     "team_id": "fee4a894-1970-402a-873b-8faea88f4ec9",
+     "position": "SF",
+     "adp": 36.0,
+     "injury": null
     },
     {
      "appearance_id": "2419f578-e659-4da8-a05d-2e7f0fb6bc94",
@@ -612,18 +711,7 @@
      "team": "TOR",
      "team_id": "fd41e35e-7b5d-48c3-be0c-69e958976f6b",
      "position": "C",
-     "adp": 35.9,
-     "injury": null
-    },
-    {
-     "appearance_id": "8f51d31d-85cd-431f-bf2e-b0a06be36d7d",
-     "player_id": "2a5d4e29-7344-477e-aa5a-472a11428c31",
-     "first_name": "CJ",
-     "last_name": "McCollum",
-     "team": "ATL",
-     "team_id": "04fc51d6-320c-4838-a087-f492067b71f5",
-     "position": "PG",
-     "adp": 35.9,
+     "adp": 36.0,
      "injury": null
     },
     {
@@ -649,15 +737,15 @@
      "injury": null
     },
     {
-     "appearance_id": "ef171bd3-3b0f-4820-8b48-e93aa523dbfe",
-     "player_id": "47f4506a-8f13-40d3-a270-c828160c19c5",
-     "first_name": "Jabari",
-     "last_name": "Smith Jr.",
-     "team": "HOU",
-     "team_id": "09540cc3-fc27-4a59-b7a6-7a63f0e1df95",
+     "appearance_id": "9759de98-92dd-4ba4-b9bf-e03ccbb3f743",
+     "player_id": "0fab5b5c-8cae-47b0-8a3d-e53ef4eb328e",
+     "first_name": "Aaron",
+     "last_name": "Gordon",
+     "team": "DEN",
+     "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
      "position": "PF",
      "adp": 36.0,
-     "injury": null
+     "injury": "Questionable"
     }
    ],
    "tagged": [
@@ -819,16 +907,6 @@
      "team": "DEN",
      "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
      "position": "SG",
-     "injury": "Questionable"
-    },
-    {
-     "appearance_id": null,
-     "player_id": "0fab5b5c-8cae-47b0-8a3d-e53ef4eb328e",
-     "first_name": "Aaron",
-     "last_name": "Gordon",
-     "team": "DEN",
-     "team_id": "5d478d55-84f7-4786-beb9-9c009c5814f4",
-     "position": "PF",
      "injury": "Questionable"
     },
     {
@@ -1139,13 +1217,17 @@
       [
        "2026-11-09T03:23Z",
        150
+      ],
+      [
+       "2026-11-09T04:23Z",
+       461
       ]
      ],
      "cutoff_at": "2026-11-09T23:41:00Z",
      "description": "6 person drafts - $6k to first!",
-     "entry_count": 150,
+     "entry_count": 461,
      "first_seen": "2026-11-09T03:23:37.454750+00:00",
-     "last_seen": "2026-11-09T03:23:37.454750+00:00",
+     "last_seen": "2026-11-09T04:23:17.750541+00:00",
      "max_entries": 150,
      "slug": "monday-night-hoops-11-09-2026",
      "status": "unfilled",
@@ -1158,13 +1240,17 @@
       [
        "2026-11-09T03:23Z",
        0
+      ],
+      [
+       "2026-11-09T04:23Z",
+       0
       ]
      ],
      "cutoff_at": "2026-11-09T23:41:00Z",
      "description": "Single Entry - $1.5k to first!",
      "entry_count": 0,
      "first_seen": "2026-11-09T03:23:37.454750+00:00",
-     "last_seen": "2026-11-09T03:23:37.454750+00:00",
+     "last_seen": "2026-11-09T04:23:17.750541+00:00",
      "max_entries": 1,
      "slug": "pick-roll-11-09-2026",
      "status": "unfilled",
@@ -1245,13 +1331,17 @@
       [
        "2026-11-09T03:23Z",
        288
+      ],
+      [
+       "2026-11-09T04:23Z",
+       301
       ]
      ],
      "cutoff_at": "2026-11-09T23:41:00Z",
      "description": "6 person drafts - $1k to first!",
-     "entry_count": 288,
+     "entry_count": 301,
      "first_seen": "2026-11-08T14:22:46.702607+00:00",
-     "last_seen": "2026-11-09T03:23:37.454750+00:00",
+     "last_seen": "2026-11-09T04:23:17.750541+00:00",
      "max_entries": 33,
      "slug": "the-layup-line-11-09-2026",
      "status": "unfilled",
@@ -1264,13 +1354,17 @@
       [
        "2026-11-09T03:23Z",
        48
+      ],
+      [
+       "2026-11-09T04:23Z",
+       142
       ]
      ],
      "cutoff_at": "2026-11-09T23:41:00Z",
      "description": "20 entry max - $1k to first!",
-     "entry_count": 48,
+     "entry_count": 142,
      "first_seen": "2026-11-09T03:23:37.454750+00:00",
-     "last_seen": "2026-11-09T03:23:37.454750+00:00",
+     "last_seen": "2026-11-09T04:23:17.750541+00:00",
      "max_entries": 20,
      "slug": "buzzer-beater-11-09-2026",
      "status": "unfilled",
@@ -1283,13 +1377,17 @@
       [
        "2026-11-09T03:23Z",
        0
+      ],
+      [
+       "2026-11-09T04:23Z",
+       6
       ]
      ],
      "cutoff_at": "2026-11-09T23:41:00Z",
      "description": "5 entry max - $2k to first!",
-     "entry_count": 0,
+     "entry_count": 6,
      "first_seen": "2026-11-09T03:23:37.454750+00:00",
-     "last_seen": "2026-11-09T03:23:37.454750+00:00",
+     "last_seen": "2026-11-09T04:23:17.750541+00:00",
      "max_entries": 5,
      "slug": "the-crossover-11-09-2026",
      "status": "unfilled",
