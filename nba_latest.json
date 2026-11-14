@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:05:31Z",
+ "generated_at": "2026-11-14T18:23:13Z",
  "baseline_cutoff": "2026-11-14T17:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "4e2e8e49-b762-4743-b4cc-413759705d8e",
    "title": "Sat Main Slate",
    "cutoff": "2026-11-14T23:52:00Z",
-   "snapshot_utc": "2026-11-14T180524Z",
+   "snapshot_utc": "2026-11-14T182245Z",
    "players": [
     {
      "appearance_id": "8bed6071-eead-4693-af5c-6b2697926ccb",
@@ -96,7 +96,11 @@
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "SG",
      "adp": 7.9,
-     "injury": null
+     "injury": "Questionable",
+     "pre_tag_adp": 7.9,
+     "pre_tag_at": "2026-11-14T180524Z",
+     "pre_tag_src": "this slate",
+     "pre_tag_passed": null
     },
     {
      "appearance_id": "8512af44-1d87-40e1-958d-0aed87b59a1d",
@@ -162,7 +166,11 @@
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "PG",
      "adp": 14.4,
-     "injury": null
+     "injury": "Questionable",
+     "pre_tag_adp": 14.4,
+     "pre_tag_at": "2026-11-14T180524Z",
+     "pre_tag_src": "this slate",
+     "pre_tag_passed": null
     },
     {
      "appearance_id": "321682a7-3499-485a-a7ae-69055d817c00",
@@ -250,11 +258,7 @@
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "PF",
      "adp": 22.1,
-     "injury": "Questionable",
-     "pre_tag_adp": 28.8,
-     "pre_tag_at": "2026-11-11T232249Z",
-     "pre_tag_src": "previous slate",
-     "pre_tag_passed": 4
+     "injury": "Out"
     },
     {
      "appearance_id": "efe8ed5a-b881-437f-b924-ba8e4170e3ef",
@@ -287,7 +291,11 @@
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "C",
      "adp": 25.1,
-     "injury": null
+     "injury": "Questionable",
+     "pre_tag_adp": 25.1,
+     "pre_tag_at": "2026-11-14T180524Z",
+     "pre_tag_src": "this slate",
+     "pre_tag_passed": null
     },
     {
      "appearance_id": "ab3c0897-3e6b-4fce-8317-bc5eb3e14e2e",
@@ -482,7 +490,11 @@
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "SF",
      "adp": 35.9,
-     "injury": null
+     "injury": "Questionable",
+     "pre_tag_adp": 35.9,
+     "pre_tag_at": "2026-11-14T180524Z",
+     "pre_tag_src": "this slate",
+     "pre_tag_passed": null
     },
     {
      "appearance_id": "819f9ed3-b216-44c9-8292-7ee7973dd329",
@@ -687,6 +699,17 @@
      "injury": null
     },
     {
+     "appearance_id": "4dd81e54-a420-4214-8f0e-5db23d7e86b0",
+     "player_id": "5db43c48-2c79-4f2a-a2bb-3aba55bf9d2b",
+     "first_name": "Yves",
+     "last_name": "Missi",
+     "team": "NOP",
+     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
+     "position": "C",
+     "adp": 36.0,
+     "injury": "Probable"
+    },
+    {
      "appearance_id": "7792fd75-a535-41e5-8a76-49eb0f5017ef",
      "player_id": "131aa819-379b-4c42-a27e-023615fc8268",
      "first_name": "Jerami",
@@ -729,17 +752,6 @@
      "position": "PG",
      "adp": 36.0,
      "injury": null
-    },
-    {
-     "appearance_id": "4dd81e54-a420-4214-8f0e-5db23d7e86b0",
-     "player_id": "5db43c48-2c79-4f2a-a2bb-3aba55bf9d2b",
-     "first_name": "Yves",
-     "last_name": "Missi",
-     "team": "NOP",
-     "team_id": "40db32e9-eeb1-4fcf-9e0a-116518312ecf",
-     "position": "C",
-     "adp": 36.0,
-     "injury": "Probable"
     }
    ],
    "tagged": [
@@ -771,7 +783,7 @@
      "team": "CLE",
      "team_id": "56fcd081-3e21-406e-af95-5716abbfba2e",
      "position": "SG",
-     "injury": "Questionable"
+     "injury": "Out"
     },
     {
      "appearance_id": null,
@@ -1101,13 +1113,17 @@
       [
        "2026-11-14T18:05Z",
        346
+      ],
+      [
+       "2026-11-14T18:22Z",
+       370
       ]
      ],
      "cutoff_at": "2026-11-14T23:41:00Z",
      "description": "6 person drafts - $1k to first!",
-     "entry_count": 346,
+     "entry_count": 370,
      "first_seen": "2026-11-13T13:31:15.267454+00:00",
-     "last_seen": "2026-11-14T18:05:24.048496+00:00",
+     "last_seen": "2026-11-14T18:22:45.790193+00:00",
      "max_entries": 33,
      "slug": "the-layup-line-11-14-2026",
      "status": "unfilled",
@@ -1180,13 +1196,17 @@
       [
        "2026-11-14T18:05Z",
        1077
+      ],
+      [
+       "2026-11-14T18:22Z",
+       1153
       ]
      ],
      "cutoff_at": "2026-11-14T23:41:00Z",
      "description": "20 entry max - $1k to first!",
-     "entry_count": 1077,
+     "entry_count": 1153,
      "first_seen": "2026-11-14T05:23:13.438964+00:00",
-     "last_seen": "2026-11-14T18:05:24.048496+00:00",
+     "last_seen": "2026-11-14T18:22:45.790193+00:00",
      "max_entries": 20,
      "slug": "buzzer-beater-11-14-2026",
      "status": "unfilled",
@@ -1203,13 +1223,17 @@
       [
        "2026-11-14T18:05Z",
        19
+      ],
+      [
+       "2026-11-14T18:22Z",
+       19
       ]
      ],
      "cutoff_at": "2026-11-14T23:41:00Z",
      "description": "6 person drafts - Admin",
      "entry_count": 19,
      "first_seen": "2026-11-14T17:22:48.263832+00:00",
-     "last_seen": "2026-11-14T18:05:24.048496+00:00",
+     "last_seen": "2026-11-14T18:22:45.790193+00:00",
      "max_entries": 10,
      "slug": "ud-happy-hour-hoops-11-14-2026",
      "status": "unfilled",
@@ -1282,13 +1306,17 @@
       [
        "2026-11-14T18:05Z",
        3637
+      ],
+      [
+       "2026-11-14T18:22Z",
+       3929
       ]
      ],
      "cutoff_at": "2026-11-14T23:41:00Z",
      "description": "6 person drafts - $6k to first!",
-     "entry_count": 3637,
+     "entry_count": 3929,
      "first_seen": "2026-11-14T05:23:13.438964+00:00",
-     "last_seen": "2026-11-14T18:05:24.048496+00:00",
+     "last_seen": "2026-11-14T18:22:45.790193+00:00",
      "max_entries": 150,
      "slug": "saturday-slam-11-14-2026",
      "status": "unfilled",
@@ -1361,13 +1389,17 @@
       [
        "2026-11-14T18:05Z",
        61
+      ],
+      [
+       "2026-11-14T18:22Z",
+       64
       ]
      ],
      "cutoff_at": "2026-11-14T23:41:00Z",
      "description": "5 entry max - $2k to first!",
-     "entry_count": 61,
+     "entry_count": 64,
      "first_seen": "2026-11-14T05:23:13.438964+00:00",
-     "last_seen": "2026-11-14T18:05:24.048496+00:00",
+     "last_seen": "2026-11-14T18:22:45.790193+00:00",
      "max_entries": 5,
      "slug": "the-crossover-11-14-2026",
      "status": "unfilled",
@@ -1440,13 +1472,17 @@
       [
        "2026-11-14T18:05Z",
        4
+      ],
+      [
+       "2026-11-14T18:22Z",
+       4
       ]
      ],
      "cutoff_at": "2026-11-14T23:41:00Z",
      "description": "Single Entry - $1.5k to first!",
      "entry_count": 4,
      "first_seen": "2026-11-14T05:23:13.438964+00:00",
-     "last_seen": "2026-11-14T18:05:24.048496+00:00",
+     "last_seen": "2026-11-14T18:22:45.790193+00:00",
      "max_entries": 1,
      "slug": "pick-roll-11-14-2026",
      "status": "unfilled",
