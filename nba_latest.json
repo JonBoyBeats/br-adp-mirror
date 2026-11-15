@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:14:33Z",
+ "generated_at": "2026-11-15T21:23:49Z",
  "baseline_cutoff": "2026-11-15T17:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "784b1f24-6182-431e-b1aa-49ba49ffe0d6",
    "title": "Mon Main Slate",
    "cutoff": "2026-11-16T23:52:00Z",
-   "snapshot_utc": "2026-11-15T211400Z",
+   "snapshot_utc": "2026-11-15T212318Z",
    "players": [],
    "tagged": [
     {
@@ -522,7 +522,7 @@
    "slate_id": "e5f231dc-2194-41e5-ac06-318dc678a633",
    "title": "Sun Main Slate",
    "cutoff": "2026-11-15T22:52:00Z",
-   "snapshot_utc": "2026-11-15T211400Z",
+   "snapshot_utc": "2026-11-15T212318Z",
    "players": [
     {
      "appearance_id": "c45e81cd-6047-4708-b5b5-a14b4d5fe706",
@@ -676,11 +676,7 @@
      "team_id": "fd41e35e-7b5d-48c3-be0c-69e958976f6b",
      "position": "PF",
      "adp": 14.2,
-     "injury": "Questionable",
-     "pre_tag_adp": 15.2,
-     "pre_tag_at": "2026-11-12T182258Z",
-     "pre_tag_src": "previous slate",
-     "pre_tag_passed": 0
+     "injury": null
     },
     {
      "appearance_id": "5038c199-85bb-437a-906f-71f071c4b9d1",
@@ -713,11 +709,7 @@
      "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
      "position": "SG",
      "adp": 17.1,
-     "injury": "Questionable",
-     "pre_tag_adp": 15.3,
-     "pre_tag_at": "2026-11-15T172256Z",
-     "pre_tag_src": "this slate",
-     "pre_tag_passed": null
+     "injury": "Out"
     },
     {
      "appearance_id": "a0bb88eb-2baa-4061-b660-f167c0723272",
@@ -1507,7 +1499,7 @@
      "team": "DAL",
      "team_id": "2c204562-627d-4fbe-b9ba-24a8bbf87463",
      "position": "SG",
-     "injury": "Doubtful"
+     "injury": "Out"
     },
     {
      "appearance_id": null,
@@ -1817,13 +1809,17 @@
       [
        "2026-11-15T21:14Z",
        601
+      ],
+      [
+       "2026-11-15T21:23Z",
+       616
       ]
      ],
      "cutoff_at": "2026-11-15T22:41:00Z",
      "description": "6 person drafts - $1k to first!",
-     "entry_count": 601,
+     "entry_count": 616,
      "first_seen": "2026-11-15T00:13:00.819101+00:00",
-     "last_seen": "2026-11-15T21:14:00.814616+00:00",
+     "last_seen": "2026-11-15T21:23:18.479632+00:00",
      "max_entries": 33,
      "slug": "the-layup-line-11-15-2026",
      "status": "unfilled",
@@ -1852,13 +1848,17 @@
       [
        "2026-11-15T21:14Z",
        57
+      ],
+      [
+       "2026-11-15T21:23Z",
+       57
       ]
      ],
      "cutoff_at": "2026-11-15T22:41:00Z",
      "description": "6 person drafts - Admin",
      "entry_count": 57,
      "first_seen": "2026-11-15T17:22:56.260523+00:00",
-     "last_seen": "2026-11-15T21:14:00.814616+00:00",
+     "last_seen": "2026-11-15T21:23:18.479632+00:00",
      "max_entries": 10,
      "slug": "ud-happy-hour-hoops-11-15-2026",
      "status": "unfilled",
@@ -1955,13 +1955,17 @@
       [
        "2026-11-15T21:14Z",
        5324
+      ],
+      [
+       "2026-11-15T21:23Z",
+       5573
       ]
      ],
      "cutoff_at": "2026-11-15T22:41:00Z",
      "description": "6 person drafts - $4k to first!",
-     "entry_count": 5324,
+     "entry_count": 5573,
      "first_seen": "2026-11-15T03:22:36.328991+00:00",
-     "last_seen": "2026-11-15T21:14:00.814616+00:00",
+     "last_seen": "2026-11-15T21:23:18.479632+00:00",
      "max_entries": 150,
      "slug": "sunday-shootaround-11-15-2026",
      "status": "unfilled",
