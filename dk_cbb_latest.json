@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:50:19Z",
+ "generated_at": "2026-11-16T21:23:20Z",
  "slates": [
   {
    "draft_group_id": 156660,
@@ -2562,7 +2562,7 @@
      "name": "CBB $6K Pull Up Jumper [$2K to 1st]",
      "entry_fee": 15,
      "size": 470,
-     "entries": 304,
+     "entries": 333,
      "prizes": 6000.0,
      "max_per_user": 14,
      "payouts": [
@@ -2637,76 +2637,16 @@
      "name": "CBB $3K Slam Jam [2 Entry Max]",
      "entry_fee": 222,
      "size": 15,
-     "entries": 12,
+     "entries": 13,
      "prizes": 3000.0,
      "max_per_user": 2
-    },
-    {
-     "id": 197791877,
-     "name": "CBB $500 High Five [Single Entry]",
-     "entry_fee": 5,
-     "size": 118,
-     "entries": 109,
-     "prizes": 500.0,
-     "max_per_user": 1,
-     "payouts": [
-      [
-       1,
-       1,
-       80.0
-      ],
-      [
-       2,
-       2,
-       61.0
-      ],
-      [
-       3,
-       3,
-       40.0
-      ],
-      [
-       4,
-       4,
-       30.0
-      ],
-      [
-       5,
-       6,
-       20.0
-      ],
-      [
-       7,
-       9,
-       15.0
-      ],
-      [
-       10,
-       16,
-       12.0
-      ],
-      [
-       17,
-       28,
-       10.0
-      ]
-     ]
-    },
-    {
-     "id": 197898644,
-     "name": "CBB $100 High Five [Single Entry]",
-     "entry_fee": 5,
-     "size": 23,
-     "entries": 7,
-     "prizes": 100.0,
-     "max_per_user": 1
     },
     {
      "id": 197791874,
      "name": "CBB $1.25K And-One",
      "entry_fee": 1,
      "size": 1486,
-     "entries": 1125,
+     "entries": 1268,
      "prizes": 1250.0,
      "max_per_user": 20,
      "payouts": [
@@ -2787,9 +2727,69 @@
      "name": "CBB $75 And-One",
      "entry_fee": 1,
      "size": 89,
-     "entries": 0,
+     "entries": 15,
      "prizes": 75.0,
      "max_per_user": 3
+    },
+    {
+     "id": 197791877,
+     "name": "CBB $500 High Five [Single Entry]",
+     "entry_fee": 5,
+     "size": 118,
+     "entries": 116,
+     "prizes": 500.0,
+     "max_per_user": 1,
+     "payouts": [
+      [
+       1,
+       1,
+       80.0
+      ],
+      [
+       2,
+       2,
+       61.0
+      ],
+      [
+       3,
+       3,
+       40.0
+      ],
+      [
+       4,
+       4,
+       30.0
+      ],
+      [
+       5,
+       6,
+       20.0
+      ],
+      [
+       7,
+       9,
+       15.0
+      ],
+      [
+       10,
+       16,
+       12.0
+      ],
+      [
+       17,
+       28,
+       10.0
+      ]
+     ]
+    },
+    {
+     "id": 197898644,
+     "name": "CBB $100 High Five [Single Entry]",
+     "entry_fee": 5,
+     "size": 23,
+     "entries": 11,
+     "prizes": 100.0,
+     "max_per_user": 1
     },
     {
      "id": 197791876,
@@ -2868,25 +2868,25 @@
      "name": "CBB $300 Big Five [3 Entry Max]",
      "entry_fee": 5,
      "size": 71,
-     "entries": 44,
+     "entries": 58,
      "prizes": 300.0,
      "max_per_user": 3
     },
     {
-     "id": 197791870,
-     "name": "CBB $355 Fadeaway [Single Entry]",
-     "entry_fee": 50,
-     "size": 8,
-     "entries": 4,
-     "prizes": 355.0,
-     "max_per_user": 1
+     "id": 197902495,
+     "name": "CBB $100 Big Five",
+     "entry_fee": 5,
+     "size": 23,
+     "entries": 6,
+     "prizes": 100.0,
+     "max_per_user": 2
     },
     {
      "id": 197897424,
      "name": "CBB $155 Fast Break [Single Entry]",
      "entry_fee": 12,
      "size": 15,
-     "entries": 4,
+     "entries": 5,
      "prizes": 155.0,
      "max_per_user": 1
     },
@@ -2897,6 +2897,15 @@
      "size": 5,
      "entries": 3,
      "prizes": 110.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197791870,
+     "name": "CBB $355 Fadeaway [Single Entry]",
+     "entry_fee": 50,
+     "size": 8,
+     "entries": 4,
+     "prizes": 355.0,
      "max_per_user": 1
     },
     {
@@ -2913,7 +2922,7 @@
      "name": "CBB $200 Quarter Jukebox",
      "entry_fee": 0.25,
      "size": 951,
-     "entries": 679,
+     "entries": 794,
      "prizes": 200.0,
      "max_per_user": 20,
      "payouts": [
@@ -2975,11 +2984,20 @@
      ]
     },
     {
+     "id": 197902414,
+     "name": "CBB $20 Quarter Jukebox [Just $0.25!]",
+     "entry_fee": 0.25,
+     "size": 95,
+     "entries": 3,
+     "prizes": 20.0,
+     "max_per_user": 2
+    },
+    {
      "id": 197873654,
      "name": "CBB $100 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 1054,
+     "entries": 1152,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -3050,7 +3068,7 @@
      "name": "CBB $50 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 594,
-     "entries": 104,
+     "entries": 178,
      "prizes": 50.0,
      "max_per_user": 17,
      "payouts": [
@@ -3147,7 +3165,7 @@
      "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special",
      "entry_fee": 7,
      "size": 37,
-     "entries": 13,
+     "entries": 14,
      "prizes": 222.0,
      "max_per_user": 3
     },
@@ -3179,11 +3197,11 @@
      "max_per_user": 2
     },
     {
-     "id": 197873651,
+     "id": 197902501,
      "name": "CBB $1 Triple Up [Top 9 Win $3]",
      "entry_fee": 1,
      "size": 31,
-     "entries": 30,
+     "entries": 0,
      "prizes": 27.0,
      "max_per_user": 1
     },
@@ -3192,7 +3210,7 @@
      "name": "CBB $25 Double Up",
      "entry_fee": 25,
      "size": 11,
-     "entries": 8,
+     "entries": 9,
      "prizes": 250.0,
      "max_per_user": 1
     },
@@ -3201,7 +3219,7 @@
      "name": "CBB $10 Double Up",
      "entry_fee": 10,
      "size": 11,
-     "entries": 5,
+     "entries": 6,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -3210,7 +3228,7 @@
      "name": "CBB $5 Double Up",
      "entry_fee": 5,
      "size": 23,
-     "entries": 19,
+     "entries": 22,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -3219,7 +3237,7 @@
      "name": "CBB $3 Double Up",
      "entry_fee": 3,
      "size": 23,
-     "entries": 15,
+     "entries": 17,
      "prizes": 60.0,
      "max_per_user": 1
     },
@@ -3228,7 +3246,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 7,
+     "entries": 9,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -3237,7 +3255,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 14,
+     "entries": 15,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -3246,7 +3264,7 @@
      "name": "CBB FREE 200-Player",
      "entry_fee": 0,
      "size": 200,
-     "entries": 23,
+     "entries": 24,
      "prizes": 0,
      "max_per_user": 1,
      "payouts": null
@@ -4872,7 +4890,7 @@
      "max_per_user": 1
     }
    ],
-   "contests_at": "2026-11-16T20:50:19+00:00"
+   "contests_at": "2026-11-16T21:23:20+00:00"
   }
  ]
 }
