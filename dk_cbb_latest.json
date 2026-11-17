@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:23:36Z",
+ "generated_at": "2026-11-17T18:23:32Z",
  "slates": [
   {
    "draft_group_id": 156660,
@@ -5404,7 +5404,7 @@
      "name": "CBB $4K Pull Up Jumper [$1K to 1st] (Early)",
      "entry_fee": 15,
      "size": 313,
-     "entries": 206,
+     "entries": 244,
      "prizes": 4000.0,
      "max_per_user": 9,
      "payouts": [
@@ -5480,7 +5480,7 @@
      "name": "CBB $1K And-One (Early)",
      "entry_fee": 1,
      "size": 1189,
-     "entries": 626,
+     "entries": 730,
      "prizes": 1000.0,
      "max_per_user": 20,
      "payouts": [
@@ -5572,11 +5572,20 @@
      ]
     },
     {
+     "id": 197921816,
+     "name": "CBB $1K Swish [Single Entry] (Early)",
+     "entry_fee": 100,
+     "size": 11,
+     "entries": 6,
+     "prizes": 1000.0,
+     "max_per_user": 1
+    },
+    {
      "id": 197921817,
      "name": "CBB $500 High Five [Single Entry] (Early)",
      "entry_fee": 5,
      "size": 118,
-     "entries": 68,
+     "entries": 86,
      "prizes": 500.0,
      "max_per_user": 1,
      "payouts": [
@@ -5623,15 +5632,6 @@
      ]
     },
     {
-     "id": 197921816,
-     "name": "CBB $1K Swish [Single Entry] (Early)",
-     "entry_fee": 100,
-     "size": 11,
-     "entries": 6,
-     "prizes": 1000.0,
-     "max_per_user": 1
-    },
-    {
      "id": 197906628,
      "name": "CBB Satellite to NFL 1-3 Ultimate Main Event [Must Fill] (Early)",
      "entry_fee": 1413,
@@ -5641,15 +5641,6 @@
      "max_per_user": 1
     },
     {
-     "id": 197921813,
-     "name": "CBB $200 Buzzer Beater (Early)",
-     "entry_fee": 3,
-     "size": 79,
-     "entries": 27,
-     "prizes": 200.0,
-     "max_per_user": 2
-    },
-    {
      "id": 197906622,
      "name": "CBB $1,060 Winner Take All [$3K to 1st, Must Fill] (Early)",
      "entry_fee": 1060,
@@ -5657,6 +5648,15 @@
      "entries": 1,
      "prizes": 3000.0,
      "max_per_user": 1
+    },
+    {
+     "id": 197921811,
+     "name": "CBB $400 Full Court Press [2 Entry Max] (Early)",
+     "entry_fee": 33,
+     "size": 14,
+     "entries": 7,
+     "prizes": 400.0,
+     "max_per_user": 2
     },
     {
      "id": 197906594,
@@ -5690,7 +5690,7 @@
      "name": "CBB $5 Double Up (Early)",
      "entry_fee": 5,
      "size": 46,
-     "entries": 26,
+     "entries": 30,
      "prizes": 200.0,
      "max_per_user": 3
     },
@@ -5731,30 +5731,21 @@
      "max_per_user": 1
     },
     {
-     "id": 197921811,
-     "name": "CBB $400 Full Court Press [2 Entry Max] (Early)",
-     "entry_fee": 33,
-     "size": 14,
-     "entries": 8,
-     "prizes": 400.0,
+     "id": 197921813,
+     "name": "CBB $200 Buzzer Beater (Early)",
+     "entry_fee": 3,
+     "size": 79,
+     "entries": 40,
+     "prizes": 200.0,
      "max_per_user": 2
     },
     {
-     "id": 197922520,
-     "name": "CBB $25 Winner Take All [$110 to 1st] (Early)",
-     "entry_fee": 25,
-     "size": 5,
-     "entries": 3,
-     "prizes": 110.0,
-     "max_per_user": 1
-    },
-    {
-     "id": 197922487,
-     "name": "CBB $155 Fast Break [Single Entry] (Early)",
-     "entry_fee": 12,
-     "size": 15,
-     "entries": 8,
-     "prizes": 155.0,
+     "id": 197921810,
+     "name": "CBB $310 Fadeaway [Single Entry] (Early)",
+     "entry_fee": 50,
+     "size": 7,
+     "entries": 5,
+     "prizes": 310.0,
      "max_per_user": 1
     },
     {
@@ -5767,12 +5758,21 @@
      "max_per_user": 1
     },
     {
-     "id": 197921810,
-     "name": "CBB $310 Fadeaway [Single Entry] (Early)",
-     "entry_fee": 50,
-     "size": 7,
-     "entries": 5,
-     "prizes": 310.0,
+     "id": 197922487,
+     "name": "CBB $155 Fast Break [Single Entry] (Early)",
+     "entry_fee": 12,
+     "size": 15,
+     "entries": 9,
+     "prizes": 155.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197922520,
+     "name": "CBB $25 Winner Take All [$110 to 1st] (Early)",
+     "entry_fee": 25,
+     "size": 5,
+     "entries": 4,
+     "prizes": 110.0,
      "max_per_user": 1
     },
     {
@@ -5780,7 +5780,7 @@
      "name": "CBB $150 Quarter Jukebox [Just $0.25!]  (Early)",
      "entry_fee": 0.25,
      "size": 713,
-     "entries": 341,
+     "entries": 449,
      "prizes": 150.0,
      "max_per_user": 20,
      "payouts": [
@@ -5841,7 +5841,7 @@
      "name": "CBB $100 Dime Time [Just $0.10!] (Early)",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 889,
+     "entries": 1043,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -5930,7 +5930,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire (Early)",
      "entry_fee": 0.1,
      "size": 59,
-     "entries": 24,
+     "entries": 29,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -5939,7 +5939,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire (Early)",
      "entry_fee": 0.25,
      "size": 23,
-     "entries": 6,
+     "entries": 9,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -6002,7 +6002,7 @@
      "name": "CBB $1 Triple Up [Top 9 Win $3] (Early)",
      "entry_fee": 1,
      "size": 31,
-     "entries": 7,
+     "entries": 8,
      "prizes": 27.0,
      "max_per_user": 1
     },
@@ -6043,20 +6043,20 @@
      "max_per_user": 1
     },
     {
-     "id": 197925063,
+     "id": 197925336,
      "name": "CBB $1 Double Up (Early)",
      "entry_fee": 1,
      "size": 23,
-     "entries": 3,
+     "entries": 2,
      "prizes": 20.0,
      "max_per_user": 1
     },
     {
-     "id": 197906388,
+     "id": 197925063,
      "name": "CBB $1 Double Up (Early)",
      "entry_fee": 1,
      "size": 23,
-     "entries": 21,
+     "entries": 6,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -6065,7 +6065,7 @@
      "name": "CBB FREE 50-Player (Early)",
      "entry_fee": 0,
      "size": 50,
-     "entries": 13,
+     "entries": 15,
      "prizes": 0,
      "max_per_user": 1
     },
@@ -7663,6 +7663,16 @@
      "max_per_user": 1
     },
     {
+     "id": 197906388,
+     "name": "CBB $1 Double Up (Early)",
+     "entry_fee": 1,
+     "size": 23,
+     "entries": 23,
+     "prizes": 20.0,
+     "max_per_user": 1,
+     "full": true
+    },
+    {
      "id": 197906389,
      "name": "CBB $1 Double Up (Early)",
      "entry_fee": 1,
@@ -7743,7 +7753,7 @@
      "full": true
     }
    ],
-   "contests_at": "2026-11-17T17:23:36+00:00"
+   "contests_at": "2026-11-17T18:23:32+00:00"
   },
   {
    "draft_group_id": 156663,
@@ -10782,7 +10792,7 @@
      "name": "CBB $8K Pull Up Jumper [$2K to 1st]",
      "entry_fee": 15,
      "size": 627,
-     "entries": 224,
+     "entries": 235,
      "prizes": 8000.0,
      "max_per_user": 18,
      "payouts": [
@@ -10858,7 +10868,7 @@
      "name": "CBB $750 Big Five",
      "entry_fee": 5,
      "size": 178,
-     "entries": 35,
+     "entries": 41,
      "prizes": 750.0,
      "max_per_user": 5,
      "payouts": [
@@ -10932,7 +10942,7 @@
      "name": "CBB $1K High Five [Single Entry]",
      "entry_fee": 5,
      "size": 237,
-     "entries": 68,
+     "entries": 76,
      "prizes": 1000.0,
      "max_per_user": 1,
      "payouts": [
@@ -10993,7 +11003,7 @@
      "name": "CBB $1.5K And-One",
      "entry_fee": 1,
      "size": 1783,
-     "entries": 652,
+     "entries": 764,
      "prizes": 1500.0,
      "max_per_user": 20,
      "payouts": [
@@ -11210,7 +11220,7 @@
      "name": "CBB $250 Quarter Jukebox [Just $0.25!] ",
      "entry_fee": 0.25,
      "size": 1189,
-     "entries": 355,
+     "entries": 390,
      "prizes": 250.0,
      "max_per_user": 20,
      "payouts": [
@@ -11281,7 +11291,7 @@
      "name": "CBB $100 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 920,
+     "entries": 950,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -11352,7 +11362,7 @@
      "name": "CBB $50 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 594,
-     "entries": 1,
+     "entries": 8,
      "prizes": 50.0,
      "max_per_user": 17,
      "payouts": [
@@ -11449,7 +11459,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire",
      "entry_fee": 0.25,
      "size": 23,
-     "entries": 0,
+     "entries": 1,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -11494,7 +11504,7 @@
      "name": "CBB $30 King of the Bracket Qualifier Satellite",
      "entry_fee": 1,
      "size": 35,
-     "entries": 21,
+     "entries": 20,
      "prizes": 30.0,
      "max_per_user": 2
     },
@@ -11602,7 +11612,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 39,
-     "entries": 29,
+     "entries": 31,
      "prizes": 34.0,
      "max_per_user": 1
     },
@@ -11620,7 +11630,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 15,
+     "entries": 16,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -11629,7 +11639,7 @@
      "name": "CBB FREE 200-Player",
      "entry_fee": 0,
      "size": 200,
-     "entries": 15,
+     "entries": 18,
      "prizes": 0,
      "max_per_user": 1,
      "payouts": null
@@ -13276,7 +13286,7 @@
      "full": true
     }
    ],
-   "contests_at": "2026-11-17T17:23:36+00:00"
+   "contests_at": "2026-11-17T18:23:32+00:00"
   }
  ]
 }
