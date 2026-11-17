@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:24:22Z",
+ "generated_at": "2026-11-17T08:23:53Z",
  "slates": [
   {
    "draft_group_id": 156660,
@@ -5418,7 +5418,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906392,
+     "id": 197919968,
      "name": "CBB $25 Winner Take All [$110 to 1st] (Early)",
      "entry_fee": 25,
      "size": 5,
@@ -5431,7 +5431,7 @@
      "name": "CBB $267 Winner Take All [$1K to 1st, Must Fill] (Early)",
      "entry_fee": 267,
      "size": 4,
-     "entries": 0,
+     "entries": 1,
      "prizes": 1000.0,
      "max_per_user": 1
     },
@@ -5458,7 +5458,7 @@
      "name": "CBB $85 Winner Take All [$300 to 1st] (Early)",
      "entry_fee": 85,
      "size": 4,
-     "entries": 0,
+     "entries": 1,
      "prizes": 300.0,
      "max_per_user": 1
     },
@@ -5467,7 +5467,7 @@
      "name": "CBB $100 Dime Time [Just $0.10!] (Early)",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 19,
+     "entries": 324,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -5547,7 +5547,7 @@
      "name": "CBB Satellite to NFL Best Ball Playoff Millionaire [Must Fill] (Early)",
      "entry_fee": 9,
      "size": 3,
-     "entries": 0,
+     "entries": 2,
      "prizes": 25.0,
      "max_per_user": 1
     },
@@ -5583,7 +5583,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire (Early)",
      "entry_fee": 0.1,
      "size": 59,
-     "entries": 1,
+     "entries": 9,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -5592,7 +5592,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire (Early)",
      "entry_fee": 0.25,
      "size": 23,
-     "entries": 1,
+     "entries": 7,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -5601,7 +5601,7 @@
      "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special (Early)",
      "entry_fee": 20,
      "size": 13,
-     "entries": 0,
+     "entries": 1,
      "prizes": 222.0,
      "max_per_user": 2
     },
@@ -5619,7 +5619,7 @@
      "name": "CBB $30 King of the Bracket Qualifier Satellite (Early)",
      "entry_fee": 5,
      "size": 7,
-     "entries": 0,
+     "entries": 1,
      "prizes": 30.0,
      "max_per_user": 1
     },
@@ -5628,7 +5628,7 @@
      "name": "CBB $30 King of the Bracket Qualifier Satellite (Early)",
      "entry_fee": 1,
      "size": 35,
-     "entries": 0,
+     "entries": 5,
      "prizes": 30.0,
      "max_per_user": 2
     },
@@ -5637,7 +5637,7 @@
      "name": "CBB $150 King of the Bracket Qualifier Satellite (Early)",
      "entry_fee": 11,
      "size": 16,
-     "entries": 0,
+     "entries": 1,
      "prizes": 150.0,
      "max_per_user": 2
     },
@@ -5655,7 +5655,7 @@
      "name": "CBB $1 Triple Up [Top 9 Win $3] (Early)",
      "entry_fee": 1,
      "size": 31,
-     "entries": 0,
+     "entries": 14,
      "prizes": 27.0,
      "max_per_user": 1
     },
@@ -5664,7 +5664,7 @@
      "name": "CBB $25 Double Up (Early)",
      "entry_fee": 25,
      "size": 11,
-     "entries": 0,
+     "entries": 5,
      "prizes": 250.0,
      "max_per_user": 1
     },
@@ -5673,7 +5673,7 @@
      "name": "CBB $10 Double Up (Early)",
      "entry_fee": 10,
      "size": 11,
-     "entries": 0,
+     "entries": 6,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -5682,7 +5682,7 @@
      "name": "CBB $5 Double Up (Early)",
      "entry_fee": 5,
      "size": 23,
-     "entries": 0,
+     "entries": 5,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -5691,7 +5691,7 @@
      "name": "CBB $3 Double Up (Early)",
      "entry_fee": 3,
      "size": 23,
-     "entries": 0,
+     "entries": 4,
      "prizes": 60.0,
      "max_per_user": 1
     },
@@ -5700,7 +5700,7 @@
      "name": "CBB $1 Double Up (Early)",
      "entry_fee": 1,
      "size": 23,
-     "entries": 0,
+     "entries": 6,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -5709,8 +5709,26 @@
      "name": "CBB $1 Double Up (Early)",
      "entry_fee": 1,
      "size": 23,
-     "entries": 0,
+     "entries": 5,
      "prizes": 20.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197917975,
+     "name": "CBB FREE 50-Player (Early)",
+     "entry_fee": 0,
+     "size": 50,
+     "entries": 5,
+     "prizes": 0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197920358,
+     "name": "CBB $5 4-Player (Winner Takes All) (Early)",
+     "entry_fee": 5,
+     "size": 4,
+     "entries": 1,
+     "prizes": 18.0,
      "max_per_user": 1
     },
     {
@@ -6713,7 +6731,7 @@
      "max_per_user": 1
     }
    ],
-   "contests_at": "2026-11-16T23:23:39+00:00"
+   "contests_at": "2026-11-17T08:23:53+00:00"
   },
   {
    "draft_group_id": 156663,
@@ -9766,7 +9784,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906433,
+     "id": 197920901,
      "name": "CBB $25 Winner Take All [$110 to 1st]",
      "entry_fee": 25,
      "size": 5,
@@ -9779,7 +9797,7 @@
      "name": "CBB $25 Winner Take All [$110 to 1st]",
      "entry_fee": 25,
      "size": 5,
-     "entries": 0,
+     "entries": 1,
      "prizes": 110.0,
      "max_per_user": 1
     },
@@ -9815,7 +9833,7 @@
      "name": "CBB $85 Winner Take All [$300 to 1st]",
      "entry_fee": 85,
      "size": 4,
-     "entries": 0,
+     "entries": 1,
      "prizes": 300.0,
      "max_per_user": 1
     },
@@ -9824,7 +9842,7 @@
      "name": "CBB $100 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 20,
+     "entries": 340,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -9904,7 +9922,7 @@
      "name": "CBB Satellite to NFL Best Ball Playoff Millionaire [Must Fill]",
      "entry_fee": 9,
      "size": 3,
-     "entries": 0,
+     "entries": 1,
      "prizes": 25.0,
      "max_per_user": 1
     },
@@ -9940,7 +9958,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire",
      "entry_fee": 0.1,
      "size": 59,
-     "entries": 2,
+     "entries": 16,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -9949,7 +9967,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire",
      "entry_fee": 0.25,
      "size": 23,
-     "entries": 0,
+     "entries": 10,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -9967,7 +9985,7 @@
      "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special",
      "entry_fee": 20,
      "size": 13,
-     "entries": 0,
+     "entries": 2,
      "prizes": 222.0,
      "max_per_user": 2
     },
@@ -9976,7 +9994,7 @@
      "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special",
      "entry_fee": 7,
      "size": 37,
-     "entries": 0,
+     "entries": 4,
      "prizes": 222.0,
      "max_per_user": 3
     },
@@ -9985,7 +10003,7 @@
      "name": "CBB $30 King of the Bracket Qualifier Satellite",
      "entry_fee": 5,
      "size": 7,
-     "entries": 0,
+     "entries": 2,
      "prizes": 30.0,
      "max_per_user": 1
     },
@@ -9994,7 +10012,7 @@
      "name": "CBB $30 King of the Bracket Qualifier Satellite",
      "entry_fee": 1,
      "size": 35,
-     "entries": 0,
+     "entries": 7,
      "prizes": 30.0,
      "max_per_user": 2
     },
@@ -10003,7 +10021,7 @@
      "name": "CBB $150 King of the Bracket Qualifier Satellite",
      "entry_fee": 3,
      "size": 59,
-     "entries": 0,
+     "entries": 5,
      "prizes": 150.0,
      "max_per_user": 3
     },
@@ -10012,7 +10030,7 @@
      "name": "CBB $150 King of the Bracket Qualifier Satellite",
      "entry_fee": 11,
      "size": 16,
-     "entries": 0,
+     "entries": 1,
      "prizes": 150.0,
      "max_per_user": 2
     },
@@ -10021,7 +10039,7 @@
      "name": "CBB $520 King of the Bracket Qualifier Satellite",
      "entry_fee": 46,
      "size": 13,
-     "entries": 0,
+     "entries": 1,
      "prizes": 520.0,
      "max_per_user": 2
     },
@@ -10030,7 +10048,7 @@
      "name": "CBB $1 Triple Up [Top 9 Win $3]",
      "entry_fee": 1,
      "size": 31,
-     "entries": 0,
+     "entries": 15,
      "prizes": 27.0,
      "max_per_user": 1
     },
@@ -10039,7 +10057,7 @@
      "name": "CBB $25 Double Up",
      "entry_fee": 25,
      "size": 11,
-     "entries": 0,
+     "entries": 3,
      "prizes": 250.0,
      "max_per_user": 1
     },
@@ -10048,7 +10066,7 @@
      "name": "CBB $10 Double Up",
      "entry_fee": 10,
      "size": 11,
-     "entries": 0,
+     "entries": 3,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -10057,7 +10075,7 @@
      "name": "CBB $10 Double Up",
      "entry_fee": 10,
      "size": 11,
-     "entries": 0,
+     "entries": 4,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -10066,7 +10084,7 @@
      "name": "CBB $5 Double Up",
      "entry_fee": 5,
      "size": 23,
-     "entries": 0,
+     "entries": 5,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -10075,7 +10093,7 @@
      "name": "CBB $5 Double Up",
      "entry_fee": 5,
      "size": 23,
-     "entries": 0,
+     "entries": 4,
      "prizes": 100.0,
      "max_per_user": 1
     },
@@ -10084,7 +10102,7 @@
      "name": "CBB $3 Double Up",
      "entry_fee": 3,
      "size": 23,
-     "entries": 0,
+     "entries": 2,
      "prizes": 60.0,
      "max_per_user": 1
     },
@@ -10093,7 +10111,7 @@
      "name": "CBB $3 Double Up",
      "entry_fee": 3,
      "size": 23,
-     "entries": 0,
+     "entries": 2,
      "prizes": 60.0,
      "max_per_user": 1
     },
@@ -10102,7 +10120,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 39,
-     "entries": 0,
+     "entries": 6,
      "prizes": 34.0,
      "max_per_user": 1
     },
@@ -10111,7 +10129,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 0,
+     "entries": 2,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -10120,8 +10138,98 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 0,
+     "entries": 4,
      "prizes": 20.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197917976,
+     "name": "CBB FREE 50-Player",
+     "entry_fee": 0,
+     "size": 50,
+     "entries": 4,
+     "prizes": 0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197911880,
+     "name": "CBB FREE 30-Player",
+     "entry_fee": 0,
+     "size": 30,
+     "entries": 7,
+     "prizes": 0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906810,
+     "name": "CBB $270 3-Player",
+     "entry_fee": 270,
+     "size": 3,
+     "entries": 1,
+     "prizes": 750.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906782,
+     "name": "CBB $215 3-Player",
+     "entry_fee": 215,
+     "size": 3,
+     "entries": 1,
+     "prizes": 600.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906812,
+     "name": "CBB $162 3-Player",
+     "entry_fee": 162,
+     "size": 3,
+     "entries": 1,
+     "prizes": 450.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906768,
+     "name": "CBB $109 3-Player",
+     "entry_fee": 109,
+     "size": 3,
+     "entries": 1,
+     "prizes": 300.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906770,
+     "name": "CBB $50 3-Player",
+     "entry_fee": 50,
+     "size": 3,
+     "entries": 1,
+     "prizes": 135.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906765,
+     "name": "CBB $20 3-Player",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 1,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906761,
+     "name": "CBB $10 3-Player",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 1,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197906758,
+     "name": "CBB $5 3-Player",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 1,
+     "prizes": 13.5,
      "max_per_user": 1
     },
     {
@@ -10539,7 +10647,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906810,
+     "id": 197918004,
      "name": "CBB $270 3-Player",
      "entry_fee": 270,
      "size": 3,
@@ -10557,7 +10665,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906782,
+     "id": 197918003,
      "name": "CBB $215 3-Player",
      "entry_fee": 215,
      "size": 3,
@@ -10575,7 +10683,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906812,
+     "id": 197918005,
      "name": "CBB $162 3-Player",
      "entry_fee": 162,
      "size": 3,
@@ -10602,7 +10710,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906768,
+     "id": 197918002,
      "name": "CBB $109 3-Player",
      "entry_fee": 109,
      "size": 3,
@@ -10638,7 +10746,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906770,
+     "id": 197906771,
      "name": "CBB $50 3-Player",
      "entry_fee": 50,
      "size": 3,
@@ -10647,7 +10755,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906771,
+     "id": 197918000,
      "name": "CBB $50 3-Player",
      "entry_fee": 50,
      "size": 3,
@@ -10746,7 +10854,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906765,
+     "id": 197906766,
      "name": "CBB $20 3-Player",
      "entry_fee": 20,
      "size": 3,
@@ -10755,7 +10863,7 @@
      "max_per_user": 1
     },
     {
-     "id": 197906766,
+     "id": 197917999,
      "name": "CBB $20 3-Player",
      "entry_fee": 20,
      "size": 3,
@@ -10818,15 +10926,6 @@
      "max_per_user": 1
     },
     {
-     "id": 197906761,
-     "name": "CBB $10 3-Player",
-     "entry_fee": 10,
-     "size": 3,
-     "entries": 0,
-     "prizes": 27.0,
-     "max_per_user": 1
-    },
-    {
      "id": 197906762,
      "name": "CBB $10 3-Player",
      "entry_fee": 10,
@@ -10837,6 +10936,15 @@
     },
     {
      "id": 197906763,
+     "name": "CBB $10 3-Player",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197917998,
      "name": "CBB $10 3-Player",
      "entry_fee": 10,
      "size": 3,
@@ -10908,15 +11016,6 @@
      "max_per_user": 1
     },
     {
-     "id": 197906758,
-     "name": "CBB $5 3-Player",
-     "entry_fee": 5,
-     "size": 3,
-     "entries": 0,
-     "prizes": 13.5,
-     "max_per_user": 1
-    },
-    {
      "id": 197906759,
      "name": "CBB $5 3-Player",
      "entry_fee": 5,
@@ -10927,6 +11026,15 @@
     },
     {
      "id": 197906760,
+     "name": "CBB $5 3-Player",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 0,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197917997,
      "name": "CBB $5 3-Player",
      "entry_fee": 5,
      "size": 3,
@@ -11124,7 +11232,7 @@
      "max_per_user": 1
     }
    ],
-   "contests_at": "2026-11-16T23:23:39+00:00"
+   "contests_at": "2026-11-17T08:23:53+00:00"
   }
  ]
 }
