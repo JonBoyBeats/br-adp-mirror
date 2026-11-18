@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:32:55Z",
+ "generated_at": "2026-11-18T12:37:48Z",
  "slates": [
   {
    "draft_group_id": 156662,
@@ -9838,7 +9838,7 @@
      "name": "CBB $750 And-One (Early)",
      "entry_fee": 1,
      "size": 891,
-     "entries": 197,
+     "entries": 201,
      "prizes": 750.0,
      "max_per_user": 20,
      "payouts": [
@@ -9918,13 +9918,13 @@
      "max_per_user": 1
     },
     {
-     "id": 197938351,
-     "name": "CBB $400 Full Court Press [2 Entry Max] (Early)",
-     "entry_fee": 33,
-     "size": 14,
-     "entries": 3,
+     "id": 197938357,
+     "name": "CBB $400 High Five [Single Entry] (Early)",
+     "entry_fee": 5,
+     "size": 95,
+     "entries": 16,
      "prizes": 400.0,
-     "max_per_user": 2
+     "max_per_user": 1
     },
     {
      "id": 197941265,
@@ -9945,12 +9945,12 @@
      "max_per_user": 1
     },
     {
-     "id": 197938357,
-     "name": "CBB $400 High Five [Single Entry] (Early)",
-     "entry_fee": 5,
-     "size": 95,
-     "entries": 16,
-     "prizes": 400.0,
+     "id": 197941141,
+     "name": "CBB $25 Winner Take All [$110 to 1st] (Early)",
+     "entry_fee": 25,
+     "size": 5,
+     "entries": 2,
+     "prizes": 110.0,
      "max_per_user": 1
     },
     {
@@ -10017,15 +10017,6 @@
      "max_per_user": 1
     },
     {
-     "id": 197941141,
-     "name": "CBB $25 Winner Take All [$110 to 1st] (Early)",
-     "entry_fee": 25,
-     "size": 5,
-     "entries": 2,
-     "prizes": 110.0,
-     "max_per_user": 1
-    },
-    {
      "id": 197938353,
      "name": "CBB $100 Buzzer Beater (Early)",
      "entry_fee": 3,
@@ -10033,6 +10024,15 @@
      "entries": 5,
      "prizes": 100.0,
      "max_per_user": 3
+    },
+    {
+     "id": 197938351,
+     "name": "CBB $400 Full Court Press [2 Entry Max] (Early)",
+     "entry_fee": 33,
+     "size": 14,
+     "entries": 3,
+     "prizes": 400.0,
+     "max_per_user": 2
     },
     {
      "id": 197938350,
@@ -10048,7 +10048,7 @@
      "name": "CBB $100 Quarter Jukebox [Just $0.25!] (Early)",
      "entry_fee": 0.25,
      "size": 475,
-     "entries": 116,
+     "entries": 117,
      "prizes": 100.0,
      "max_per_user": 14,
      "payouts": [
@@ -10109,7 +10109,7 @@
      "name": "CBB $50 Dime Time [Just $0.10!] (Early)",
      "entry_fee": 0.1,
      "size": 594,
-     "entries": 269,
+     "entries": 270,
      "prizes": 50.0,
      "max_per_user": 17,
      "payouts": [
@@ -10260,7 +10260,7 @@
      "name": "CBB FREE 200-Player (Early)",
      "entry_fee": 0,
      "size": 200,
-     "entries": 1,
+     "entries": 2,
      "prizes": 0,
      "max_per_user": 1,
      "payouts": null
@@ -11346,7 +11346,7 @@
      "max_per_user": 1
     }
    ],
-   "contests_at": "2026-11-18T12:32:55+00:00"
+   "contests_at": "2026-11-18T12:37:48+00:00"
   },
   {
    "draft_group_id": 157033,
@@ -11427,62 +11427,11 @@
      ]
     },
     {
-     "id": 197938368,
-     "name": "CBB $750 High Five [Single Entry]",
-     "entry_fee": 5,
-     "size": 178,
-     "entries": 29,
-     "prizes": 750.0,
-     "max_per_user": 1,
-     "payouts": [
-      [
-       1,
-       1,
-       150.0
-      ],
-      [
-       2,
-       2,
-       112.5
-      ],
-      [
-       3,
-       3,
-       78.75
-      ],
-      [
-       4,
-       4,
-       52.5
-      ],
-      [
-       5,
-       5,
-       37.5
-      ],
-      [
-       6,
-       10,
-       18.75
-      ],
-      [
-       11,
-       20,
-       13.12
-      ],
-      [
-       21,
-       30,
-       9.38
-      ]
-     ]
-    },
-    {
      "id": 197938365,
      "name": "CBB $1.25K And-One",
      "entry_fee": 1,
      "size": 1486,
-     "entries": 368,
+     "entries": 390,
      "prizes": 1250.0,
      "max_per_user": 20,
      "payouts": [
@@ -11555,6 +11504,57 @@
        181,
        350,
        1.5
+      ]
+     ]
+    },
+    {
+     "id": 197938368,
+     "name": "CBB $750 High Five [Single Entry]",
+     "entry_fee": 5,
+     "size": 178,
+     "entries": 30,
+     "prizes": 750.0,
+     "max_per_user": 1,
+     "payouts": [
+      [
+       1,
+       1,
+       150.0
+      ],
+      [
+       2,
+       2,
+       112.5
+      ],
+      [
+       3,
+       3,
+       78.75
+      ],
+      [
+       4,
+       4,
+       52.5
+      ],
+      [
+       5,
+       5,
+       37.5
+      ],
+      [
+       6,
+       10,
+       18.75
+      ],
+      [
+       11,
+       20,
+       13.12
+      ],
+      [
+       21,
+       30,
+       9.38
       ]
      ]
     },
@@ -11768,7 +11768,7 @@
      "name": "CBB $200 Quarter Jukebox",
      "entry_fee": 0.25,
      "size": 951,
-     "entries": 279,
+     "entries": 281,
      "prizes": 200.0,
      "max_per_user": 20,
      "payouts": [
@@ -11834,7 +11834,7 @@
      "name": "CBB $100 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 213,
+     "entries": 216,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -12076,7 +12076,7 @@
      "name": "CBB FREE 200-Player",
      "entry_fee": 0,
      "size": 200,
-     "entries": 3,
+     "entries": 4,
      "prizes": 0,
      "max_per_user": 1,
      "payouts": null
@@ -13081,7 +13081,7 @@
      "max_per_user": 1
     }
    ],
-   "contests_at": "2026-11-18T12:32:55+00:00"
+   "contests_at": "2026-11-18T12:37:48+00:00"
   }
  ]
 }
