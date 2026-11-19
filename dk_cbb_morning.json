@@ -4,7 +4,7 @@
   "skills": "2026-11-19_skills.csv",
   "team_ratings": "2026-11-19_team_ratings.csv"
  },
- "generated_at": "2026-11-19T19:12:26Z",
+ "generated_at": "2026-11-19T19:23:58Z",
  "season": "2026-27",
  "slates": [
   {
@@ -10793,7 +10793,7 @@
      "size": 3
     },
     {
-     "entries": 11,
+     "entries": 22,
      "entry_fee": 10,
      "id": 197988214,
      "max_per_user": 2,
@@ -10829,25 +10829,7 @@
      "size": 5
     },
     {
-     "entries": 36,
-     "entry_fee": 3,
-     "id": 197983147,
-     "max_per_user": 3,
-     "name": "CBB $100 Buzzer Beater (Early)",
-     "prizes": 100.0,
-     "size": 39
-    },
-    {
-     "entries": 14,
-     "entry_fee": 12,
-     "id": 197983223,
-     "max_per_user": 1,
-     "name": "CBB $155 Fast Break [Single Entry] (Early)",
-     "prizes": 155.0,
-     "size": 15
-    },
-    {
-     "entries": 127,
+     "entries": 152,
      "entry_fee": 1,
      "id": 197985438,
      "max_per_user": 7,
@@ -10903,22 +10885,13 @@
      "size": 237
     },
     {
-     "entries": 42,
+     "entries": 50,
      "entry_fee": 0.25,
      "id": 197985409,
      "max_per_user": 2,
      "name": "CBB $20 Quarter Jukebox [Just $0.25!] (Early)",
      "prizes": 20.0,
      "size": 95
-    },
-    {
-     "entries": 44,
-     "entry_fee": 5,
-     "id": 197974026,
-     "max_per_user": 3,
-     "name": "CBB $5 Double Up (Early)",
-     "prizes": 200.0,
-     "size": 46
     },
     {
      "entries": 0,
@@ -10966,7 +10939,7 @@
      "size": 3
     },
     {
-     "entries": 30,
+     "entries": 32,
      "entry_fee": 0.1,
      "id": 197981002,
      "max_per_user": 1,
@@ -10975,7 +10948,7 @@
      "size": 59
     },
     {
-     "entries": 8,
+     "entries": 10,
      "entry_fee": 20,
      "id": 197981004,
      "max_per_user": 2,
@@ -10984,7 +10957,7 @@
      "size": 13
     },
     {
-     "entries": 8,
+     "entries": 9,
      "entry_fee": 10,
      "id": 197986513,
      "max_per_user": 1,
@@ -10993,7 +10966,7 @@
      "size": 11
     },
     {
-     "entries": 18,
+     "entries": 21,
      "entry_fee": 5,
      "id": 197980997,
      "max_per_user": 1,
@@ -11002,18 +10975,9 @@
      "size": 23
     },
     {
-     "entries": 9,
+     "entries": 13,
      "entry_fee": 1,
      "id": 197987704,
-     "max_per_user": 1,
-     "name": "CBB $1 Double Up (Early)",
-     "prizes": 20.0,
-     "size": 23
-    },
-    {
-     "entries": 22,
-     "entry_fee": 1,
-     "id": 197980995,
      "max_per_user": 1,
      "name": "CBB $1 Double Up (Early)",
      "prizes": 20.0,
@@ -11568,15 +11532,6 @@
      "name": "CBB $1 5-Player (Early)",
      "prizes": 4.5,
      "size": 5
-    },
-    {
-     "entries": 2,
-     "entry_fee": 1,
-     "id": 197987615,
-     "max_per_user": 1,
-     "name": "CBB $1 3-Player (Winner Takes All) (Early)",
-     "prizes": 2.7,
-     "size": 3
     },
     {
      "entries": 0,
@@ -12578,6 +12533,56 @@
      "size": 3
     },
     {
+     "entries": 39,
+     "entry_fee": 3,
+     "full": true,
+     "id": 197983147,
+     "max_per_user": 3,
+     "name": "CBB $100 Buzzer Beater (Early)",
+     "prizes": 100.0,
+     "size": 39
+    },
+    {
+     "entries": 15,
+     "entry_fee": 12,
+     "full": true,
+     "id": 197983223,
+     "max_per_user": 1,
+     "name": "CBB $155 Fast Break [Single Entry] (Early)",
+     "prizes": 155.0,
+     "size": 15
+    },
+    {
+     "entries": 46,
+     "entry_fee": 5,
+     "full": true,
+     "id": 197974026,
+     "max_per_user": 3,
+     "name": "CBB $5 Double Up (Early)",
+     "prizes": 200.0,
+     "size": 46
+    },
+    {
+     "entries": 23,
+     "entry_fee": 1,
+     "full": true,
+     "id": 197980995,
+     "max_per_user": 1,
+     "name": "CBB $1 Double Up (Early)",
+     "prizes": 20.0,
+     "size": 23
+    },
+    {
+     "entries": 3,
+     "entry_fee": 1,
+     "full": true,
+     "id": 197987615,
+     "max_per_user": 1,
+     "name": "CBB $1 3-Player (Winner Takes All) (Early)",
+     "prizes": 2.7,
+     "size": 3
+    },
+    {
      "entries": 4,
      "entry_fee": 267,
      "full": true,
@@ -13086,7 +13091,7 @@
      "size": 5
     }
    ],
-   "contests_at": "2026-11-19T19:12:25+00:00",
+   "contests_at": "2026-11-19T19:23:57+00:00",
    "day": "2026-11-19",
    "draft_group_id": 157138,
    "games": 3,
@@ -19683,7 +19688,7 @@
   {
    "contests": [
     {
-     "entries": 220,
+     "entries": 222,
      "entry_fee": 15,
      "id": 197974030,
      "max_per_user": 14,
@@ -19749,7 +19754,7 @@
      "size": 470
     },
     {
-     "entries": 705,
+     "entries": 736,
      "entry_fee": 1,
      "id": 197974032,
      "max_per_user": 20,
@@ -19839,7 +19844,7 @@
      "size": 15
     },
     {
-     "entries": 65,
+     "entries": 68,
      "entry_fee": 5,
      "id": 197974035,
      "max_per_user": 1,
@@ -20034,7 +20039,7 @@
      "size": 6
     },
     {
-     "entries": 496,
+     "entries": 517,
      "entry_fee": 0.25,
      "id": 197974033,
      "max_per_user": 20,
@@ -20100,7 +20105,7 @@
      "size": 951
     },
     {
-     "entries": 568,
+     "entries": 591,
      "entry_fee": 0.1,
      "id": 197981015,
      "max_per_user": 20,
@@ -20261,7 +20266,7 @@
      "size": 13
     },
     {
-     "entries": 20,
+     "entries": 21,
      "entry_fee": 1,
      "id": 197981012,
      "max_per_user": 1,
@@ -21956,7 +21961,7 @@
      "size": 3
     }
    ],
-   "contests_at": "2026-11-19T19:12:25+00:00",
+   "contests_at": "2026-11-19T19:23:57+00:00",
    "day": "2026-11-19",
    "draft_group_id": 157139,
    "games": 6,
@@ -22684,74 +22689,45 @@
     "45016444": {
      "bpr": 6.09,
      "bpr_rank": 1,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 32.4,
-     "dk_last5": 32.4,
      "em_pos": 5.0,
      "em_role": 2.06,
-     "espn": "5105546",
+     "espn": null,
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 27.5,
-     "fp_base": 30.4,
-     "fp_base_dk": 30.0,
-     "fp_blend": 30.0,
-     "fp_dk": 27.6,
-     "fp_gate": 30.0,
+     "fp": 37.5,
+     "fp_base": null,
+     "fp_blend": 34.45,
+     "fp_dk": 36.5,
+     "fp_gate": 34.45,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
      "gate_w": 0.5,
-     "gp": 3,
+     "gp": 0,
      "home": false,
-     "jump": -13.5,
-     "keep": 0.965,
-     "last5": [
-      [
-       "2026-11-03",
-       24.0,
-       36.25
-      ],
-      [
-       "2026-11-06",
-       19.0,
-       28.75
-      ],
-      [
-       "2026-11-12",
-       17.0,
-       32.25
-      ]
-     ],
-     "last_min": 21.0,
-     "min": 20.5,
-     "min_avg": 20.0,
-     "min_cv": 0.15,
-     "min_last5": [
-      24.0,
-      19.0,
-      17.0
-     ],
-     "min_raw": 20.9,
-     "miss": 9.4,
-     "miss_dk": 9.4,
+     "keep": 1.0,
+     "min": 30.9,
+     "min_poss": 19.8,
+     "min_raw": 31.4,
+     "miss": 16.2,
+     "miss_dk": 15.8,
      "miya_ppm": 1.1,
-     "moved": true,
      "name": "Malique Ewin",
      "opp": "ORST",
      "ou": 160.5,
-     "p_dd": 0.182,
+     "p_dd": 0.0,
      "position": "F",
      "poss": 103.0,
-     "ppm": 1.372,
-     "prior": "2025-26 arkansas-razorbacks",
+     "ppm": 1.238,
      "roster": "F/UTIL",
      "salary": 7900,
      "spread": -1.5,
-     "src": "box",
+     "src": "miya",
      "team": "ORE",
      "ud": null,
-     "value": 3.49
+     "value": 4.62
     },
     "45016446": {
      "bpr": 6.93,
@@ -23492,7 +23468,7 @@
     "45016464": {
      "bpr": 3.87,
      "bpr_rank": 2,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 22.7,
      "dk_last5": 22.7,
      "em_pos": 1.25,
@@ -23500,12 +23476,12 @@
      "espn": "4684268",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 23.0,
-     "fp_base": 22.8,
-     "fp_base_dk": 22.9,
-     "fp_blend": 22.9,
-     "fp_dk": 23.1,
-     "fp_gate": 22.9,
+     "fp": 22.5,
+     "fp_base": 22.3,
+     "fp_base_dk": 22.4,
+     "fp_blend": 22.7,
+     "fp_dk": 22.7,
+     "fp_gate": 22.7,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -23513,7 +23489,7 @@
      "gp": 3,
      "home": false,
      "jump": 5.6,
-     "keep": 0.99,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -23532,7 +23508,7 @@
       ]
      ],
      "last_min": 34.7,
-     "min": 24.8,
+     "min": 24.2,
      "min_avg": 25.0,
      "min_cv": 0.23,
      "min_last5": [
@@ -23541,7 +23517,7 @@
       18.0
      ],
      "min_raw": 25.1,
-     "miss": 8.7,
+     "miss": 8.6,
      "miss_dk": 8.7,
      "miya_ppm": 0.824,
      "moved": true,
@@ -23559,7 +23535,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.35
+     "value": 3.29
     },
     "45016466": {
      "bpr": 1.96,
@@ -24677,7 +24653,7 @@
     "45016494": {
      "bpr": 3.18,
      "bpr_rank": 10,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 21.5,
      "dk_last5": 21.5,
      "em_pos": 3.51,
@@ -24685,12 +24661,12 @@
      "espn": "4685658",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 18.3,
-     "fp_base": 19.5,
-     "fp_base_dk": 19.2,
-     "fp_blend": 19.8,
-     "fp_dk": 18.1,
-     "fp_gate": 19.8,
+     "fp": 17.4,
+     "fp_base": 18.6,
+     "fp_base_dk": 18.3,
+     "fp_blend": 19.35,
+     "fp_dk": 17.2,
+     "fp_gate": 19.35,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -24698,7 +24674,7 @@
      "gp": 3,
      "home": false,
      "jump": -13.7,
-     "keep": 0.961,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -24717,7 +24693,7 @@
       ]
      ],
      "last_min": 19.0,
-     "min": 16.7,
+     "min": 15.9,
      "min_avg": 17.0,
      "min_cv": 0.17,
      "min_last5": [
@@ -24725,9 +24701,9 @@
       14.0,
       16.0
      ],
-     "min_raw": 17.2,
-     "miss": 8.3,
-     "miss_dk": 8.2,
+     "min_raw": 17.3,
+     "miss": 8.0,
+     "miss_dk": 7.9,
      "miya_ppm": 0.922,
      "moved": true,
      "name": "Taylor Bowen",
@@ -24744,12 +24720,12 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 2.92
+     "value": 2.77
     },
     "45016496": {
      "bpr": 3.25,
      "bpr_rank": 6,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 36.0,
      "dk_last5": 36.0,
      "em_pos": 1.88,
@@ -26528,7 +26504,7 @@
     "45016543": {
      "bpr": 3.97,
      "bpr_rank": 9,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 18.8,
      "dk_last5": 18.8,
      "em_pos": 5.0,
@@ -26536,19 +26512,19 @@
      "espn": "4869739",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 17.9,
-     "fp_base": 16.9,
-     "fp_base_dk": 16.6,
-     "fp_blend": 18.05,
-     "fp_dk": 17.3,
-     "fp_gate": 18.05,
+     "fp": 17.1,
+     "fp_base": 16.1,
+     "fp_base_dk": 15.8,
+     "fp_blend": 17.7,
+     "fp_dk": 16.6,
+     "fp_gate": 17.7,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
      "gate_w": 0.5,
      "gp": 3,
      "home": false,
-     "keep": 0.968,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -26567,7 +26543,7 @@
       ]
      ],
      "last_min": 23.0,
-     "min": 17.0,
+     "min": 16.3,
      "min_avg": 16.7,
      "min_cv": 0.16,
      "min_last5": [
@@ -26575,9 +26551,9 @@
       18.0,
       19.0
      ],
-     "min_raw": 17.5,
-     "miss": 7.8,
-     "miss_dk": 7.5,
+     "min_raw": 17.6,
+     "miss": 7.5,
+     "miss_dk": 7.3,
      "miya_ppm": 0.955,
      "moved": false,
      "name": "Sean Stewart",
@@ -26594,7 +26570,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.33
+     "value": 3.19
     },
     "45016545": {
      "bpr": 5.23,
@@ -27075,7 +27051,7 @@
     "45016557": {
      "bpr": 2.24,
      "bpr_rank": 7,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 23.8,
      "dk_last5": 23.8,
      "em_pos": 1.25,
@@ -27083,19 +27059,19 @@
      "espn": "5312019",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 16.1,
-     "fp_base": 17.4,
-     "fp_base_dk": 18.1,
-     "fp_blend": 20.4,
-     "fp_dk": 17.0,
-     "fp_gate": 20.4,
-     "fragile": true,
+     "fp": 15.4,
+     "fp_base": 16.7,
+     "fp_base_dk": 17.2,
+     "fp_blend": 20.05,
+     "fp_dk": 16.3,
+     "fp_gate": 20.05,
+     "fragile": false,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
      "gate_w": 0.5,
      "gp": 3,
      "home": false,
-     "keep": 0.958,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -27114,7 +27090,7 @@
       ]
      ],
      "last_min": 17.5,
-     "min": 18.4,
+     "min": 17.6,
      "min_avg": 19.0,
      "min_cv": 0.07,
      "min_last5": [
@@ -27122,9 +27098,9 @@
       21.0,
       18.0
      ],
-     "min_raw": 18.8,
-     "miss": 7.0,
-     "miss_dk": 7.4,
+     "min_raw": 18.9,
+     "miss": 6.8,
+     "miss_dk": 7.2,
      "miya_ppm": 0.691,
      "moved": false,
      "name": "Wei Lin",
@@ -27141,7 +27117,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.47
+     "value": 3.33
     },
     "45016559": {
      "bpr": 0.72,
@@ -27308,7 +27284,7 @@
     "45016563": {
      "bpr": 3.92,
      "bpr_rank": 5,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 16.8,
      "dk_last5": 16.8,
      "em_pos": 5.0,
@@ -27316,12 +27292,12 @@
      "espn": "5061584",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 16.6,
-     "fp_base": 19.1,
-     "fp_base_dk": 17.6,
-     "fp_blend": 16.2,
-     "fp_dk": 15.6,
-     "fp_gate": 16.2,
+     "fp": 15.4,
+     "fp_base": 17.8,
+     "fp_base_dk": 16.4,
+     "fp_blend": 15.7,
+     "fp_dk": 14.6,
+     "fp_gate": 15.7,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -27329,7 +27305,7 @@
      "gp": 3,
      "home": false,
      "jump": -4.7,
-     "keep": 0.951,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -27348,7 +27324,7 @@
       ]
      ],
      "last_min": 13.8,
-     "min": 13.6,
+     "min": 12.7,
      "min_avg": 12.7,
      "min_cv": 0.5,
      "min_last5": [
@@ -27356,9 +27332,9 @@
       15.0,
       19.0
      ],
-     "min_raw": 14.1,
-     "miss": 8.9,
-     "miss_dk": 8.4,
+     "min_raw": 14.2,
+     "miss": 8.5,
+     "miss_dk": 8.1,
      "miya_ppm": 0.997,
      "moved": true,
      "name": "Pharaoh Compton",
@@ -27375,7 +27351,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.32
+     "value": 3.11
     },
     "45016565": {
      "bpr": -0.45,
@@ -28192,7 +28168,7 @@
     "45016587": {
      "bpr": 2.91,
      "bpr_rank": 8,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 13.2,
      "dk_last5": 13.2,
      "em_pos": 2.13,
@@ -28200,12 +28176,12 @@
      "espn": "5095153",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 13.8,
-     "fp_base": 15.2,
-     "fp_base_dk": 17.1,
-     "fp_blend": 14.3,
-     "fp_dk": 15.4,
-     "fp_gate": 14.3,
+     "fp": 13.2,
+     "fp_base": 14.6,
+     "fp_base_dk": 16.4,
+     "fp_blend": 13.95,
+     "fp_dk": 14.7,
+     "fp_gate": 13.95,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -28213,7 +28189,7 @@
      "gp": 3,
      "home": false,
      "jump": -10.8,
-     "keep": 0.948,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -28232,7 +28208,7 @@
       ]
      ],
      "last_min": 12.0,
-     "min": 18.1,
+     "min": 17.3,
      "min_avg": 18.0,
      "min_cv": 0.24,
      "min_last5": [
@@ -28240,9 +28216,9 @@
       21.0,
       21.0
      ],
-     "min_raw": 18.5,
-     "miss": 7.1,
-     "miss_dk": 7.9,
+     "min_raw": 18.6,
+     "miss": 6.9,
+     "miss_dk": 7.7,
      "miya_ppm": 0.661,
      "moved": true,
      "name": "Jasper Johnson",
@@ -28259,7 +28235,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.58
+     "value": 3.42
     },
     "45016589": {
      "bpr": 2.44,
@@ -28348,7 +28324,7 @@
     "45016591": {
      "bpr": 3.02,
      "bpr_rank": 3,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 13.8,
      "dk_last5": 13.8,
      "em_pos": 2.16,
@@ -28356,12 +28332,12 @@
      "espn": "5081887",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 13.5,
-     "fp_base": 13.7,
-     "fp_base_dk": 14.3,
-     "fp_blend": 13.95,
-     "fp_dk": 14.1,
-     "fp_gate": 13.95,
+     "fp": 13.0,
+     "fp_base": 13.1,
+     "fp_base_dk": 13.7,
+     "fp_blend": 13.65,
+     "fp_dk": 13.5,
+     "fp_gate": 13.65,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -28369,7 +28345,7 @@
      "gp": 3,
      "home": false,
      "jump": -3.1,
-     "keep": 0.981,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -28388,7 +28364,7 @@
       ]
      ],
      "last_min": 29.9,
-     "min": 18.9,
+     "min": 18.1,
      "min_avg": 19.7,
      "min_cv": 0.27,
      "min_last5": [
@@ -28397,8 +28373,8 @@
       15.0
      ],
      "min_raw": 19.3,
-     "miss": 7.1,
-     "miss_dk": 7.4,
+     "miss": 6.9,
+     "miss_dk": 7.2,
      "miya_ppm": 0.641,
      "moved": true,
      "name": "Andrew Meadow",
@@ -28415,7 +28391,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.36
+     "value": 3.21
     },
     "45016593": {
      "bpr": -0.19,
@@ -29345,7 +29321,7 @@
     "45016617": {
      "bpr": 1.41,
      "bpr_rank": 12,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 12.0,
      "dk_last5": 12.0,
      "em_pos": 3.44,
@@ -29353,12 +29329,12 @@
      "espn": "5142714",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 11.6,
-     "fp_base": 12.5,
-     "fp_base_dk": 12.5,
-     "fp_blend": 11.8,
-     "fp_dk": 11.6,
-     "fp_gate": 11.8,
+     "fp": 10.7,
+     "fp_base": 11.5,
+     "fp_base_dk": 11.5,
+     "fp_blend": 11.3,
+     "fp_dk": 10.6,
+     "fp_gate": 11.3,
      "fragile": false,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -29383,7 +29359,7 @@
        9.0
       ]
      ],
-     "min": 13.3,
+     "min": 12.2,
      "min_avg": 13.7,
      "min_cv": 0.15,
      "min_last5": [
@@ -29393,8 +29369,8 @@
      ],
      "min_poss": 13.8,
      "min_raw": 13.8,
-     "miss": 5.9,
-     "miss_dk": 5.9,
+     "miss": 5.7,
+     "miss_dk": 5.6,
      "miya_ppm": 0.782,
      "name": "Tajh Ariza",
      "opp": "ORST",
@@ -29409,7 +29385,7 @@
      "src": "miya",
      "team": "ORE",
      "ud": null,
-     "value": 2.97
+     "value": 2.72
     },
     "45016619": {
      "bpr": -0.67,
@@ -29642,7 +29618,7 @@
     "45016625": {
      "bpr": 3.17,
      "bpr_rank": 4,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 12.1,
      "dk_last5": 12.1,
      "em_pos": 3.64,
@@ -29650,12 +29626,12 @@
      "espn": "5186456",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 12.9,
-     "fp_base": 14.7,
-     "fp_base_dk": 15.0,
-     "fp_blend": 12.65,
-     "fp_dk": 13.2,
-     "fp_gate": 12.65,
+     "fp": 12.4,
+     "fp_base": 14.2,
+     "fp_base_dk": 14.4,
+     "fp_blend": 12.4,
+     "fp_dk": 12.7,
+     "fp_gate": 12.4,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -29663,7 +29639,7 @@
      "gp": 2,
      "home": false,
      "jump": -21.0,
-     "keep": 0.95,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-06",
@@ -29677,16 +29653,16 @@
       ]
      ],
      "last_min": 13.2,
-     "min": 18.1,
+     "min": 17.4,
      "min_avg": 18.0,
      "min_cv": 0.0,
      "min_last5": [
       18.0,
       18.0
      ],
-     "min_raw": 18.5,
-     "miss": 6.4,
-     "miss_dk": 6.5,
+     "min_raw": 18.7,
+     "miss": 6.2,
+     "miss_dk": 6.3,
      "miya_ppm": 0.6,
      "moved": true,
      "name": "Dwayne Aristode",
@@ -29703,7 +29679,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 3.47
+     "value": 3.34
     },
     "45016627": {
      "bpr": 1.59,
@@ -31065,7 +31041,7 @@
     "45016661": {
      "bpr": 0.1,
      "bpr_rank": 11,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 6.8,
      "dk_last5": 6.8,
      "em_pos": 3.41,
@@ -31073,12 +31049,12 @@
      "espn": "5144561",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 7.0,
-     "fp_base": 7.1,
-     "fp_base_dk": 7.4,
-     "fp_blend": 6.95,
-     "fp_dk": 7.1,
-     "fp_gate": 6.95,
+     "fp": 6.1,
+     "fp_base": 6.3,
+     "fp_base_dk": 6.5,
+     "fp_blend": 6.5,
+     "fp_dk": 6.2,
+     "fp_gate": 6.5,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -31103,7 +31079,7 @@
        8.25
       ]
      ],
-     "min": 9.6,
+     "min": 8.4,
      "min_avg": 9.7,
      "min_cv": 0.57,
      "min_last5": [
@@ -31113,8 +31089,8 @@
      ],
      "min_poss": 9.6,
      "min_raw": 10.2,
-     "miss": 5.3,
-     "miss_dk": 5.4,
+     "miss": 4.9,
+     "miss_dk": 5.0,
      "miya_ppm": 0.652,
      "name": "Seven Spurlock",
      "opp": "ORST",
@@ -31129,7 +31105,7 @@
      "src": "miya",
      "team": "ORE",
      "ud": null,
-     "value": 2.09
+     "value": 1.82
     },
     "45016663": {
      "bpr": 0.91,
@@ -31693,7 +31669,7 @@
     "45016679": {
      "bpr": 1.28,
      "bpr_rank": 11,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 4.8,
      "dk_last5": 4.8,
      "em_pos": 2.28,
@@ -31701,12 +31677,12 @@
      "espn": "5101762",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 5.3,
-     "fp_base": 5.4,
-     "fp_base_dk": 5.4,
-     "fp_blend": 5.05,
-     "fp_dk": 5.3,
-     "fp_gate": 5.05,
+     "fp": 4.4,
+     "fp_base": 4.5,
+     "fp_base_dk": 4.4,
+     "fp_blend": 4.6,
+     "fp_dk": 4.4,
+     "fp_gate": 4.6,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
@@ -31714,7 +31690,7 @@
      "gp": 3,
      "home": false,
      "jump": -1.6,
-     "keep": 0.958,
+     "keep": 1.0,
      "last5": [
       [
        "2026-11-03",
@@ -31733,7 +31709,7 @@
       ]
      ],
      "last_min": 17.4,
-     "min": 6.8,
+     "min": 5.7,
      "min_avg": 5.7,
      "min_cv": 0.67,
      "min_last5": [
@@ -31741,9 +31717,9 @@
       3.0,
       11.0
      ],
-     "min_raw": 7.5,
-     "miss": 4.8,
-     "miss_dk": 4.8,
+     "min_raw": 7.6,
+     "miss": 4.5,
+     "miss_dk": 4.5,
      "miya_ppm": 0.688,
      "moved": true,
      "name": "Jerry Easter II",
@@ -31760,7 +31736,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 1.66
+     "value": 1.38
     },
     "45016681": {
      "bpr": -0.18,
@@ -33225,31 +33201,31 @@
     "45016727": {
      "bpr": -3.62,
      "bpr_rank": 13,
-     "crowd": 206.9,
+     "crowd": 185.9,
      "dk_avg": 0.0,
      "em_pos": null,
      "em_role": null,
      "espn": "5252351",
      "espn_team": "2483",
      "event": "401930884",
-     "fp": 2.3,
-     "fp_base": 1.6,
-     "fp_base_dk": 1.9,
-     "fp_blend": 2.4,
-     "fp_dk": 2.4,
-     "fp_gate": 2.4,
+     "fp": 1.8,
+     "fp_base": 1.2,
+     "fp_base_dk": 1.4,
+     "fp_blend": 1.8,
+     "fp_dk": 1.8,
+     "fp_gate": 1.8,
      "fragile": true,
      "game": "ORE@ORST",
      "game_start": "2026-11-20T02:00Z",
      "gate_w": 1.0,
      "gp": 0,
      "home": false,
-     "keep": 0.935,
+     "keep": 1.0,
      "last_min": 5.4,
-     "min": 4.3,
-     "min_raw": 5.0,
-     "miss": 3.5,
-     "miss_dk": 3.7,
+     "min": 3.2,
+     "min_raw": 5.3,
+     "miss": 3.3,
+     "miss_dk": 3.3,
      "miya_ppm": 0.549,
      "moved": false,
      "name": "Luke Johnson",
@@ -33266,7 +33242,7 @@
      "src": "box",
      "team": "ORE",
      "ud": null,
-     "value": 0.8
+     "value": 0.6
     },
     "45016729": {
      "bpr": 2.32,
