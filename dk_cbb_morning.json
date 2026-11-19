@@ -4,7 +4,7 @@
   "skills": "2026-11-19_skills.csv",
   "team_ratings": "2026-11-19_team_ratings.csv"
  },
- "generated_at": "2026-11-19T19:08:41Z",
+ "generated_at": "2026-11-19T19:12:26Z",
  "season": "2026-27",
  "slates": [
   {
@@ -10793,7 +10793,7 @@
      "size": 3
     },
     {
-     "entries": 9,
+     "entries": 11,
      "entry_fee": 10,
      "id": 197988214,
      "max_per_user": 2,
@@ -10802,9 +10802,9 @@
      "size": 23
     },
     {
-     "entries": 3,
+     "entries": 0,
      "entry_fee": 267,
-     "id": 197980716,
+     "id": 197992091,
      "max_per_user": 1,
      "name": "CBB $267 Winner Take All [$1K to 1st, Must Fill] (Early)",
      "prizes": 1000.0,
@@ -10829,6 +10829,15 @@
      "size": 5
     },
     {
+     "entries": 36,
+     "entry_fee": 3,
+     "id": 197983147,
+     "max_per_user": 3,
+     "name": "CBB $100 Buzzer Beater (Early)",
+     "prizes": 100.0,
+     "size": 39
+    },
+    {
      "entries": 14,
      "entry_fee": 12,
      "id": 197983223,
@@ -10838,16 +10847,7 @@
      "size": 15
     },
     {
-     "entries": 34,
-     "entry_fee": 3,
-     "id": 197983147,
-     "max_per_user": 3,
-     "name": "CBB $100 Buzzer Beater (Early)",
-     "prizes": 100.0,
-     "size": 39
-    },
-    {
-     "entries": 116,
+     "entries": 127,
      "entry_fee": 1,
      "id": 197985438,
      "max_per_user": 7,
@@ -10903,7 +10903,7 @@
      "size": 237
     },
     {
-     "entries": 41,
+     "entries": 42,
      "entry_fee": 0.25,
      "id": 197985409,
      "max_per_user": 2,
@@ -10912,7 +10912,7 @@
      "size": 95
     },
     {
-     "entries": 43,
+     "entries": 44,
      "entry_fee": 5,
      "id": 197974026,
      "max_per_user": 3,
@@ -10966,7 +10966,7 @@
      "size": 3
     },
     {
-     "entries": 29,
+     "entries": 30,
      "entry_fee": 0.1,
      "id": 197981002,
      "max_per_user": 1,
@@ -10984,7 +10984,7 @@
      "size": 13
     },
     {
-     "entries": 7,
+     "entries": 8,
      "entry_fee": 10,
      "id": 197986513,
      "max_per_user": 1,
@@ -10993,7 +10993,7 @@
      "size": 11
     },
     {
-     "entries": 17,
+     "entries": 18,
      "entry_fee": 5,
      "id": 197980997,
      "max_per_user": 1,
@@ -11002,7 +11002,7 @@
      "size": 23
     },
     {
-     "entries": 8,
+     "entries": 9,
      "entry_fee": 1,
      "id": 197987704,
      "max_per_user": 1,
@@ -11011,7 +11011,7 @@
      "size": 23
     },
     {
-     "entries": 21,
+     "entries": 22,
      "entry_fee": 1,
      "id": 197980995,
      "max_per_user": 1,
@@ -11105,15 +11105,6 @@
      "entries": 1,
      "entry_fee": 50,
      "id": 197980651,
-     "max_per_user": 1,
-     "name": "CBB $50 3-Player (Early)",
-     "prizes": 135.0,
-     "size": 3
-    },
-    {
-     "entries": 2,
-     "entry_fee": 50,
-     "id": 197982319,
      "max_per_user": 1,
      "name": "CBB $50 3-Player (Early)",
      "prizes": 135.0,
@@ -12587,6 +12578,26 @@
      "size": 3
     },
     {
+     "entries": 4,
+     "entry_fee": 267,
+     "full": true,
+     "id": 197980716,
+     "max_per_user": 1,
+     "name": "CBB $267 Winner Take All [$1K to 1st, Must Fill] (Early)",
+     "prizes": 1000.0,
+     "size": 4
+    },
+    {
+     "entries": 3,
+     "entry_fee": 50,
+     "full": true,
+     "id": 197982319,
+     "max_per_user": 1,
+     "name": "CBB $50 3-Player (Early)",
+     "prizes": 135.0,
+     "size": 3
+    },
+    {
      "entries": 235,
      "entry_fee": 15,
      "full": true,
@@ -13075,7 +13086,7 @@
      "size": 5
     }
    ],
-   "contests_at": "2026-11-19T19:08:40+00:00",
+   "contests_at": "2026-11-19T19:12:25+00:00",
    "day": "2026-11-19",
    "draft_group_id": 157138,
    "games": 3,
@@ -13984,16 +13995,22 @@
      "value": 3.76
     },
     "45017320": {
+     "bpr": 6.04,
+     "bpr_rank": 1,
      "crowd": 250.9,
      "dk_avg": 28.9,
      "dk_last5": 28.9,
+     "em_pos": 3.87,
+     "em_role": 3.99,
      "espn": "4873151",
      "espn_team": "152",
      "event": "401918959",
-     "fp": 25.8,
-     "fp_blend": 28.0,
-     "fp_dk": 27.1,
-     "fp_gate": 28.0,
+     "fp": 25.2,
+     "fp_base": 25.8,
+     "fp_base_dk": 27.1,
+     "fp_blend": 27.7,
+     "fp_dk": 26.5,
+     "fp_gate": 27.7,
      "fragile": false,
      "game": "NCST@MURR",
      "game_start": "2026-11-19T23:00Z",
@@ -14034,15 +14051,17 @@
       32.0
      ],
      "min_raw": 30.4,
-     "miss": 8.0,
-     "miss_dk": 8.4,
+     "miss": 7.9,
+     "miss_dk": 8.3,
+     "miya_ppm": 0.821,
      "moved": false,
      "name": "Paul McNeil Jr.",
      "opp": "MURR",
      "ou": 164.5,
      "p_dd": 0.101,
      "position": "G",
-     "ppm": 0.881,
+     "poss": 192.0,
+     "ppm": 0.858,
      "prior": "2025-26 nc-state-wolfpack",
      "roster": "G/UTIL",
      "salary": 6600,
@@ -14050,7 +14069,7 @@
      "src": "box",
      "team": "NCST",
      "ud": null,
-     "value": 4.11
+     "value": 4.02
     },
     "45017322": {
      "bpr": 1.55,
@@ -19664,7 +19683,7 @@
   {
    "contests": [
     {
-     "entries": 218,
+     "entries": 220,
      "entry_fee": 15,
      "id": 197974030,
      "max_per_user": 14,
@@ -19730,7 +19749,7 @@
      "size": 470
     },
     {
-     "entries": 704,
+     "entries": 705,
      "entry_fee": 1,
      "id": 197974032,
      "max_per_user": 20,
@@ -20015,7 +20034,7 @@
      "size": 6
     },
     {
-     "entries": 495,
+     "entries": 496,
      "entry_fee": 0.25,
      "id": 197974033,
      "max_per_user": 20,
@@ -20081,7 +20100,7 @@
      "size": 951
     },
     {
-     "entries": 563,
+     "entries": 568,
      "entry_fee": 0.1,
      "id": 197981015,
      "max_per_user": 20,
@@ -20269,7 +20288,7 @@
      "size": 11
     },
     {
-     "entries": 16,
+     "entries": 17,
      "entry_fee": 5,
      "id": 197981008,
      "max_per_user": 1,
@@ -21937,7 +21956,7 @@
      "size": 3
     }
    ],
-   "contests_at": "2026-11-19T19:08:40+00:00",
+   "contests_at": "2026-11-19T19:12:25+00:00",
    "day": "2026-11-19",
    "draft_group_id": 157139,
    "games": 6,
@@ -28858,16 +28877,22 @@
      "value": 0.88
     },
     "45016605": {
+     "bpr": 0.78,
+     "bpr_rank": 5,
      "crowd": 214.1,
      "dk_avg": 9.8,
      "dk_last5": 9.8,
+     "em_pos": 3.15,
+     "em_role": 5.0,
      "espn": "5177229",
      "espn_team": "164",
      "event": "401920520",
-     "fp": 11.9,
-     "fp_blend": 11.05,
-     "fp_dk": 12.3,
-     "fp_gate": 11.05,
+     "fp": 12.3,
+     "fp_base": 11.9,
+     "fp_base_dk": 12.3,
+     "fp_blend": 11.25,
+     "fp_dk": 12.7,
+     "fp_gate": 11.25,
      "fragile": true,
      "game": "RU@UNLV",
      "game_start": "2026-11-20T01:30Z",
@@ -28915,15 +28940,17 @@
       25.0
      ],
      "min_raw": 17.5,
-     "miss": 6.5,
-     "miss_dk": 6.7,
+     "miss": 6.6,
+     "miss_dk": 6.8,
+     "miya_ppm": 0.774,
      "moved": true,
      "name": "Darin Smith Jr.",
      "opp": "UNLV",
      "ou": 157.5,
      "p_dd": 0.008,
      "position": "G",
-     "ppm": 0.771,
+     "poss": 157.0,
+     "ppm": 0.801,
      "prior": "2025-26 central-connecticut-blue-devils",
      "roster": "G/UTIL",
      "salary": 4000,
@@ -28931,7 +28958,7 @@
      "src": "box",
      "team": "RU",
      "ud": null,
-     "value": 3.08
+     "value": 3.17
     },
     "45016607": {
      "bpr": 0.76,
@@ -29973,16 +30000,22 @@
      "value": 1.7
     },
     "45016635": {
+     "bpr": 2.11,
+     "bpr_rank": 10,
      "crowd": 192.3,
      "dk_avg": 9.7,
      "dk_last5": 9.7,
+     "em_pos": 2.48,
+     "em_role": 4.51,
      "espn": "4848630",
      "espn_team": "2305",
      "event": "401920518",
-     "fp": 9.4,
-     "fp_blend": 9.55,
-     "fp_dk": 9.4,
-     "fp_gate": 9.55,
+     "fp": 9.3,
+     "fp_base": 9.4,
+     "fp_base_dk": 9.4,
+     "fp_blend": 9.45,
+     "fp_dk": 9.2,
+     "fp_gate": 9.45,
      "fragile": true,
      "game": "UH@KU",
      "game_start": "2026-11-20T04:00Z",
@@ -30030,8 +30063,9 @@
       10.0
      ],
      "min_raw": 12.6,
-     "miss": 5.8,
-     "miss_dk": 5.8,
+     "miss": 5.7,
+     "miss_dk": 5.6,
+     "miya_ppm": 0.898,
      "moved": true,
      "name": "Dennis Parker Jr.",
      "opp": "UH",
@@ -30039,7 +30073,8 @@
      "out_minutes": "Melvin Council Jr.",
      "p_dd": 0.008,
      "position": "G",
-     "ppm": 0.872,
+     "poss": 112.0,
+     "ppm": 0.863,
      "prior": "2025-26 radford-highlanders",
      "roster": "G/UTIL",
      "salary": 3600,
@@ -30047,7 +30082,7 @@
      "src": "box",
      "team": "KU",
      "ud": null,
-     "value": 2.61
+     "value": 2.56
     },
     "45016637": {
      "bpr": 1.8,
