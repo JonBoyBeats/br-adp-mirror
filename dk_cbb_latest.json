@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:23:38Z",
+ "generated_at": "2026-11-19T22:23:58Z",
  "slates": [
   {
    "draft_group_id": 157138,
@@ -6163,7 +6163,7 @@
      "name": "CBB $6K Pull Up Jumper [$2K to 1st]",
      "entry_fee": 15,
      "size": 470,
-     "entries": 257,
+     "entries": 318,
      "prizes": 6000.0,
      "max_per_user": 14,
      "payouts": [
@@ -6225,11 +6225,20 @@
      ]
     },
     {
+     "id": 197974027,
+     "name": "CBB $3K Slam Jam [2 Entry Max]",
+     "entry_fee": 222,
+     "size": 15,
+     "entries": 12,
+     "prizes": 3000.0,
+     "max_per_user": 2
+    },
+    {
      "id": 197974032,
      "name": "CBB $1.25K And-One",
      "entry_fee": 1,
      "size": 1486,
-     "entries": 908,
+     "entries": 1102,
      "prizes": 1250.0,
      "max_per_user": 20,
      "payouts": [
@@ -6306,29 +6315,11 @@
      ]
     },
     {
-     "id": 197974027,
-     "name": "CBB $3K Slam Jam [2 Entry Max]",
-     "entry_fee": 222,
-     "size": 15,
-     "entries": 10,
-     "prizes": 3000.0,
-     "max_per_user": 2
-    },
-    {
-     "id": 197974029,
-     "name": "CBB $1K Full Court Press [2 Entry Max]",
-     "entry_fee": 33,
-     "size": 35,
-     "entries": 24,
-     "prizes": 1000.0,
-     "max_per_user": 2
-    },
-    {
      "id": 197974035,
      "name": "CBB $500 High Five [Single Entry]",
      "entry_fee": 5,
      "size": 118,
-     "entries": 91,
+     "entries": 114,
      "prizes": 500.0,
      "max_per_user": 1,
      "payouts": [
@@ -6379,8 +6370,26 @@
      "name": "CBB $150 High Five [Single Entry]",
      "entry_fee": 5,
      "size": 35,
-     "entries": 0,
+     "entries": 10,
      "prizes": 150.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197974029,
+     "name": "CBB $1K Full Court Press [2 Entry Max]",
+     "entry_fee": 33,
+     "size": 35,
+     "entries": 33,
+     "prizes": 1000.0,
+     "max_per_user": 2
+    },
+    {
+     "id": 197997584,
+     "name": "CBB $200 Full Court Press",
+     "entry_fee": 33,
+     "size": 7,
+     "entries": 2,
+     "prizes": 200.0,
      "max_per_user": 1
     },
     {
@@ -6420,24 +6429,6 @@
      "max_per_user": 1
     },
     {
-     "id": 197974037,
-     "name": "CBB $5 Double Up",
-     "entry_fee": 5,
-     "size": 46,
-     "entries": 45,
-     "prizes": 200.0,
-     "max_per_user": 3
-    },
-    {
-     "id": 197974036,
-     "name": "CBB $10 Double Up",
-     "entry_fee": 10,
-     "size": 23,
-     "entries": 21,
-     "prizes": 200.0,
-     "max_per_user": 2
-    },
-    {
      "id": 197980868,
      "name": "CBB $30 King of the Bracket Qualifier Satellite [Must Fill]",
      "entry_fee": 11,
@@ -6456,15 +6447,6 @@
      "max_per_user": 1
     },
     {
-     "id": 197980867,
-     "name": "CBB Satellite to NHL 12-9 $20 Overload [Must Fill]",
-     "entry_fee": 7.4,
-     "size": 3,
-     "entries": 0,
-     "prizes": 20.0,
-     "max_per_user": 1
-    },
-    {
      "id": 197980864,
      "name": "CBB $100 Winner Take All [$460 to 1st, Must Fill]",
      "entry_fee": 100,
@@ -6474,31 +6456,13 @@
      "max_per_user": 1
     },
     {
-     "id": 197985750,
-     "name": "CBB $265 Fadeaway [Single Entry]",
-     "entry_fee": 50,
-     "size": 6,
-     "entries": 2,
-     "prizes": 265.0,
-     "max_per_user": 1
-    },
-    {
      "id": 197993305,
      "name": "CBB $155 Fast Break [Single Entry]",
      "entry_fee": 12,
      "size": 15,
-     "entries": 3,
+     "entries": 9,
      "prizes": 155.0,
      "max_per_user": 1
-    },
-    {
-     "id": 197974031,
-     "name": "CBB $200 Big Five",
-     "entry_fee": 5,
-     "size": 47,
-     "entries": 45,
-     "prizes": 200.0,
-     "max_per_user": 3
     },
     {
      "id": 197981013,
@@ -6510,11 +6474,20 @@
      "max_per_user": 1
     },
     {
+     "id": 197985750,
+     "name": "CBB $265 Fadeaway [Single Entry]",
+     "entry_fee": 50,
+     "size": 6,
+     "entries": 4,
+     "prizes": 265.0,
+     "max_per_user": 1
+    },
+    {
      "id": 197974033,
      "name": "CBB $200 Quarter Jukebox",
      "entry_fee": 0.25,
      "size": 951,
-     "entries": 627,
+     "entries": 743,
      "prizes": 200.0,
      "max_per_user": 20,
      "payouts": [
@@ -6576,11 +6549,20 @@
      ]
     },
     {
+     "id": 197999147,
+     "name": "CBB $20 Quarter Jukebox [Just $0.25!]",
+     "entry_fee": 0.25,
+     "size": 95,
+     "entries": 4,
+     "prizes": 20.0,
+     "max_per_user": 2
+    },
+    {
      "id": 197981015,
      "name": "CBB $100 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 719,
+     "entries": 790,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -6647,6 +6629,15 @@
      ]
     },
     {
+     "id": 197980867,
+     "name": "CBB Satellite to NHL 12-9 $20 Overload [Must Fill]",
+     "entry_fee": 7.4,
+     "size": 3,
+     "entries": 0,
+     "prizes": 20.0,
+     "max_per_user": 1
+    },
+    {
      "id": 197980869,
      "name": "CBB $150 King of the Bracket Qualifier Satellite [Must Fill]",
      "entry_fee": 55,
@@ -6669,7 +6660,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire",
      "entry_fee": 0.1,
      "size": 59,
-     "entries": 22,
+     "entries": 27,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -6678,7 +6669,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire",
      "entry_fee": 0.25,
      "size": 23,
-     "entries": 17,
+     "entries": 19,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -6687,7 +6678,7 @@
      "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special",
      "entry_fee": 20,
      "size": 13,
-     "entries": 5,
+     "entries": 8,
      "prizes": 222.0,
      "max_per_user": 2
     },
@@ -6696,7 +6687,7 @@
      "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special",
      "entry_fee": 7,
      "size": 37,
-     "entries": 9,
+     "entries": 13,
      "prizes": 222.0,
      "max_per_user": 3
     },
@@ -6714,7 +6705,7 @@
      "name": "CBB $30 King of the Bracket Qualifier Satellite",
      "entry_fee": 1,
      "size": 35,
-     "entries": 16,
+     "entries": 18,
      "prizes": 30.0,
      "max_per_user": 2
     },
@@ -6723,7 +6714,7 @@
      "name": "CBB $150 King of the Bracket Qualifier Satellite",
      "entry_fee": 11,
      "size": 16,
-     "entries": 9,
+     "entries": 10,
      "prizes": 150.0,
      "max_per_user": 2
     },
@@ -6732,7 +6723,7 @@
      "name": "CBB $520 King of the Bracket Qualifier Satellite",
      "entry_fee": 46,
      "size": 13,
-     "entries": 6,
+     "entries": 9,
      "prizes": 520.0,
      "max_per_user": 2
     },
@@ -6741,16 +6732,16 @@
      "name": "CBB $1 Triple Up [Top 9 Win $3]",
      "entry_fee": 1,
      "size": 31,
-     "entries": 27,
+     "entries": 30,
      "prizes": 27.0,
      "max_per_user": 1
     },
     {
-     "id": 197981006,
+     "id": 197999407,
      "name": "CBB $25 Double Up",
      "entry_fee": 25,
      "size": 11,
-     "entries": 9,
+     "entries": 0,
      "prizes": 250.0,
      "max_per_user": 1
     },
@@ -6759,25 +6750,25 @@
      "name": "CBB $10 Double Up",
      "entry_fee": 10,
      "size": 11,
-     "entries": 1,
+     "entries": 6,
      "prizes": 100.0,
      "max_per_user": 1
     },
     {
-     "id": 197981008,
+     "id": 197996097,
      "name": "CBB $5 Double Up",
      "entry_fee": 5,
      "size": 23,
-     "entries": 22,
+     "entries": 8,
      "prizes": 100.0,
      "max_per_user": 1
     },
     {
-     "id": 197981009,
+     "id": 197999468,
      "name": "CBB $3 Double Up",
      "entry_fee": 3,
      "size": 23,
-     "entries": 18,
+     "entries": 0,
      "prizes": 60.0,
      "max_per_user": 1
     },
@@ -6786,7 +6777,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 1,
+     "entries": 10,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -6795,7 +6786,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 4,
+     "entries": 11,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -6804,7 +6795,7 @@
      "name": "CBB FREE 200-Player",
      "entry_fee": 0,
      "size": 200,
-     "entries": 23,
+     "entries": 25,
      "prizes": 0,
      "max_per_user": 1,
      "payouts": null
@@ -7246,7 +7237,7 @@
      "name": "CBB $2 50-50",
      "entry_fee": 2,
      "size": 4,
-     "entries": 2,
+     "entries": 3,
      "prizes": 7.2,
      "max_per_user": 1
     },
@@ -7255,7 +7246,7 @@
      "name": "CBB $2 50-50",
      "entry_fee": 2,
      "size": 4,
-     "entries": 2,
+     "entries": 3,
      "prizes": 7.2,
      "max_per_user": 1
     },
@@ -7291,7 +7282,7 @@
      "name": "CBB $2 3-Player",
      "entry_fee": 2,
      "size": 3,
-     "entries": 1,
+     "entries": 2,
      "prizes": 5.4,
      "max_per_user": 1
     },
@@ -7309,7 +7300,7 @@
      "name": "CBB $2 3-Player",
      "entry_fee": 2,
      "size": 3,
-     "entries": 1,
+     "entries": 2,
      "prizes": 5.4,
      "max_per_user": 1
     },
@@ -7318,7 +7309,7 @@
      "name": "CBB $1 50-50",
      "entry_fee": 1,
      "size": 20,
-     "entries": 1,
+     "entries": 2,
      "prizes": 18.0,
      "max_per_user": 1
     },
@@ -7383,15 +7374,6 @@
      "size": 5,
      "entries": 1,
      "prizes": 4.5,
-     "max_per_user": 1
-    },
-    {
-     "id": 197980753,
-     "name": "CBB $1 3-Player",
-     "entry_fee": 1,
-     "size": 3,
-     "entries": 2,
-     "prizes": 2.7,
      "max_per_user": 1
     },
     {
@@ -8412,6 +8394,76 @@
      "max_per_user": 1
     },
     {
+     "id": 197974037,
+     "name": "CBB $5 Double Up",
+     "entry_fee": 5,
+     "size": 46,
+     "entries": 46,
+     "prizes": 200.0,
+     "max_per_user": 3,
+     "full": true
+    },
+    {
+     "id": 197974036,
+     "name": "CBB $10 Double Up",
+     "entry_fee": 10,
+     "size": 23,
+     "entries": 23,
+     "prizes": 200.0,
+     "max_per_user": 2,
+     "full": true
+    },
+    {
+     "id": 197974031,
+     "name": "CBB $200 Big Five",
+     "entry_fee": 5,
+     "size": 47,
+     "entries": 47,
+     "prizes": 200.0,
+     "max_per_user": 3,
+     "full": true
+    },
+    {
+     "id": 197981006,
+     "name": "CBB $25 Double Up",
+     "entry_fee": 25,
+     "size": 11,
+     "entries": 11,
+     "prizes": 250.0,
+     "max_per_user": 1,
+     "full": true
+    },
+    {
+     "id": 197981008,
+     "name": "CBB $5 Double Up",
+     "entry_fee": 5,
+     "size": 23,
+     "entries": 23,
+     "prizes": 100.0,
+     "max_per_user": 1,
+     "full": true
+    },
+    {
+     "id": 197981009,
+     "name": "CBB $3 Double Up",
+     "entry_fee": 3,
+     "size": 23,
+     "entries": 23,
+     "prizes": 60.0,
+     "max_per_user": 1,
+     "full": true
+    },
+    {
+     "id": 197980753,
+     "name": "CBB $1 3-Player",
+     "entry_fee": 1,
+     "size": 3,
+     "entries": 3,
+     "prizes": 2.7,
+     "max_per_user": 1,
+     "full": true
+    },
+    {
      "id": 197981014,
      "name": "CBB $25 Winner Take All [$110 to 1st]",
      "entry_fee": 25,
@@ -8482,7 +8534,2875 @@
      "full": true
     }
    ],
-   "contests_at": "2026-11-19T21:23:38+00:00"
+   "contests_at": "2026-11-19T22:23:58+00:00"
+  },
+  {
+   "draft_group_id": 157013,
+   "start": "2026-11-20T17:30:00+00:00",
+   "games": 3,
+   "day": "2026-11-20",
+   "players": [
+    {
+     "dk_id": "45017678",
+     "name": "Ben Hammond",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 9100,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 39.7,
+     "status": null
+    },
+    {
+     "dk_id": "45017680",
+     "name": "Bobby Durkin",
+     "team": "MINN",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 8900,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 22.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017682",
+     "name": "Aiden Derkack",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 8700,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 37.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017684",
+     "name": "Amani Hansberry",
+     "team": "VT",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 8600,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 33.8,
+     "status": null
+    },
+    {
+     "dk_id": "45017686",
+     "name": "Jack Karasinski",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 7900,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 18.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017688",
+     "name": "Trey Campbell",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 7700,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 33.1,
+     "status": null
+    },
+    {
+     "dk_id": "45017690",
+     "name": "Isaac Asuma",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 7600,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 33.7,
+     "status": null
+    },
+    {
+     "dk_id": "45017692",
+     "name": "Grayson Grove",
+     "team": "MINN",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 7500,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 22.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017694",
+     "name": "Jackson Holcombe",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 7400,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 26.8,
+     "status": null
+    },
+    {
+     "dk_id": "45017696",
+     "name": "Kashie Natt",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 7300,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 24.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017698",
+     "name": "Amael L'Etang",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 7200,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 31.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017700",
+     "name": "Alec Anigbata",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 7100,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 25.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017702",
+     "name": "Jacob Walker",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 6800,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 24.1,
+     "status": null
+    },
+    {
+     "dk_id": "45017704",
+     "name": "Jaylen Crocker-Johnson",
+     "team": "MINN",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 6600,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 24.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017706",
+     "name": "TJ Burch",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 6400,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 17.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017708",
+     "name": "Anthony Felesi",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 6200,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 23.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017710",
+     "name": "Tyler Johnson",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 6100,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 26.1,
+     "status": null
+    },
+    {
+     "dk_id": "45017712",
+     "name": "Jordan Burks",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 6000,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 22.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017714",
+     "name": "Latrell Allmond",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 5800,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 17.5,
+     "status": null
+    },
+    {
+     "dk_id": "45017716",
+     "name": "Julius Halaifonua",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 5700,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 17.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017718",
+     "name": "Kyan Evans",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 5600,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 31.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017720",
+     "name": "Jaylen Curry",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 5500,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 22.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017722",
+     "name": "Andrija Grbovic",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 5400,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 17.8,
+     "status": null
+    },
+    {
+     "dk_id": "45017724",
+     "name": "Jake West",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 5300,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 33.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017726",
+     "name": "Isaiah Elohim",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 5200,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 15.5,
+     "status": null
+    },
+    {
+     "dk_id": "45017728",
+     "name": "Tristian Ford",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 5100,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 24.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017730",
+     "name": "Angelo Ciaravino",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 5000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 27.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017732",
+     "name": "Parker Robinson",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4900,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 13.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017734",
+     "name": "Grant Randall",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4800,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 17.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017736",
+     "name": "Landen Joseph",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4700,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 19.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017738",
+     "name": "Malek Gomma",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4600,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 13.5,
+     "status": null
+    },
+    {
+     "dk_id": "45017740",
+     "name": "LA Pratt",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4500,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 25.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017742",
+     "name": "Okku Federiko",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4400,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 11.5,
+     "status": null
+    },
+    {
+     "dk_id": "45017744",
+     "name": "Kanye Clary",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4400,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 9.2,
+     "status": null
+    },
+    {
+     "dk_id": "45017746",
+     "name": "Benjamin Ahmed",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4300,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 7.9,
+     "status": null
+    },
+    {
+     "dk_id": "45017748",
+     "name": "Taison Chatman",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4300,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 13.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017750",
+     "name": "Luka Bogavac",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4200,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 11.7,
+     "status": null
+    },
+    {
+     "dk_id": "45017752",
+     "name": "Nolen Anderson",
+     "team": "MINN",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4200,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 9.5,
+     "status": null
+    },
+    {
+     "dk_id": "45017754",
+     "name": "Miles Heide",
+     "team": "VT",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4100,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 10.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017756",
+     "name": "Colin Smith",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4100,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 5.7,
+     "status": null
+    },
+    {
+     "dk_id": "45017758",
+     "name": "Zaide Lowery",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4100,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 18.8,
+     "status": "Q"
+    },
+    {
+     "dk_id": "45017760",
+     "name": "Travis Perry",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 4000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 6.7,
+     "status": null
+    },
+    {
+     "dk_id": "45017762",
+     "name": "Jalen Haynes",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 4000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 9.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017764",
+     "name": "Butta Johnson",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3900,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 7.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017766",
+     "name": "Malachi Palmer",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3900,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 4.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017768",
+     "name": "Jaxon Johnson",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3800,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 10.1,
+     "status": null
+    },
+    {
+     "dk_id": "45017770",
+     "name": "Nolan Groves",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3800,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 16.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017772",
+     "name": "Malick Kordel",
+     "team": "MINN",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3700,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 13.2,
+     "status": null
+    },
+    {
+     "dk_id": "45017774",
+     "name": "Phoenix Gill",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3700,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 12.7,
+     "status": null
+    },
+    {
+     "dk_id": "45017776",
+     "name": "Musa Sagnia",
+     "team": "VT",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3600,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 6.9,
+     "status": null
+    },
+    {
+     "dk_id": "45017778",
+     "name": "Ryan Crotty",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3600,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 11.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017780",
+     "name": "Babacar Faye",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3500,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 6.9,
+     "status": null
+    },
+    {
+     "dk_id": "45017782",
+     "name": "Jalen Montonati",
+     "team": "OKST",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3500,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 8.8,
+     "status": null
+    },
+    {
+     "dk_id": "45017784",
+     "name": "Kuol Atak",
+     "team": "VT",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3500,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 4.1,
+     "status": null
+    },
+    {
+     "dk_id": "45017786",
+     "name": "Winters Grady",
+     "team": "MINN",
+     "position": "G/F",
+     "roster": "G/F/UTIL",
+     "salary": 3400,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 8.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017789",
+     "name": "Ethan Copeland",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3400,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 1.2,
+     "status": null
+    },
+    {
+     "dk_id": "45017791",
+     "name": "Jaiun Simon",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3400,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 7.1,
+     "status": null
+    },
+    {
+     "dk_id": "45017793",
+     "name": "Kai Shinholster",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3300,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 23.0,
+     "status": "OUT"
+    },
+    {
+     "dk_id": "45017795",
+     "name": "Ryan Soulis",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3300,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 6.8,
+     "status": "OUT"
+    },
+    {
+     "dk_id": "45017797",
+     "name": "Elijah Eschmeyer",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3300,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017799",
+     "name": "Styles Clemmons",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3300,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 2.4,
+     "status": null
+    },
+    {
+     "dk_id": "45017801",
+     "name": "Zati Loubaki",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3300,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 3.8,
+     "status": null
+    },
+    {
+     "dk_id": "45017803",
+     "name": "Cody Peck",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3200,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 5.2,
+     "status": null
+    },
+    {
+     "dk_id": "45017805",
+     "name": "Aleksej Kostic",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3200,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 2.9,
+     "status": null
+    },
+    {
+     "dk_id": "45017807",
+     "name": "Symon Ghai",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3200,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 2.2,
+     "status": null
+    },
+    {
+     "dk_id": "45017809",
+     "name": "Fynn Schott",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3100,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": "Q"
+    },
+    {
+     "dk_id": "45017811",
+     "name": "Sin'Cere Jones",
+     "team": "VT",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3100,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 4.2,
+     "status": null
+    },
+    {
+     "dk_id": "45017813",
+     "name": "Malcolm Thomas",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3100,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 4.6,
+     "status": null
+    },
+    {
+     "dk_id": "45017815",
+     "name": "Julian Washington",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3100,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 3.9,
+     "status": null
+    },
+    {
+     "dk_id": "45017817",
+     "name": "Cedric Tomes",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3100,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 2.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017819",
+     "name": "David Katoa",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": "Q"
+    },
+    {
+     "dk_id": "45017821",
+     "name": "Chadrack Mpoyi",
+     "team": "MINN",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": "OUT"
+    },
+    {
+     "dk_id": "45017823",
+     "name": "Luke McEldon",
+     "team": "NW",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": "OUT"
+    },
+    {
+     "dk_id": "45017825",
+     "name": "Jayden Hodge",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": "OUT"
+    },
+    {
+     "dk_id": "45017827",
+     "name": "Solomon Davis",
+     "team": "VT",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 2.8,
+     "status": null
+    },
+    {
+     "dk_id": "45017829",
+     "name": "Damon Friery",
+     "team": "DAY",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 5.5,
+     "status": null
+    },
+    {
+     "dk_id": "45017831",
+     "name": "Lukas McCanna",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017833",
+     "name": "Grayson Gaddis",
+     "team": "UTAH",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017835",
+     "name": "Obomate Abbey",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017837",
+     "name": "Evan Dickey",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 1.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017839",
+     "name": "Will Maxwell",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017841",
+     "name": "Eltayeb Eltayeb",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017843",
+     "name": "James Caldarella",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 1.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017845",
+     "name": "Ned Hull",
+     "team": "VT",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "NW",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017847",
+     "name": "Lucas Langarita",
+     "team": "UTAH",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "DAY",
+     "home": true,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017849",
+     "name": "Max Lorenson",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": 1.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017851",
+     "name": "Dylan Williams",
+     "team": "NW",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "NW@VT",
+     "game_start": "2026-11-20T20:00Z",
+     "opp": "VT",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017853",
+     "name": "Blake Nixon Jr.",
+     "team": "MINN",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "OKST",
+     "home": true,
+     "dk_avg": -0.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017855",
+     "name": "Jaron McKie",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 0.3,
+     "status": null
+    },
+    {
+     "dk_id": "45017857",
+     "name": "Makai Grant",
+     "team": "DAY",
+     "position": "G",
+     "roster": "G/UTIL",
+     "salary": 3000,
+     "game": "DAY@UTAH",
+     "game_start": "2026-11-20T22:30Z",
+     "opp": "UTAH",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": null
+    },
+    {
+     "dk_id": "45017859",
+     "name": "Mekhi Ragland",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": "OUT"
+    },
+    {
+     "dk_id": "45017861",
+     "name": "Parsa Fallah",
+     "team": "OKST",
+     "position": "F",
+     "roster": "F/UTIL",
+     "salary": 3000,
+     "game": "OKST@MINN",
+     "game_start": "2026-11-20T17:30Z",
+     "opp": "MINN",
+     "home": false,
+     "dk_avg": 0.0,
+     "status": "OUT"
+    }
+   ],
+   "contests": [
+    {
+     "id": 197996180,
+     "name": "CBB $3K Pull Up Jumper [$1K to 1st] (Early)",
+     "entry_fee": 15,
+     "size": 235,
+     "entries": 1,
+     "prizes": 3000.0,
+     "max_per_user": 7,
+     "payouts": [
+      [
+       1,
+       1,
+       1000.0
+      ],
+      [
+       2,
+       2,
+       300.0
+      ],
+      [
+       3,
+       3,
+       200.0
+      ],
+      [
+       4,
+       4,
+       150.0
+      ],
+      [
+       5,
+       5,
+       125.0
+      ],
+      [
+       6,
+       6,
+       100.0
+      ],
+      [
+       7,
+       7,
+       80.0
+      ],
+      [
+       8,
+       8,
+       70.0
+      ],
+      [
+       9,
+       9,
+       60.0
+      ],
+      [
+       10,
+       11,
+       50.0
+      ],
+      [
+       12,
+       14,
+       40.0
+      ],
+      [
+       15,
+       21,
+       25.0
+      ],
+      [
+       22,
+       47,
+       20.0
+      ]
+     ]
+    },
+    {
+     "id": 197996184,
+     "name": "CBB $720 Swish [Single Entry, Top 2 Win] (Early)",
+     "entry_fee": 100,
+     "size": 8,
+     "entries": 1,
+     "prizes": 720.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996182,
+     "name": "CBB $750 And-One (Early)",
+     "entry_fee": 1,
+     "size": 891,
+     "entries": 1,
+     "prizes": 750.0,
+     "max_per_user": 20,
+     "payouts": [
+      [
+       1,
+       1,
+       100.0
+      ],
+      [
+       2,
+       2,
+       75.0
+      ],
+      [
+       3,
+       3,
+       50.0
+      ],
+      [
+       4,
+       5,
+       25.0
+      ],
+      [
+       6,
+       7,
+       15.0
+      ],
+      [
+       8,
+       11,
+       10.0
+      ],
+      [
+       12,
+       16,
+       7.5
+      ],
+      [
+       17,
+       26,
+       5.0
+      ],
+      [
+       27,
+       51,
+       2.5
+      ],
+      [
+       52,
+       102,
+       2.0
+      ],
+      [
+       103,
+       204,
+       1.5
+      ]
+     ]
+    },
+    {
+     "id": 197996512,
+     "name": "CBB Satellite to NFL 1-3 Ultimate Main Event [Must Fill] (Early)",
+     "entry_fee": 1413,
+     "size": 3,
+     "entries": 0,
+     "prizes": 4000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996506,
+     "name": "CBB $1,060 Winner Take All [$3K to 1st, Must Fill] (Early)",
+     "entry_fee": 1060,
+     "size": 3,
+     "entries": 0,
+     "prizes": 3000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996185,
+     "name": "CBB $400 High Five [Single Entry] (Early)",
+     "entry_fee": 5,
+     "size": 95,
+     "entries": 1,
+     "prizes": 400.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996478,
+     "name": "CBB $267 Winner Take All [$1K to 1st, Must Fill] (Early)",
+     "entry_fee": 267,
+     "size": 4,
+     "entries": 0,
+     "prizes": 1000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996511,
+     "name": "CBB $150 King of the Bracket Qualifier Satellite [Must Fill] (Early)",
+     "entry_fee": 188,
+     "size": 3,
+     "entries": 0,
+     "prizes": 520.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996505,
+     "name": "CBB $100 Winner Take All [$460 to 1st, Must Fill] (Early)",
+     "entry_fee": 100,
+     "size": 5,
+     "entries": 0,
+     "prizes": 460.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996255,
+     "name": "CBB $25 Winner Take All [$110 to 1st] (Early)",
+     "entry_fee": 25,
+     "size": 5,
+     "entries": 1,
+     "prizes": 110.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996187,
+     "name": "CBB $5 Double Up (Early)",
+     "entry_fee": 5,
+     "size": 46,
+     "entries": 3,
+     "prizes": 200.0,
+     "max_per_user": 3
+    },
+    {
+     "id": 197996186,
+     "name": "CBB $10 Double Up (Early)",
+     "entry_fee": 10,
+     "size": 23,
+     "entries": 2,
+     "prizes": 200.0,
+     "max_per_user": 2
+    },
+    {
+     "id": 197996509,
+     "name": "CBB $30 King of the Bracket Qualifier Satellite [Must Fill] (Early)",
+     "entry_fee": 11,
+     "size": 3,
+     "entries": 0,
+     "prizes": 30.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996513,
+     "name": "CBB Satellite to NFL $5M Best Ball Playoff Millionaire [Must Fill] (Early)",
+     "entry_fee": 9,
+     "size": 3,
+     "entries": 0,
+     "prizes": 25.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996508,
+     "name": "CBB Satellite to NHL 12-9 $20 Overload [Must Fill] (Early)",
+     "entry_fee": 7.4,
+     "size": 3,
+     "entries": 0,
+     "prizes": 20.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996181,
+     "name": "CBB $100 Buzzer Beater (Early)",
+     "entry_fee": 3,
+     "size": 39,
+     "entries": 0,
+     "prizes": 100.0,
+     "max_per_user": 3
+    },
+    {
+     "id": 197996179,
+     "name": "CBB $400 Full Court Press [2 Entry Max] (Early)",
+     "entry_fee": 33,
+     "size": 14,
+     "entries": 1,
+     "prizes": 400.0,
+     "max_per_user": 2
+    },
+    {
+     "id": 197996178,
+     "name": "CBB $265 Fadeaway [Single Entry] (Early)",
+     "entry_fee": 50,
+     "size": 6,
+     "entries": 1,
+     "prizes": 265.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996183,
+     "name": "CBB $100 Quarter Jukebox [Just $0.25!] (Early)",
+     "entry_fee": 0.25,
+     "size": 475,
+     "entries": 2,
+     "prizes": 100.0,
+     "max_per_user": 14,
+     "payouts": [
+      [
+       1,
+       1,
+       10.0
+      ],
+      [
+       2,
+       2,
+       6.0
+      ],
+      [
+       3,
+       3,
+       5.0
+      ],
+      [
+       4,
+       4,
+       4.0
+      ],
+      [
+       5,
+       6,
+       3.0
+      ],
+      [
+       7,
+       8,
+       2.0
+      ],
+      [
+       9,
+       11,
+       1.5
+      ],
+      [
+       12,
+       21,
+       1.0
+      ],
+      [
+       22,
+       45,
+       0.75
+      ],
+      [
+       46,
+       110,
+       0.5
+      ]
+     ]
+    },
+    {
+     "id": 197996254,
+     "name": "CBB $50 Dime Time [Just $0.10!] (Early)",
+     "entry_fee": 0.1,
+     "size": 594,
+     "entries": 5,
+     "prizes": 50.0,
+     "max_per_user": 17,
+     "payouts": [
+      [
+       1,
+       1,
+       5.0
+      ],
+      [
+       2,
+       2,
+       3.0
+      ],
+      [
+       3,
+       3,
+       2.0
+      ],
+      [
+       4,
+       4,
+       1.5
+      ],
+      [
+       5,
+       6,
+       1.0
+      ],
+      [
+       7,
+       10,
+       0.75
+      ],
+      [
+       11,
+       17,
+       0.5
+      ],
+      [
+       18,
+       32,
+       0.4
+      ],
+      [
+       33,
+       62,
+       0.3
+      ],
+      [
+       63,
+       137,
+       0.2
+      ]
+     ]
+    },
+    {
+     "id": 197996510,
+     "name": "CBB $150 King of the Bracket Qualifier Satellite [Must Fill] (Early)",
+     "entry_fee": 55,
+     "size": 3,
+     "entries": 0,
+     "prizes": 150.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996507,
+     "name": "CBB Satellite to NHL 12-9 $360 Spin-O-Rama [Must Fill] (Early)",
+     "entry_fee": 130,
+     "size": 3,
+     "entries": 0,
+     "prizes": 360.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996257,
+     "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire (Early)",
+     "entry_fee": 0.1,
+     "size": 59,
+     "entries": 2,
+     "prizes": 5.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996258,
+     "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire (Early)",
+     "entry_fee": 0.25,
+     "size": 23,
+     "entries": 0,
+     "prizes": 5.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996259,
+     "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special (Early)",
+     "entry_fee": 20,
+     "size": 13,
+     "entries": 0,
+     "prizes": 222.0,
+     "max_per_user": 2
+    },
+    {
+     "id": 197996256,
+     "name": "CBB $30 King of the Bracket Qualifier Satellite (Early)",
+     "entry_fee": 5,
+     "size": 7,
+     "entries": 0,
+     "prizes": 30.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996253,
+     "name": "CBB $10 Double Up (Early)",
+     "entry_fee": 10,
+     "size": 11,
+     "entries": 1,
+     "prizes": 100.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996252,
+     "name": "CBB $5 Double Up (Early)",
+     "entry_fee": 5,
+     "size": 23,
+     "entries": 2,
+     "prizes": 100.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996251,
+     "name": "CBB $1 Double Up (Early)",
+     "entry_fee": 1,
+     "size": 23,
+     "entries": 0,
+     "prizes": 20.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996250,
+     "name": "CBB $1 Double Up (Early)",
+     "entry_fee": 1,
+     "size": 23,
+     "entries": 0,
+     "prizes": 20.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996452,
+     "name": "CBB $270 3-Player (Early)",
+     "entry_fee": 270,
+     "size": 3,
+     "entries": 1,
+     "prizes": 750.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996424,
+     "name": "CBB $215 3-Player (Early)",
+     "entry_fee": 215,
+     "size": 3,
+     "entries": 1,
+     "prizes": 600.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996454,
+     "name": "CBB $162 3-Player (Early)",
+     "entry_fee": 162,
+     "size": 3,
+     "entries": 1,
+     "prizes": 450.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996410,
+     "name": "CBB $109 3-Player (Early)",
+     "entry_fee": 109,
+     "size": 3,
+     "entries": 1,
+     "prizes": 300.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996412,
+     "name": "CBB $50 3-Player (Early)",
+     "entry_fee": 50,
+     "size": 3,
+     "entries": 1,
+     "prizes": 135.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996406,
+     "name": "CBB $20 3-Player (Early)",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 1,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996403,
+     "name": "CBB $10 3-Player (Early)",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 1,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996400,
+     "name": "CBB $5 3-Player (Early)",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 1,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996514,
+     "name": "CBB Satellite to CBB 12-12 $222 Slam Jam Special [Must Fill] (Early)",
+     "entry_fee": 82,
+     "size": 3,
+     "entries": 0,
+     "prizes": 222.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996487,
+     "name": "Beginner CBB $20 3-Player (Early)",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 0,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996481,
+     "name": "Beginner CBB $10 50-50 (Early)",
+     "entry_fee": 10,
+     "size": 4,
+     "entries": 0,
+     "prizes": 36.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996488,
+     "name": "Beginner CBB $10 3-Player (Early)",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996482,
+     "name": "Beginner CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 10,
+     "entries": 0,
+     "prizes": 45.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996483,
+     "name": "Beginner CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 4,
+     "entries": 0,
+     "prizes": 18.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996489,
+     "name": "Beginner CBB $5 5-Player (Early)",
+     "entry_fee": 5,
+     "size": 5,
+     "entries": 0,
+     "prizes": 22.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996490,
+     "name": "Beginner CBB $5 3-Player (Early)",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 0,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996484,
+     "name": "Beginner CBB $3 50-50 (Early)",
+     "entry_fee": 3,
+     "size": 10,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996485,
+     "name": "Beginner CBB $3 50-50 (Early)",
+     "entry_fee": 3,
+     "size": 4,
+     "entries": 0,
+     "prizes": 10.8,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996491,
+     "name": "Beginner CBB $2 5-Player (Early)",
+     "entry_fee": 2,
+     "size": 5,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996492,
+     "name": "Beginner CBB $2 3-Player (Early)",
+     "entry_fee": 2,
+     "size": 3,
+     "entries": 0,
+     "prizes": 5.4,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996486,
+     "name": "Beginner CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 10,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996495,
+     "name": "Beginner CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 4,
+     "entries": 0,
+     "prizes": 3.6,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996493,
+     "name": "Beginner CBB $1 5-Player (Early)",
+     "entry_fee": 1,
+     "size": 5,
+     "entries": 0,
+     "prizes": 4.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996494,
+     "name": "Beginner CBB $1 3-Player (Early)",
+     "entry_fee": 1,
+     "size": 3,
+     "entries": 0,
+     "prizes": 2.7,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996461,
+     "name": "Casual CBB $20 3-Player (Early)",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 0,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996455,
+     "name": "Casual CBB $10 50-50 (Early)",
+     "entry_fee": 10,
+     "size": 4,
+     "entries": 0,
+     "prizes": 36.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996462,
+     "name": "Casual CBB $10 3-Player (Early)",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996465,
+     "name": "Casual CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 10,
+     "entries": 0,
+     "prizes": 45.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996456,
+     "name": "Casual CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 4,
+     "entries": 0,
+     "prizes": 18.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996457,
+     "name": "Casual CBB $5 5-Player (Early)",
+     "entry_fee": 5,
+     "size": 5,
+     "entries": 0,
+     "prizes": 22.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996458,
+     "name": "Casual CBB $5 3-Player (Early)",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 0,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996466,
+     "name": "Casual CBB $3 50-50 (Early)",
+     "entry_fee": 3,
+     "size": 10,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996479,
+     "name": "Casual CBB $3 50-50 (Early)",
+     "entry_fee": 3,
+     "size": 4,
+     "entries": 0,
+     "prizes": 10.8,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996463,
+     "name": "Casual CBB $2 5-Player (Early)",
+     "entry_fee": 2,
+     "size": 5,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996464,
+     "name": "Casual CBB $2 3-Player (Early)",
+     "entry_fee": 2,
+     "size": 3,
+     "entries": 0,
+     "prizes": 5.4,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996467,
+     "name": "Casual CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 10,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996480,
+     "name": "Casual CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 4,
+     "entries": 0,
+     "prizes": 3.6,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996459,
+     "name": "Casual CBB $1 5-Player (Early)",
+     "entry_fee": 1,
+     "size": 5,
+     "entries": 0,
+     "prizes": 4.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996460,
+     "name": "Casual CBB $1 3-Player (Early)",
+     "entry_fee": 1,
+     "size": 3,
+     "entries": 0,
+     "prizes": 2.7,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996443,
+     "name": "CBB $10,600 3-Player (Early)",
+     "entry_fee": 10600,
+     "size": 3,
+     "entries": 0,
+     "prizes": 30000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996469,
+     "name": "CBB $5,300 50-50 (Early)",
+     "entry_fee": 5300,
+     "size": 4,
+     "entries": 0,
+     "prizes": 20000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996468,
+     "name": "CBB $5,300 5-Player (Early)",
+     "entry_fee": 5300,
+     "size": 5,
+     "entries": 0,
+     "prizes": 25000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996442,
+     "name": "CBB $5,300 3-Player (Early)",
+     "entry_fee": 5300,
+     "size": 3,
+     "entries": 0,
+     "prizes": 15000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996448,
+     "name": "CBB $2,120 50-50 (Early)",
+     "entry_fee": 2120,
+     "size": 4,
+     "entries": 0,
+     "prizes": 8000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996470,
+     "name": "CBB $2,120 5-Player (Early)",
+     "entry_fee": 2120,
+     "size": 5,
+     "entries": 0,
+     "prizes": 10000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996449,
+     "name": "CBB $2,120 3-Player (Early)",
+     "entry_fee": 2120,
+     "size": 3,
+     "entries": 0,
+     "prizes": 6000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996422,
+     "name": "CBB $1,060 50-50 (Early)",
+     "entry_fee": 1060,
+     "size": 4,
+     "entries": 0,
+     "prizes": 4000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996450,
+     "name": "CBB $1,060 5-Player (Early)",
+     "entry_fee": 1060,
+     "size": 5,
+     "entries": 0,
+     "prizes": 5000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996414,
+     "name": "CBB $1,060 3-Player (Early)",
+     "entry_fee": 1060,
+     "size": 3,
+     "entries": 0,
+     "prizes": 3000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996423,
+     "name": "CBB $530 50-50 (Early)",
+     "entry_fee": 530,
+     "size": 4,
+     "entries": 0,
+     "prizes": 2000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996471,
+     "name": "CBB $530 5-Player (Early)",
+     "entry_fee": 530,
+     "size": 5,
+     "entries": 0,
+     "prizes": 2500.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996409,
+     "name": "CBB $530 3-Player (Early)",
+     "entry_fee": 530,
+     "size": 3,
+     "entries": 0,
+     "prizes": 1500.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996451,
+     "name": "CBB $270 50-50 (Early)",
+     "entry_fee": 270,
+     "size": 4,
+     "entries": 0,
+     "prizes": 1000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996472,
+     "name": "CBB $270 5-Player (Early)",
+     "entry_fee": 270,
+     "size": 5,
+     "entries": 0,
+     "prizes": 1250.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999197,
+     "name": "CBB $270 3-Player (Early)",
+     "entry_fee": 270,
+     "size": 3,
+     "entries": 0,
+     "prizes": 750.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996416,
+     "name": "CBB $215 50-50 (Early)",
+     "entry_fee": 215,
+     "size": 4,
+     "entries": 0,
+     "prizes": 800.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999194,
+     "name": "CBB $215 3-Player (Early)",
+     "entry_fee": 215,
+     "size": 3,
+     "entries": 0,
+     "prizes": 600.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996453,
+     "name": "CBB $162 50-50 (Early)",
+     "entry_fee": 162,
+     "size": 4,
+     "entries": 0,
+     "prizes": 600.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999203,
+     "name": "CBB $162 3-Player (Early)",
+     "entry_fee": 162,
+     "size": 3,
+     "entries": 0,
+     "prizes": 450.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996415,
+     "name": "CBB $109 50-50 (Early)",
+     "entry_fee": 109,
+     "size": 4,
+     "entries": 0,
+     "prizes": 400.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996426,
+     "name": "CBB $109 5-Player (Early)",
+     "entry_fee": 109,
+     "size": 5,
+     "entries": 0,
+     "prizes": 500.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999183,
+     "name": "CBB $109 3-Player (Early)",
+     "entry_fee": 109,
+     "size": 3,
+     "entries": 0,
+     "prizes": 300.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996425,
+     "name": "CBB $50 50-50 (Early)",
+     "entry_fee": 50,
+     "size": 4,
+     "entries": 0,
+     "prizes": 180.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996504,
+     "name": "CBB $50 5-Player (Early)",
+     "entry_fee": 50,
+     "size": 5,
+     "entries": 0,
+     "prizes": 225.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996411,
+     "name": "CBB $50 3-Player (Early)",
+     "entry_fee": 50,
+     "size": 3,
+     "entries": 0,
+     "prizes": 135.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996413,
+     "name": "CBB $50 3-Player (Early)",
+     "entry_fee": 50,
+     "size": 3,
+     "entries": 0,
+     "prizes": 135.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999184,
+     "name": "CBB $50 3-Player (Early)",
+     "entry_fee": 50,
+     "size": 3,
+     "entries": 0,
+     "prizes": 135.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996477,
+     "name": "CBB $50 Double Up (Early)",
+     "entry_fee": 50,
+     "size": 22,
+     "entries": 0,
+     "prizes": 1000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996476,
+     "name": "CBB $50 Double Up (Early)",
+     "entry_fee": 50,
+     "size": 11,
+     "entries": 0,
+     "prizes": 500.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996475,
+     "name": "CBB $25 Double Up (Early)",
+     "entry_fee": 25,
+     "size": 22,
+     "entries": 0,
+     "prizes": 500.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996474,
+     "name": "CBB $25 Double Up (Early)",
+     "entry_fee": 25,
+     "size": 11,
+     "entries": 0,
+     "prizes": 250.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996419,
+     "name": "CBB $20 50-50 (Early)",
+     "entry_fee": 20,
+     "size": 10,
+     "entries": 0,
+     "prizes": 180.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996447,
+     "name": "CBB $20 50-50 (Early)",
+     "entry_fee": 20,
+     "size": 4,
+     "entries": 0,
+     "prizes": 72.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996439,
+     "name": "CBB $20 5-Player (Early)",
+     "entry_fee": 20,
+     "size": 5,
+     "entries": 0,
+     "prizes": 90.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996440,
+     "name": "CBB $20 5-Player (Early)",
+     "entry_fee": 20,
+     "size": 5,
+     "entries": 0,
+     "prizes": 90.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996441,
+     "name": "CBB $20 5-Player (Early)",
+     "entry_fee": 20,
+     "size": 5,
+     "entries": 0,
+     "prizes": 90.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996407,
+     "name": "CBB $20 3-Player (Early)",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 0,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996408,
+     "name": "CBB $20 3-Player (Early)",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 0,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999182,
+     "name": "CBB $20 3-Player (Early)",
+     "entry_fee": 20,
+     "size": 3,
+     "entries": 0,
+     "prizes": 54.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996418,
+     "name": "CBB $10 50-50 (Early)",
+     "entry_fee": 10,
+     "size": 10,
+     "entries": 0,
+     "prizes": 90.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996496,
+     "name": "CBB $10 50-50 (Early)",
+     "entry_fee": 10,
+     "size": 4,
+     "entries": 0,
+     "prizes": 36.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996497,
+     "name": "CBB $10 50-50 (Early)",
+     "entry_fee": 10,
+     "size": 4,
+     "entries": 0,
+     "prizes": 36.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996436,
+     "name": "CBB $10 5-Player (Early)",
+     "entry_fee": 10,
+     "size": 5,
+     "entries": 0,
+     "prizes": 45.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996437,
+     "name": "CBB $10 5-Player (Early)",
+     "entry_fee": 10,
+     "size": 5,
+     "entries": 0,
+     "prizes": 45.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996438,
+     "name": "CBB $10 5-Player (Early)",
+     "entry_fee": 10,
+     "size": 5,
+     "entries": 0,
+     "prizes": 45.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996404,
+     "name": "CBB $10 3-Player (Early)",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996405,
+     "name": "CBB $10 3-Player (Early)",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999181,
+     "name": "CBB $10 3-Player (Early)",
+     "entry_fee": 10,
+     "size": 3,
+     "entries": 0,
+     "prizes": 27.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996473,
+     "name": "CBB $10 Double Up (Early)",
+     "entry_fee": 10,
+     "size": 11,
+     "entries": 0,
+     "prizes": 100.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996417,
+     "name": "CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 10,
+     "entries": 0,
+     "prizes": 45.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996498,
+     "name": "CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 4,
+     "entries": 0,
+     "prizes": 18.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996499,
+     "name": "CBB $5 50-50 (Early)",
+     "entry_fee": 5,
+     "size": 4,
+     "entries": 0,
+     "prizes": 18.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996433,
+     "name": "CBB $5 5-Player (Early)",
+     "entry_fee": 5,
+     "size": 5,
+     "entries": 0,
+     "prizes": 22.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996434,
+     "name": "CBB $5 5-Player (Early)",
+     "entry_fee": 5,
+     "size": 5,
+     "entries": 0,
+     "prizes": 22.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996435,
+     "name": "CBB $5 5-Player (Early)",
+     "entry_fee": 5,
+     "size": 5,
+     "entries": 0,
+     "prizes": 22.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996401,
+     "name": "CBB $5 3-Player (Early)",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 0,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996402,
+     "name": "CBB $5 3-Player (Early)",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 0,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197999180,
+     "name": "CBB $5 3-Player (Early)",
+     "entry_fee": 5,
+     "size": 3,
+     "entries": 0,
+     "prizes": 13.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996421,
+     "name": "CBB $2 50-50 (Early)",
+     "entry_fee": 2,
+     "size": 20,
+     "entries": 0,
+     "prizes": 36.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996446,
+     "name": "CBB $2 50-50 (Early)",
+     "entry_fee": 2,
+     "size": 10,
+     "entries": 0,
+     "prizes": 18.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996502,
+     "name": "CBB $2 50-50 (Early)",
+     "entry_fee": 2,
+     "size": 4,
+     "entries": 0,
+     "prizes": 7.2,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996503,
+     "name": "CBB $2 50-50 (Early)",
+     "entry_fee": 2,
+     "size": 4,
+     "entries": 0,
+     "prizes": 7.2,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996430,
+     "name": "CBB $2 5-Player (Early)",
+     "entry_fee": 2,
+     "size": 5,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996431,
+     "name": "CBB $2 5-Player (Early)",
+     "entry_fee": 2,
+     "size": 5,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996432,
+     "name": "CBB $2 5-Player (Early)",
+     "entry_fee": 2,
+     "size": 5,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996397,
+     "name": "CBB $2 3-Player (Early)",
+     "entry_fee": 2,
+     "size": 3,
+     "entries": 0,
+     "prizes": 5.4,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996398,
+     "name": "CBB $2 3-Player (Early)",
+     "entry_fee": 2,
+     "size": 3,
+     "entries": 0,
+     "prizes": 5.4,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996399,
+     "name": "CBB $2 3-Player (Early)",
+     "entry_fee": 2,
+     "size": 3,
+     "entries": 0,
+     "prizes": 5.4,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996420,
+     "name": "CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 20,
+     "entries": 0,
+     "prizes": 18.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996444,
+     "name": "CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 10,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996445,
+     "name": "CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 10,
+     "entries": 0,
+     "prizes": 9.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996500,
+     "name": "CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 4,
+     "entries": 0,
+     "prizes": 3.6,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996501,
+     "name": "CBB $1 50-50 (Early)",
+     "entry_fee": 1,
+     "size": 4,
+     "entries": 0,
+     "prizes": 3.6,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996427,
+     "name": "CBB $1 5-Player (Early)",
+     "entry_fee": 1,
+     "size": 5,
+     "entries": 0,
+     "prizes": 4.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996428,
+     "name": "CBB $1 5-Player (Early)",
+     "entry_fee": 1,
+     "size": 5,
+     "entries": 0,
+     "prizes": 4.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996429,
+     "name": "CBB $1 5-Player (Early)",
+     "entry_fee": 1,
+     "size": 5,
+     "entries": 0,
+     "prizes": 4.5,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996394,
+     "name": "CBB $1 3-Player (Early)",
+     "entry_fee": 1,
+     "size": 3,
+     "entries": 0,
+     "prizes": 2.7,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996395,
+     "name": "CBB $1 3-Player (Early)",
+     "entry_fee": 1,
+     "size": 3,
+     "entries": 0,
+     "prizes": 2.7,
+     "max_per_user": 1
+    },
+    {
+     "id": 197996396,
+     "name": "CBB $1 3-Player (Early)",
+     "entry_fee": 1,
+     "size": 3,
+     "entries": 0,
+     "prizes": 2.7,
+     "max_per_user": 1
+    }
+   ],
+   "contests_at": "2026-11-19T22:23:58+00:00"
   }
  ]
 }
