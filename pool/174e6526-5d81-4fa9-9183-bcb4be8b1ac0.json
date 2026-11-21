@@ -479,7 +479,7 @@
    "team": "PHI",
    "team_id": "de7219e5-92f1-5989-804a-68479055ba42",
    "position": "WR",
-   "injury": "Questionable"
+   "injury": null
   },
   {
    "appearance_id": "49f2540e-96b5-4ad0-bf9f-05be88b08241",
@@ -539,7 +539,7 @@
    "team": "BUF",
    "team_id": "0719b253-43db-532e-8b5c-6c12c6c3f951",
    "position": "RB",
-   "injury": "Questionable"
+   "injury": null
   },
   {
    "appearance_id": "7e8d5e2c-b1c4-45b5-aec3-2d1fe4581b42",
@@ -1652,16 +1652,6 @@
    "injury": null
   },
   {
-   "appearance_id": "765cae82-a0ce-4c6e-9150-6e4e50256f4c",
-   "player_id": "9fce5a42-43cc-4cf2-8732-b37153519ea6",
-   "first_name": "DK",
-   "last_name": "Metcalf",
-   "team": "PIT",
-   "team_id": "ecc8eb1b-f714-57a6-bcf3-b183dd6c12a8",
-   "position": "WR",
-   "injury": null
-  },
-  {
    "appearance_id": "d59790b1-74e1-4c39-87ef-b2a9ff431c82",
    "player_id": "e6ea81a9-a676-4a48-bcbc-2b97cde9e29a",
    "first_name": "John",
@@ -1709,7 +1699,7 @@
    "team": "DAL",
    "team_id": "26e67e06-664e-50a6-ad7b-c102705fde8b",
    "position": "WR",
-   "injury": "Questionable"
+   "injury": "Out"
   },
   {
    "appearance_id": "0816d063-9483-4b0a-be1d-75e9e08ea789",
@@ -2316,10 +2306,10 @@
    "player_id": "8bfd53b9-f4b9-4b7d-a420-bf8df4edb148",
    "first_name": "Ihmir",
    "last_name": "Smith-Marsette",
-   "team": "CAR",
-   "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
+   "team": null,
+   "team_id": null,
    "position": "WR",
-   "injury": "Out"
+   "injury": "Questionable"
   },
   {
    "appearance_id": "1b1bd585-b588-40c1-83e9-fe5ec9068b61",
@@ -2622,6 +2612,16 @@
    "injury": null
   },
   {
+   "appearance_id": "a4311f4b-1d14-4d86-b507-2e1b7b8ede24",
+   "player_id": "4ccbad89-b2df-4502-9944-eedc4ec9060a",
+   "first_name": "Kenneth",
+   "last_name": "Walker III",
+   "team": "KC",
+   "team_id": "a6f458f4-5078-56e4-a839-af96f1191314",
+   "position": "RB",
+   "injury": "Out"
+  },
+  {
    "appearance_id": "41747a43-48e1-4280-ac70-4f5e1a39484d",
    "player_id": "b8bfa2fd-c6b1-4611-8401-52c1854abfb9",
    "first_name": "Harrison",
@@ -2699,7 +2699,7 @@
    "team": "MIA",
    "team_id": "9153e0a9-da83-5246-ba43-417537f1bcce",
    "position": "WR",
-   "injury": "Questionable"
+   "injury": "Out"
   },
   {
    "appearance_id": "3c504740-fc2d-4efb-bb5d-3030da5eda3c",
@@ -2749,7 +2749,7 @@
    "team": "PHI",
    "team_id": "de7219e5-92f1-5989-804a-68479055ba42",
    "position": "WR",
-   "injury": "Questionable"
+   "injury": "Out"
   },
   {
    "appearance_id": "d088133b-cbcf-4c1f-a570-686d68100075",
