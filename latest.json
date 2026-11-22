@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:28:16Z",
+ "generated_at": "2026-11-22T12:23:35Z",
  "baseline_cutoff": "2026-11-19T02:00:00Z",
  "slates": [
   {
@@ -8,7 +8,7 @@
    "slate_id": "174e6526-5d81-4fa9-9183-bcb4be8b1ac0",
    "title": "Sun Early Slate",
    "cutoff": "2026-11-22T17:52:00Z",
-   "snapshot_utc": "2026-11-22T112812Z",
+   "snapshot_utc": "2026-11-22T115601Z",
    "players": [
     {
      "appearance_id": "47982949-d576-4154-bb06-c6e68616d22b",
@@ -51,7 +51,7 @@
      "team": "KC",
      "team_id": "a6f458f4-5078-56e4-a839-af96f1191314",
      "position": "RB",
-     "adp": 3.7,
+     "adp": 3.6,
      "injury": null
     },
     {
@@ -73,7 +73,7 @@
      "team": "BUF",
      "team_id": "0719b253-43db-532e-8b5c-6c12c6c3f951",
      "position": "QB",
-     "adp": 6.1,
+     "adp": 6.0,
      "injury": null
     },
     {
@@ -84,7 +84,7 @@
      "team": "CAR",
      "team_id": "17f3bc4a-e2d6-5dc5-a554-00549ff0139f",
      "position": "RB",
-     "adp": 8.2,
+     "adp": 8.1,
      "injury": null
     },
     {
@@ -132,6 +132,17 @@
      "injury": null
     },
     {
+     "appearance_id": "43834996-7f20-43f4-8263-9c6e87422b5e",
+     "player_id": "81ab025b-6000-4620-b4a8-db6c18b98a7c",
+     "first_name": "D'Andre",
+     "last_name": "Swift",
+     "team": "CHI",
+     "team_id": "e8a4678a-ccdb-5f35-be13-aef6e59a5680",
+     "position": "RB",
+     "adp": 13.2,
+     "injury": null
+    },
+    {
      "appearance_id": "4869757a-0865-4e8d-b885-95f904f232db",
      "player_id": "f1766f00-503b-4b13-a5d1-cd4347423121",
      "first_name": "Patrick",
@@ -140,17 +151,6 @@
      "team_id": "a6f458f4-5078-56e4-a839-af96f1191314",
      "position": "QB",
      "adp": 13.2,
-     "injury": null
-    },
-    {
-     "appearance_id": "43834996-7f20-43f4-8263-9c6e87422b5e",
-     "player_id": "81ab025b-6000-4620-b4a8-db6c18b98a7c",
-     "first_name": "D'Andre",
-     "last_name": "Swift",
-     "team": "CHI",
-     "team_id": "e8a4678a-ccdb-5f35-be13-aef6e59a5680",
-     "position": "RB",
-     "adp": 13.3,
      "injury": null
     },
     {
@@ -183,7 +183,7 @@
      "team": "TB",
      "team_id": "1a20f1da-c502-5224-9c4a-bc363174cd21",
      "position": "RB",
-     "adp": 14.9,
+     "adp": 15.0,
      "injury": null
     },
     {
@@ -205,7 +205,7 @@
      "team": "ARI",
      "team_id": "8459772c-695a-5890-afa1-7ec38da17201",
      "position": "TE",
-     "adp": 18.6,
+     "adp": 18.5,
      "injury": null
     },
     {
@@ -260,7 +260,7 @@
      "team": "BUF",
      "team_id": "0719b253-43db-532e-8b5c-6c12c6c3f951",
      "position": "WR",
-     "adp": 24.4,
+     "adp": 24.3,
      "injury": null
     },
     {
@@ -315,7 +315,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "TE",
-     "adp": 28.7,
+     "adp": 28.8,
      "injury": null
     },
     {
@@ -337,7 +337,7 @@
      "team": "BAL",
      "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
      "position": "TE",
-     "adp": 30.6,
+     "adp": 30.7,
      "injury": null
     },
     {
@@ -359,7 +359,7 @@
      "team": "DET",
      "team_id": "a8980eb6-327f-5bc5-abf9-de1e944b566d",
      "position": "WR",
-     "adp": 32.0,
+     "adp": 31.9,
      "injury": null
     },
     {
@@ -458,7 +458,7 @@
      "team": "BUF",
      "team_id": "0719b253-43db-532e-8b5c-6c12c6c3f951",
      "position": "TE",
-     "adp": 35.2,
+     "adp": 35.1,
      "injury": null
     },
     {
@@ -2309,13 +2309,17 @@
       [
        "2026-11-22T11:28Z",
        109
+      ],
+      [
+       "2026-11-22T11:56Z",
+       109
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "6 person drafts - Admin",
      "entry_count": 109,
      "first_seen": "2026-11-20T20:41:33.221800+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 10,
      "slug": "ud-onside-kick-11-22-2026",
      "status": "unfilled",
@@ -2444,13 +2448,17 @@
       [
        "2026-11-22T11:28Z",
        404
+      ],
+      [
+       "2026-11-22T11:56Z",
+       408
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "6 person drafts - $500 to first!",
-     "entry_count": 404,
+     "entry_count": 408,
      "first_seen": "2026-11-15T22:50:17.911291+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 16,
      "slug": "the-early-playbook-11-22-2026",
      "status": "unfilled",
@@ -2507,7 +2515,7 @@
    "slate_id": "ca271719-c807-4ba1-9a3c-988b919e42df",
    "title": "Sun Late Slate",
    "cutoff": "2026-11-22T20:57:00Z",
-   "snapshot_utc": "2026-11-22T112812Z",
+   "snapshot_utc": "2026-11-22T115601Z",
    "players": [
     {
      "appearance_id": "1d49955a-4542-49f7-b758-2f380e722f6f",
@@ -2605,7 +2613,7 @@
      "team": "NYJ",
      "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "WR",
-     "adp": 8.7,
+     "adp": 8.8,
      "injury": null
     },
     {
@@ -2719,7 +2727,7 @@
      "team": "LAC",
      "team_id": "c7b497d4-18b6-522b-abaa-e5c3d24bc021",
      "position": "WR",
-     "adp": 20.1,
+     "adp": 20.0,
      "injury": "Questionable",
      "pre_tag_adp": 18.1,
      "pre_tag_at": "2026-11-08T175623Z",
@@ -2745,7 +2753,7 @@
      "team": "LV",
      "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
      "position": "TE",
-     "adp": 20.9,
+     "adp": 20.8,
      "injury": null
     },
     {
@@ -2767,7 +2775,7 @@
      "team": "DEN",
      "team_id": "7b3b21be-a209-5dee-a3f7-3fae61f52a1e",
      "position": "WR",
-     "adp": 22.5,
+     "adp": 22.6,
      "injury": null
     },
     {
@@ -2789,7 +2797,7 @@
      "team": "NYJ",
      "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "QB",
-     "adp": 22.9,
+     "adp": 23.0,
      "injury": null
     },
     {
@@ -3592,13 +3600,17 @@
       [
        "2026-11-22T11:28Z",
        182
+      ],
+      [
+       "2026-11-22T11:56Z",
+       181
       ]
      ],
      "cutoff_at": "2026-11-22T20:52:00Z",
      "description": "4 person drafts - $3k to first!",
-     "entry_count": 182,
+     "entry_count": 181,
      "first_seen": "2026-11-20T20:41:33.221800+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 84,
      "slug": "two-minute-drill-11-22-2026",
      "status": "unfilled",
@@ -3770,13 +3782,17 @@
       [
        "2026-11-22T11:28Z",
        260
+      ],
+      [
+       "2026-11-22T11:56Z",
+       260
       ]
      ],
      "cutoff_at": "2026-11-22T20:52:00Z",
      "description": "4 person drafts - $500 to first!",
      "entry_count": 260,
      "first_seen": "2026-11-15T22:50:17.911291+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 13,
      "slug": "the-afternoon-playbook-11-22-2026",
      "status": "unfilled",
@@ -3822,7 +3838,7 @@
    "slate_id": "62a02988-7e55-45ac-869a-4dcb71fe2045",
    "title": "Sun Main Slate",
    "cutoff": "2026-11-22T17:52:00Z",
-   "snapshot_utc": "2026-11-22T112812Z",
+   "snapshot_utc": "2026-11-22T115601Z",
    "players": [
     {
      "appearance_id": "47982949-d576-4154-bb06-c6e68616d22b",
@@ -4107,7 +4123,7 @@
      "team": "JAX",
      "team_id": "b49b653c-dc7c-516e-b1c2-da1b30d1b1a6",
      "position": "QB",
-     "adp": 28.7,
+     "adp": 28.6,
      "injury": null
     },
     {
@@ -4140,7 +4156,7 @@
      "team": "LV",
      "team_id": "5ce78c37-b02c-52da-9e4f-fcd65b6ccb76",
      "position": "TE",
-     "adp": 30.2,
+     "adp": 30.1,
      "injury": "Questionable",
      "pre_tag_adp": 13.8,
      "pre_tag_at": "2026-11-15T163342Z",
@@ -4254,7 +4270,7 @@
      "team": "NO",
      "team_id": "530518ed-91db-57c4-9077-27cc0dd9a293",
      "position": "WR",
-     "adp": 34.6,
+     "adp": 34.5,
      "injury": null
     },
     {
@@ -4298,7 +4314,7 @@
      "team": "CHI",
      "team_id": "e8a4678a-ccdb-5f35-be13-aef6e59a5680",
      "position": "WR",
-     "adp": 35.0,
+     "adp": 35.1,
      "injury": null
     },
     {
@@ -4500,17 +4516,6 @@
      "injury": null
     },
     {
-     "appearance_id": "0bfe69ff-61bb-485f-943e-fb8b18e367a7",
-     "player_id": "aa48a0ad-1d71-4d09-a86a-1e6e1987d911",
-     "first_name": "Saquon",
-     "last_name": "Barkley",
-     "team": "PHI",
-     "team_id": "de7219e5-92f1-5989-804a-68479055ba42",
-     "position": "RB",
-     "adp": 35.9,
-     "injury": null
-    },
-    {
      "appearance_id": "e64a3451-bbff-40da-bc44-f75a2cb9bbd3",
      "player_id": "89dc23ee-f751-477d-84a7-f330711ee432",
      "first_name": "Adonai",
@@ -4529,6 +4534,17 @@
      "team": "BAL",
      "team_id": "01bfe9d5-f671-57ed-aa60-249fcca9267c",
      "position": "QB",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "0bfe69ff-61bb-485f-943e-fb8b18e367a7",
+     "player_id": "aa48a0ad-1d71-4d09-a86a-1e6e1987d911",
+     "first_name": "Saquon",
+     "last_name": "Barkley",
+     "team": "PHI",
+     "team_id": "de7219e5-92f1-5989-804a-68479055ba42",
+     "position": "RB",
      "adp": 35.9,
      "injury": null
     },
@@ -4577,23 +4593,23 @@
      "injury": null
     },
     {
-     "appearance_id": "765cae82-a0ce-4c6e-9150-6e4e50256f4c",
-     "player_id": "9fce5a42-43cc-4cf2-8732-b37153519ea6",
-     "first_name": "DK",
-     "last_name": "Metcalf",
-     "team": "PIT",
-     "team_id": "ecc8eb1b-f714-57a6-bcf3-b183dd6c12a8",
-     "position": "WR",
-     "adp": 35.9,
-     "injury": null
-    },
-    {
      "appearance_id": "b37118d0-c5b9-4ace-8ebe-894201d808ab",
      "player_id": "12955b39-c44d-41b4-8a6b-2c4990413acf",
      "first_name": "Caleb",
      "last_name": "Douglas",
      "team": "MIA",
      "team_id": "9153e0a9-da83-5246-ba43-417537f1bcce",
+     "position": "WR",
+     "adp": 35.9,
+     "injury": null
+    },
+    {
+     "appearance_id": "765cae82-a0ce-4c6e-9150-6e4e50256f4c",
+     "player_id": "9fce5a42-43cc-4cf2-8732-b37153519ea6",
+     "first_name": "DK",
+     "last_name": "Metcalf",
+     "team": "PIT",
+     "team_id": "ecc8eb1b-f714-57a6-bcf3-b183dd6c12a8",
      "position": "WR",
      "adp": 35.9,
      "injury": null
@@ -4680,6 +4696,17 @@
      "injury": null
     },
     {
+     "appearance_id": "2b8458a0-9a6c-4141-a871-efbf1144e9c9",
+     "player_id": "03826128-13cd-4ea6-8b5f-911aa427db82",
+     "first_name": "Kenyon",
+     "last_name": "Sadiq",
+     "team": "NYJ",
+     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
+     "position": "TE",
+     "adp": 36.0,
+     "injury": null
+    },
+    {
      "appearance_id": "474fadf7-ba42-4bae-b09d-c5d37dcd810c",
      "player_id": "18d5e027-fefe-4ed9-bcfc-da8cb61c01b1",
      "first_name": "Chimere",
@@ -4708,17 +4735,6 @@
      "last_name": "Spann-Ford",
      "team": "DAL",
      "team_id": "26e67e06-664e-50a6-ad7b-c102705fde8b",
-     "position": "TE",
-     "adp": 36.0,
-     "injury": null
-    },
-    {
-     "appearance_id": "2b8458a0-9a6c-4141-a871-efbf1144e9c9",
-     "player_id": "03826128-13cd-4ea6-8b5f-911aa427db82",
-     "first_name": "Kenyon",
-     "last_name": "Sadiq",
-     "team": "NYJ",
-     "team_id": "516ded41-e882-5175-9a00-d0b4c028eb74",
      "position": "TE",
      "adp": 36.0,
      "injury": null
@@ -7495,13 +7511,17 @@
       [
        "2026-11-22T11:28Z",
        900
+      ],
+      [
+       "2026-11-22T11:56Z",
+       902
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "6 person drafts - $1k to first!",
-     "entry_count": 900,
+     "entry_count": 902,
      "first_seen": "2026-11-15T22:50:17.911291+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 33,
      "slug": "the-playbook-11-22-2026",
      "status": "unfilled",
@@ -7610,13 +7630,17 @@
       [
        "2026-11-22T11:28Z",
        15848
+      ],
+      [
+       "2026-11-22T11:56Z",
+       15943
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "6 person drafts - $8k to first!",
-     "entry_count": 15848,
+     "entry_count": 15943,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 150,
      "slug": "the-wildcat-11-22-2026",
      "status": "unfilled",
@@ -7721,13 +7745,17 @@
       [
        "2026-11-22T11:28Z",
        337
+      ],
+      [
+       "2026-11-22T11:56Z",
+       342
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "6 person drafts - Admin",
-     "entry_count": 337,
+     "entry_count": 342,
      "first_seen": "2026-11-17T16:02:10.945570+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 20,
      "slug": "ud-battle-royale-week-11-11-22-2026",
      "status": "unfilled",
@@ -7836,13 +7864,17 @@
       [
        "2026-11-22T11:28Z",
        108
+      ],
+      [
+       "2026-11-22T11:56Z",
+       108
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "5 entry max - $5k to first!",
      "entry_count": 108,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 5,
      "slug": "da-bomb-11-22-2026",
      "status": "unfilled",
@@ -7951,13 +7983,17 @@
       [
        "2026-11-22T11:28Z",
        1290
+      ],
+      [
+       "2026-11-22T11:56Z",
+       1296
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "Double Entry - Top 5 Win - $2.5k to first!",
-     "entry_count": 1290,
+     "entry_count": 1296,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 2,
      "slug": "double-reverse-11-22-2026",
      "status": "unfilled",
@@ -8066,13 +8102,17 @@
       [
        "2026-11-22T11:28Z",
        14851
+      ],
+      [
+       "2026-11-22T11:56Z",
+       14923
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "6 person drafts - $30k to first!",
-     "entry_count": 14851,
+     "entry_count": 14923,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 150,
      "slug": "battle-royale-week-11-11-22-2026",
      "status": "unfilled",
@@ -8181,13 +8221,17 @@
       [
        "2026-11-22T11:28Z",
        435
+      ],
+      [
+       "2026-11-22T11:56Z",
+       439
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "5 entry max - $5k to first!",
-     "entry_count": 435,
+     "entry_count": 439,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 5,
      "slug": "fullback-dive-11-22-2026",
      "status": "unfilled",
@@ -8296,13 +8340,17 @@
       [
        "2026-11-22T11:28Z",
        4241
+      ],
+      [
+       "2026-11-22T11:56Z",
+       4263
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "20 entry max - $2k to first!",
-     "entry_count": 4241,
+     "entry_count": 4263,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 20,
      "slug": "the-hurry-up-11-22-2026",
      "status": "unfilled",
@@ -8411,13 +8459,17 @@
       [
        "2026-11-22T11:28Z",
        12
+      ],
+      [
+       "2026-11-22T11:56Z",
+       12
       ]
      ],
      "cutoff_at": "2026-11-22T17:41:00Z",
      "description": "Single Entry - $5k to first!",
      "entry_count": 12,
      "first_seen": "2026-11-17T03:55:23.590337+00:00",
-     "last_seen": "2026-11-22T11:28:12.512529+00:00",
+     "last_seen": "2026-11-22T11:56:01.724133+00:00",
      "max_entries": 1,
      "slug": "qb-sneak-11-22-2026",
      "status": "unfilled",
