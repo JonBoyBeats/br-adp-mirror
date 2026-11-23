@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:24:03Z",
+ "generated_at": "2026-11-23T10:23:58Z",
  "slates": [
   {
    "draft_group_id": 157019,
@@ -5529,7 +5529,7 @@
      "name": "CBB $4K Pull Up Jumper [$1K to 1st]",
      "entry_fee": 15,
      "size": 313,
-     "entries": 127,
+     "entries": 128,
      "prizes": 4000.0,
      "max_per_user": 9,
      "payouts": [
@@ -5614,7 +5614,7 @@
      "name": "CBB $750 High Five [Single Entry]",
      "entry_fee": 5,
      "size": 178,
-     "entries": 47,
+     "entries": 49,
      "prizes": 750.0,
      "max_per_user": 1,
      "payouts": [
@@ -5661,11 +5661,20 @@
      ]
     },
     {
+     "id": 198025110,
+     "name": "CBB $600 Full Court Press [2 Entry Max]",
+     "entry_fee": 33,
+     "size": 21,
+     "entries": 9,
+     "prizes": 600.0,
+     "max_per_user": 2
+    },
+    {
      "id": 198025113,
      "name": "CBB $1K And-One",
      "entry_fee": 1,
      "size": 1189,
-     "entries": 407,
+     "entries": 412,
      "prizes": 1000.0,
      "max_per_user": 20,
      "payouts": [
@@ -5755,15 +5764,6 @@
        1.5
       ]
      ]
-    },
-    {
-     "id": 198025110,
-     "name": "CBB $600 Full Court Press [2 Entry Max]",
-     "entry_fee": 33,
-     "size": 21,
-     "entries": 9,
-     "prizes": 600.0,
-     "max_per_user": 2
     },
     {
      "id": 198025115,
@@ -5905,7 +5905,7 @@
      "name": "CBB $150 Quarter Jukebox [Just $0.25!] ",
      "entry_fee": 0.25,
      "size": 713,
-     "entries": 276,
+     "entries": 281,
      "prizes": 150.0,
      "max_per_user": 20,
      "payouts": [
@@ -5966,7 +5966,7 @@
      "name": "CBB $100 Dime Time [Just $0.10!]",
      "entry_fee": 0.1,
      "size": 1189,
-     "entries": 497,
+     "entries": 508,
      "prizes": 100.0,
      "max_per_user": 20,
      "payouts": [
@@ -7204,7 +7204,7 @@
      "full": true
     }
    ],
-   "contests_at": "2026-11-23T09:24:03+00:00"
+   "contests_at": "2026-11-23T10:23:58+00:00"
   }
  ]
 }
