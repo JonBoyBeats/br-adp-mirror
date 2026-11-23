@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:47:20Z",
+ "generated_at": "2026-11-23T17:54:36Z",
  "backtest": {
   "rule": [
    302,
@@ -49,6 +49,1850 @@
  },
  "rule": "scripts/dk_team_cards.py (br_rankings); display only",
  "slates": {
-  "157021": {}
+  "157021": {
+   "ARIZ": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Core: Kharchenkov and Dixon, locked-in 35-minute roles. Strong: Holt ($8.8k, 31 min, 5 of last 5 started, 33.6 DK a game); Krivas ($9.5k, 30 min, 5 of last 5 started, 38.5 DK a game). Fade: James."
+     ],
+     [
+      "Arizona today.",
+      "Per EvanMiya (2026-11-23), Arizona's offense ranks 10th and its true tempo 45th (72.3). Colorado State's defense ranks 94th, its pace 231st. The over/under is 158.5, 3rd of 4 on the slate; the spread has Arizona -16.5, an implied 87.5 points. Read: no pace edge either way."
+     ],
+     [
+      "OUT:",
+      "RJ Godfrey (out all season so far, 0 of 5 games; already missing from everyone's averages)."
+     ],
+     [
+      "Flags:",
+      "Bryce James is Questionable; Bryce James carries sit risk (25% to play: missed the last game \u00b7 last game 12 days ago \u00b7 played 3 of 5 games)."
+     ],
+     [
+      "Rotation.",
+      "Arizona plays a **tight** rotation: 6 players at 15+ minutes a game; the top 5 take 78% of the minutes and the top 7 91% (5 games). The top 3 fantasy scorers have produced 63% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Dixon, Mandaquit, Holmes."
+     ],
+     [
+      "",
+      "**Ivan Kharchenkov** ($9,800, a starter in all 5) averages 34.8 minutes (38, 29, 30, 38, 39), 35.7 projected. OBPR 4.35 (1st on the team). 43.1 DK a game, 1.24 a minute; 4x in 3 of 5, 5x in 1, under 2x in 0. Recent 1.24 a minute vs EvanMiya's 0.96: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Derek Dixon** ($5,500, 5-for-5 starter): 34.2 mpg (38, 31, 27, 37, 38), 33.9 projected. OBPR 2.65 (4th on the team). 21.5 DK a game, 0.63 a minute; 4x in 2 of 5, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Caleb Holt** ($8,800, a starter in all 5) averages 29.8 minutes (27, 23, 27, 37, 35), 30.6 projected \u2014 **rising role**. OBPR 3.38 (3rd on the team). 33.6 DK a game, 1.13 a minute; 4x in 2 of 5, 5x in 1, under 2x in 1."
+     ],
+     [
+      "",
+      "**Motiejus Krivas** ($9,500, a starter in all 5) averages 29.2 minutes (31, 23, 26, 29, 37), 29.6 projected. OBPR 4.08 (2nd on the team). 38.5 DK a game, 1.32 a minute; 4x in 3 of 5, 5x in 0, under 2x in 0. Recent 1.32 a minute vs EvanMiya's 1.12: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**JJ Mandaquit** ($4,400, 2 of 5 starts): 28.8 mpg (32, 22, 27, 31, 32), 27.7 projected. OBPR 2.44 (5th on the team). 15.7 DK a game, 0.54 a minute; 4x in 2 of 5, 5x in 1, under 2x in 2."
+     ],
+     [
+      "",
+      "**Cameron Holmes** ($3,500, a reserve in all 5) averages 15.6 minutes (11, 21, 20, 14, 12), 13.6 projected. OBPR 1.37 (6th on the team). 9.7 DK a game, 0.62 a minute; 4x in 1 of 5, 5x in 1, under 2x in 3. **Shy away even if starting**: minutes too volatile and too low."
+     ],
+     [
+      "",
+      "**Bryce James** ($3,300, started every game) is at 12.0 mpg (6, 17, 13), 10.6 projected. OBPR -0.76 (8th on the team). 8.9 DK a game, 0.74 a minute; 4x in 1 of 3, 5x in 0, under 2x in 1. Recent 0.74 a minute vs EvanMiya's 0.57: **running hot, regression risk**. **Shy away even if starting**: minutes too volatile and too low. **Fade**."
+     ],
+     [
+      "Pool.",
+      "Keep Kharchenkov, Dixon, Holt, Krivas, Mandaquit, Holmes. James: no 5x game in the last 5 and projected under 20 minutes, so **leave him out of your pool today**."
+     ]
+    ],
+    "games": 5,
+    "table": [
+     {
+      "id": "45058754",
+      "name": "Ivan Kharchenkov",
+      "salary": 9800,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 34.8,
+      "last3": 35.67,
+      "proj_min": 35.7,
+      "dk_pg": 43.1,
+      "dk_pm": 1.24,
+      "hits": 3,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 4.35,
+      "obpr_rank": 1,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058814",
+      "name": "Derek Dixon",
+      "salary": 5500,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 34.2,
+      "last3": 34.0,
+      "proj_min": 33.9,
+      "dk_pg": 21.5,
+      "dk_pm": 0.63,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 2.65,
+      "obpr_rank": 4,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058760",
+      "name": "Caleb Holt",
+      "salary": 8800,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 29.8,
+      "last3": 33.0,
+      "proj_min": 30.6,
+      "dk_pg": 33.65,
+      "dk_pm": 1.13,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 1,
+      "obpr": 3.38,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": "rising role",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058756",
+      "name": "Motiejus Krivas",
+      "salary": 9500,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 29.2,
+      "last3": 30.67,
+      "proj_min": 29.6,
+      "dk_pg": 38.5,
+      "dk_pm": 1.32,
+      "hits": 3,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 4.08,
+      "obpr_rank": 2,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058852",
+      "name": "JJ Mandaquit",
+      "salary": 4400,
+      "starts": 2,
+      "gp": 5,
+      "season_mpg": 28.8,
+      "last3": 30.0,
+      "proj_min": 27.7,
+      "dk_pg": 15.65,
+      "dk_pm": 0.54,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 2,
+      "obpr": 2.44,
+      "obpr_rank": 5,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058888",
+      "name": "Cameron Holmes",
+      "salary": 3500,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 15.6,
+      "last3": 15.33,
+      "proj_min": 13.6,
+      "dk_pg": 9.7,
+      "dk_pm": 0.62,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 3,
+      "obpr": 1.37,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": true
+     },
+     {
+      "id": "45058898",
+      "name": "Bryce James",
+      "salary": 3300,
+      "starts": 3,
+      "gp": 3,
+      "season_mpg": 12.0,
+      "last3": 12.0,
+      "proj_min": 10.6,
+      "dk_pg": 8.92,
+      "dk_pm": 0.74,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": -0.76,
+      "obpr_rank": 8,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": true,
+      "shy": true
+     }
+    ]
+   },
+   "BYU": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Core: Wright, locked-in 32-minute roles. Strong: Chandler ($7.3k, 27 min, 5 of last 5 started, 27.3 DK a game). Fade: Mboup."
+     ],
+     [
+      "BYU today.",
+      "Per EvanMiya (2026-11-23), BYU's offense ranks 11th and its true tempo 36th (72.5). Washington's defense ranks 124th, its pace 253rd. The over/under is 165.5, the highest on the slate, 7.0 over the next; the spread has BYU -11.5, an implied 88.5 points. Read: no pace edge either way."
+     ],
+     [
+      "Flags:",
+      "Robert Wright III is Questionable."
+     ],
+     [
+      "Rotation.",
+      "BYU plays a **deep** rotation: 7 players at 15+ minutes a game; the top 5 take 62% of the minutes and the top 7 79% (5 games). The top 3 fantasy scorers have produced 44% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Kohler."
+     ],
+     [
+      "",
+      "**Robert Wright III** ($10,300, a starter in all 4) averages 30.2 minutes (34, 24, 32, 31), 32.4 projected. OBPR 7.27 (1st on the team). 37.8 DK a game, 1.25 a minute; 4x in 2 of 4, 5x in 0, under 2x in 0. Recent 1.25 a minute vs EvanMiya's 0.91: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Collin Chandler** ($7,300, 5-for-5 starter): 27.2 mpg (32, 27, 26, 29, 22), 27.0 projected. OBPR 4.30 (2nd on the team). 27.3 DK a game, 1.00 a minute; 4x in 2 of 5, 5x in 0, under 2x in 0. Recent 1.00 a minute vs EvanMiya's 0.77: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Bruce Branch III** ($8,500, 5-for-5 starter): 26.2 mpg (27, 26, 28, 25, 25), 26.3 projected. OBPR 2.17 (5th on the team). 28.6 DK a game, 1.09 a minute; 4x in 1 of 5, 5x in 0, under 2x in 0. Recent 1.09 a minute vs EvanMiya's 0.94: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Tyler Betsey** ($4,700, a starter in all 5) averages 23.4 minutes (31, 16, 21, 23, 26), 22.6 projected. OBPR 2.80 (4th on the team). 20.8 DK a game, 0.89 a minute; 4x in 3 of 5, 5x in 2, under 2x in 0. Recent 0.89 a minute vs EvanMiya's 0.63: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Jaxon Kohler** ($8,600, 5-for-5 starter): 22.8 mpg (25, 20, 25, 24, 20), 22.5 projected. OBPR 3.87 (3rd on the team). 25.2 DK a game, 1.11 a minute; 4x in 0 of 5, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Jake Wahlin** ($4,300, 1 of 5 starts): 19.2 mpg (16, 17, 21, 20, 22), 17.5 projected. OBPR 1.25 (8th on the team). 15.3 DK a game, 0.80 a minute; 4x in 3 of 5, 5x in 1, under 2x in 1."
+     ],
+     [
+      "",
+      "**Khadim Mboup** ($4,000, off the bench every game) is at 15.6 mpg (14, 16, 15, 15, 18), 13.4 projected. OBPR -0.88 (10th on the team). 13.8 DK a game, 0.88 a minute; 4x in 1 of 5, 5x in 0, under 2x in 1. **Fade**."
+     ],
+     [
+      "",
+      "**Nate Pickens** ($3,600, a reserve in all 5) averages 14.6 minutes (7, 17, 19, 12, 18), 12.2 projected. OBPR 1.44 (6th on the team). 10.1 DK a game, 0.69 a minute; 4x in 1 of 5, 5x in 1, under 2x in 2. **Shy away even if starting**: minutes too volatile and too low."
+     ],
+     [
+      "",
+      "**Brooks Bahr** ($4,100, no starts in 5): 13.4 mpg (14, 15, 10, 10, 18), 10.8 projected. OBPR 1.25 (7th on the team). 13.7 DK a game, 1.02 a minute; 4x in 1 of 5, 5x in 1, under 2x in 2. Recent 1.02 a minute vs EvanMiya's 0.68: **running hot, regression risk**."
+     ],
+     [
+      "Pool.",
+      "Keep Wright, Chandler, Branch, Betsey, Kohler, Wahlin, Pickens, Bahr. Mboup: no 5x game in the last 5 and projected under 20 minutes, so **leave him out of your pool today**."
+     ]
+    ],
+    "games": 5,
+    "table": [
+     {
+      "id": "45058752",
+      "name": "Robert Wright III",
+      "salary": 10300,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 30.25,
+      "last3": 29.0,
+      "proj_min": 32.4,
+      "dk_pg": 37.75,
+      "dk_pm": 1.25,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 7.27,
+      "obpr_rank": 1,
+      "form": "running hot, regression risk",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058776",
+      "name": "Collin Chandler",
+      "salary": 7300,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 27.2,
+      "last3": 25.67,
+      "proj_min": 27.0,
+      "dk_pg": 27.3,
+      "dk_pm": 1.0,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 4.3,
+      "obpr_rank": 2,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058764",
+      "name": "Bruce Branch III",
+      "salary": 8500,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 26.2,
+      "last3": 26.0,
+      "proj_min": 26.3,
+      "dk_pg": 28.65,
+      "dk_pm": 1.09,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.17,
+      "obpr_rank": 5,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058839",
+      "name": "Tyler Betsey",
+      "salary": 4700,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 23.4,
+      "last3": 23.33,
+      "proj_min": 22.6,
+      "dk_pg": 20.75,
+      "dk_pm": 0.89,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 2.8,
+      "obpr_rank": 4,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058762",
+      "name": "Jaxon Kohler",
+      "salary": 8600,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 22.8,
+      "last3": 23.0,
+      "proj_min": 22.5,
+      "dk_pg": 25.25,
+      "dk_pm": 1.11,
+      "hits": 0,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 3.87,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058856",
+      "name": "Jake Wahlin",
+      "salary": 4300,
+      "starts": 1,
+      "gp": 5,
+      "season_mpg": 19.2,
+      "last3": 21.0,
+      "proj_min": 17.5,
+      "dk_pg": 15.3,
+      "dk_pm": 0.8,
+      "hits": 3,
+      "ceil": 1,
+      "floor": 1,
+      "obpr": 1.25,
+      "obpr_rank": 8,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058868",
+      "name": "Khadim Mboup",
+      "salary": 4000,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 15.6,
+      "last3": 16.0,
+      "proj_min": 13.4,
+      "dk_pg": 13.8,
+      "dk_pm": 0.88,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": -0.88,
+      "obpr_rank": 10,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": true,
+      "shy": false
+     },
+     {
+      "id": "45058884",
+      "name": "Nate Pickens",
+      "salary": 3600,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 14.6,
+      "last3": 16.33,
+      "proj_min": 12.2,
+      "dk_pg": 10.05,
+      "dk_pm": 0.69,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 2,
+      "obpr": 1.44,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": true
+     },
+     {
+      "id": "45058862",
+      "name": "Brooks Bahr",
+      "salary": 4100,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 13.4,
+      "last3": 12.67,
+      "proj_min": 10.8,
+      "dk_pg": 13.65,
+      "dk_pm": 1.02,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 2,
+      "obpr": 1.25,
+      "obpr_rank": 7,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     }
+    ]
+   },
+   "CLEM": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Core: Buckner and Certa, locked-in 33-minute roles. Strong: Faulkner ($6.4k, 27 min, 4 of last 5 started, 31.2 DK a game). Value: Thompson and Lelevicius ($4.5k-4.7k, 29 min, multiple 5x games), but Lelevicius is **running hot** vs Miya. Fade: Fuchs."
+     ],
+     [
+      "Clemson today.",
+      "Per EvanMiya (2026-11-23), Clemson's offense ranks 45th and its true tempo 310th (67.9). Ole Miss's defense ranks 14th, its pace 145th. The over/under is 147.5, the lowest on the slate, 7.0 under the next; the spread has Clemson +5.5, an implied 71.0 points. Read: **a grind**: fewer possessions to go around, so lean on the minutes leaders."
+     ],
+     [
+      "OUT:",
+      "Carter Welling and Zac Foster (out all season so far, 0 of 5 games; already missing from everyone's averages)."
+     ],
+     [
+      "Rotation.",
+      "Clemson plays a **tight** rotation: 7 players at 15+ minutes a game; the top 5 take 75% of the minutes and the top 7 93% (5 games). The top 3 fantasy scorers have produced 52% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Buckner, Certa, Thompson, Faulkner, Thomas, Reynolds."
+     ],
+     [
+      "",
+      "**Ace Buckner** ($7,000, started every game) is at 31.6 mpg (26, 36, 36, 33, 27), 32.9 projected. OBPR 3.59 (1st on the team). 30.6 DK a game, 0.97 a minute; 4x in 3 of 5, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Cole Certa** ($5,900, 5-for-5 starter): 31.4 mpg (32, 29, 31, 35, 30), 32.9 projected. OBPR 2.70 (4th on the team). 24.1 DK a game, 0.77 a minute; 4x in 3 of 5, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Chase Thompson** ($4,500, 2 of 5 starts) averages 29.0 minutes (26, 30, 29, 31, 29), 29.0 projected. OBPR 1.22 (6th on the team). 20.5 DK a game, 0.71 a minute; 4x in 3 of 5, 5x in 2, under 2x in 0."
+     ],
+     [
+      "",
+      "**Liutauras Lelevicius** ($4,700, started every game) is at 29.2 mpg (34, 29, 32, 30, 21), 28.8 projected. OBPR 3.48 (2nd on the team). 25.2 DK a game, 0.86 a minute; 4x in 3 of 5, 5x in 3, under 2x in 1. Recent 0.86 a minute vs EvanMiya's 0.69: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Dylan Faulkner** ($6,400, 4 of 5 starts) averages 28.6 minutes (33, 33, 30, 27, 20), 27.3 projected. OBPR 2.79 (3rd on the team). 31.2 DK a game, 1.09 a minute; 4x in 3 of 5, 5x in 2, under 2x in 0."
+     ],
+     [
+      "",
+      "**Dallas Thomas** ($3,900, off the bench every game) is at 21.0 mpg (16, 27, 20, 16, 26), 19.9 projected. OBPR 0.51 (7th on the team). 13.2 DK a game, 0.63 a minute; 4x in 3 of 5, 5x in 1, under 2x in 1."
+     ],
+     [
+      "",
+      "**David Fuchs** ($6,500, 4 of 5 starts): 15.6 mpg (18, 14, 12, 13, 21), 14.4 projected. OBPR 1.85 (5th on the team). 14.4 DK a game, 0.92 a minute; 4x in 0 of 5, 5x in 0, under 2x in 2. **Fade**."
+     ],
+     [
+      "",
+      "**Harris Reynolds** ($3,500, off the bench every game) is at 13.8 mpg (13, 10, 13, 19), 12.8 projected. OBPR 0.20 (8th on the team). 8.1 DK a game, 0.59 a minute; 4x in 1 of 4, 5x in 1, under 2x in 3."
+     ],
+     [
+      "The forward spots have been moving.",
+      "Thompson's 29 minutes off the bench (2 of 5 starts) are as steady as a starter's (26-31); Faulkner has the starting job (4 of 5) and the team's best per-minute rate (1.09); Fuchs starts (4 of 5) but plays 12-14 most nights (median 14)."
+     ],
+     [
+      "Pool.",
+      "Keep Buckner, Certa, Thompson, Lelevicius, Faulkner, Thomas, Reynolds. Fuchs: no 5x game in the last 5 and projected under 20 minutes, so **leave him out of your pool today**."
+     ]
+    ],
+    "games": 5,
+    "table": [
+     {
+      "id": "45058782",
+      "name": "Ace Buckner",
+      "salary": 7000,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 31.6,
+      "last3": 32.0,
+      "proj_min": 32.9,
+      "dk_pg": 30.65,
+      "dk_pm": 0.97,
+      "hits": 3,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 3.59,
+      "obpr_rank": 1,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058806",
+      "name": "Cole Certa",
+      "salary": 5900,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 31.4,
+      "last3": 32.0,
+      "proj_min": 32.9,
+      "dk_pg": 24.05,
+      "dk_pm": 0.77,
+      "hits": 3,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 2.7,
+      "obpr_rank": 4,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058846",
+      "name": "Chase Thompson",
+      "salary": 4500,
+      "starts": 2,
+      "gp": 5,
+      "season_mpg": 29.0,
+      "last3": 29.67,
+      "proj_min": 29.0,
+      "dk_pg": 20.5,
+      "dk_pm": 0.71,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 1.22,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058836",
+      "name": "Liutauras Lelevicius",
+      "salary": 4700,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 29.2,
+      "last3": 27.67,
+      "proj_min": 28.8,
+      "dk_pg": 25.2,
+      "dk_pm": 0.86,
+      "hits": 3,
+      "ceil": 3,
+      "floor": 1,
+      "obpr": 3.48,
+      "obpr_rank": 2,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058794",
+      "name": "Dylan Faulkner",
+      "salary": 6400,
+      "starts": 4,
+      "gp": 5,
+      "season_mpg": 28.6,
+      "last3": 25.67,
+      "proj_min": 27.3,
+      "dk_pg": 31.2,
+      "dk_pm": 1.09,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 2.79,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058870",
+      "name": "Dallas Thomas",
+      "salary": 3900,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 21.0,
+      "last3": 20.67,
+      "proj_min": 19.9,
+      "dk_pg": 13.2,
+      "dk_pm": 0.63,
+      "hits": 3,
+      "ceil": 1,
+      "floor": 1,
+      "obpr": 0.51,
+      "obpr_rank": 7,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058792",
+      "name": "David Fuchs",
+      "salary": 6500,
+      "starts": 4,
+      "gp": 5,
+      "season_mpg": 15.6,
+      "last3": 15.33,
+      "proj_min": 14.4,
+      "dk_pg": 14.4,
+      "dk_pm": 0.92,
+      "hits": 0,
+      "ceil": 0,
+      "floor": 2,
+      "obpr": 1.85,
+      "obpr_rank": 5,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": true,
+      "shy": false
+     },
+     {
+      "id": "45058886",
+      "name": "Harris Reynolds",
+      "salary": 3500,
+      "starts": 0,
+      "gp": 4,
+      "season_mpg": 13.75,
+      "last3": 14.0,
+      "proj_min": 12.8,
+      "dk_pg": 8.06,
+      "dk_pm": 0.59,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 3,
+      "obpr": 0.2,
+      "obpr_rank": 8,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     }
+    ]
+   },
+   "CSU": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Core: Butler and Pascarelli and Booth, locked-in 31-minute roles. Fade: McIver."
+     ],
+     [
+      "Colorado State today.",
+      "Per EvanMiya (2026-11-23), Colorado State's offense ranks 105th and its true tempo 231st (69.2). Arizona's defense ranks 13th, its pace 45th. The over/under is 158.5, 3rd of 4 on the slate; the spread has Colorado State +16.5, an implied 71.0 points. Read: no pace edge either way."
+     ],
+     [
+      "Flags:",
+      "Charlie Dortch hasn't played this season (projection scaled)."
+     ],
+     [
+      "Rotation.",
+      "Colorado State plays a **standard** rotation: 6 players at 15+ minutes a game; the top 5 take 71% of the minutes and the top 7 86% (5 games). The top 3 fantasy scorers have produced 49% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Pascarelli, Booth, Menard, Ghoreishi."
+     ],
+     [
+      "",
+      "**Jase Butler** ($5,400, started every game) is at 30.4 mpg (32, 31, 26, 30, 33), 31.6 projected. OBPR 1.80 (2nd on the team). 28.6 DK a game, 0.94 a minute; 4x in 4 of 5, 5x in 3, under 2x in 0. Recent 0.94 a minute vs EvanMiya's 0.76: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Josh Pascarelli** ($4,400, 5-for-5 starter): 30.6 mpg (32, 35, 27, 24, 35), 31.4 projected. OBPR 2.18 (1st on the team). 20.0 DK a game, 0.65 a minute; 4x in 3 of 5, 5x in 2, under 2x in 0."
+     ],
+     [
+      "",
+      "**Carey Booth** ($5,600, 5-for-5 starter): 29.4 mpg (28, 31, 26, 30, 32), 30.6 projected. OBPR 1.27 (5th on the team). 26.8 DK a game, 0.91 a minute; 4x in 3 of 5, 5x in 3, under 2x in 1."
+     ],
+     [
+      "",
+      "**Kyle Jorgensen** ($6,700, 5-for-5 starter): 26.6 mpg (29, 32, 13, 31, 28), 27.2 projected. OBPR 1.77 (3rd on the team). 20.6 DK a game, 0.78 a minute; 4x in 1 of 5, 5x in 0, under 2x in 1."
+     ],
+     [
+      "",
+      "**Justin Menard** ($4,900, 5-for-5 starter): 24.8 mpg (21, 32, 22, 24, 25), 24.7 projected. OBPR 1.51 (4th on the team). 16.5 DK a game, 0.67 a minute; 4x in 2 of 5, 5x in 0, under 2x in 1."
+     ],
+     [
+      "",
+      "**Jojo McIver** ($3,600, no starts in 5): 15.6 mpg (19, 8, 17, 15, 19), 15.2 projected. OBPR -1.75 (10th on the team). 6.0 DK a game, 0.39 a minute; 4x in 0 of 5, 5x in 0, under 2x in 3. Recent 0.39 a minute vs EvanMiya's 0.55: **due to bounce back**. **Shy away even if starting**: minutes too volatile and too low. **Fade**."
+     ],
+     [
+      "",
+      "**Rashaan Mbemba** ($4,100, off the bench every game) is at 14.6 mpg (13, 8, 24, 16, 12), 14.2 projected. OBPR 0.14 (7th on the team). 12.4 DK a game, 0.85 a minute; 4x in 1 of 5, 5x in 1, under 2x in 2. **Shy away even if starting**: minutes too volatile and too low."
+     ],
+     [
+      "",
+      "**Jaden Ghoreishi** ($4,200, a reserve in all 5) averages 13.4 minutes (14, 14, 20, 11, 8), 11.7 projected. OBPR -0.45 (8th on the team). 12.6 DK a game, 0.94 a minute; 4x in 2 of 5, 5x in 1, under 2x in 2. **Shy away even if starting**: minutes too volatile and too low."
+     ],
+     [
+      "Pool.",
+      "Keep Butler, Pascarelli, Booth, Jorgensen, Menard, Mbemba, Ghoreishi. McIver: no 5x game in the last 5 and projected under 20 minutes, so **leave him out of your pool today**."
+     ]
+    ],
+    "games": 5,
+    "table": [
+     {
+      "id": "45058816",
+      "name": "Jase Butler",
+      "salary": 5400,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 30.4,
+      "last3": 29.67,
+      "proj_min": 31.6,
+      "dk_pg": 28.55,
+      "dk_pm": 0.94,
+      "hits": 4,
+      "ceil": 3,
+      "floor": 0,
+      "obpr": 1.8,
+      "obpr_rank": 2,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058850",
+      "name": "Josh Pascarelli",
+      "salary": 4400,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 30.6,
+      "last3": 28.67,
+      "proj_min": 31.4,
+      "dk_pg": 20.0,
+      "dk_pm": 0.65,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 2.18,
+      "obpr_rank": 1,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058812",
+      "name": "Carey Booth",
+      "salary": 5600,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 29.4,
+      "last3": 29.33,
+      "proj_min": 30.6,
+      "dk_pg": 26.8,
+      "dk_pm": 0.91,
+      "hits": 3,
+      "ceil": 3,
+      "floor": 1,
+      "obpr": 1.27,
+      "obpr_rank": 5,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058788",
+      "name": "Kyle Jorgensen",
+      "salary": 6700,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 26.6,
+      "last3": 24.0,
+      "proj_min": 27.2,
+      "dk_pg": 20.65,
+      "dk_pm": 0.78,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": 1.77,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058830",
+      "name": "Justin Menard",
+      "salary": 4900,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 24.8,
+      "last3": 23.67,
+      "proj_min": 24.7,
+      "dk_pg": 16.5,
+      "dk_pm": 0.67,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": 1.51,
+      "obpr_rank": 4,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058882",
+      "name": "Jojo McIver",
+      "salary": 3600,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 15.6,
+      "last3": 17.0,
+      "proj_min": 15.2,
+      "dk_pg": 6.05,
+      "dk_pm": 0.39,
+      "hits": 0,
+      "ceil": 0,
+      "floor": 3,
+      "obpr": -1.75,
+      "obpr_rank": 10,
+      "form": "due to bounce back",
+      "min_note": "minutes safe as projected",
+      "pool_out": true,
+      "shy": true
+     },
+     {
+      "id": "45058864",
+      "name": "Rashaan Mbemba",
+      "salary": 4100,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 14.6,
+      "last3": 17.33,
+      "proj_min": 14.2,
+      "dk_pg": 12.4,
+      "dk_pm": 0.85,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 2,
+      "obpr": 0.14,
+      "obpr_rank": 7,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": true
+     },
+     {
+      "id": "45058858",
+      "name": "Jaden Ghoreishi",
+      "salary": 4200,
+      "starts": 0,
+      "gp": 5,
+      "season_mpg": 13.4,
+      "last3": 13.0,
+      "proj_min": 11.7,
+      "dk_pg": 12.6,
+      "dk_pm": 0.94,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 2,
+      "obpr": -0.45,
+      "obpr_rank": 8,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": true
+     }
+    ]
+   },
+   "MISS": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Strong: Clark ($7.5k, 27 min, 4 of last 4 started, 30.8 DK a game). Value: Pinkins ($4.6k, 27 min, multiple 5x games), but Pinkins is **running hot** vs Miya. Fade: Siulepa."
+     ],
+     [
+      "Ole Miss today.",
+      "Per EvanMiya (2026-11-23), Ole Miss's offense ranks 70th and its true tempo 145th (70.2). Clemson's defense ranks 78th, its pace 310th. The over/under is 147.5, the lowest on the slate, 7.0 under the next; the spread has Ole Miss -5.5, an implied 76.5 points. Read: **a grind**: fewer possessions to go around, so lean on the minutes leaders."
+     ],
+     [
+      "Flags:",
+      "Micah Handlogten is Questionable; Micah Handlogten hasn't played this season (projection scaled)."
+     ],
+     [
+      "Rotation.",
+      "Ole Miss plays a **deep** rotation: 7 players at 15+ minutes a game; the top 5 take 59% of the minutes and the top 7 77% (4 games). The top 3 fantasy scorers have produced 41% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Clark, Kamardine."
+     ],
+     [
+      "",
+      "**Adam Clark** ($7,500, 4-for-4 starter): 26.2 mpg (26, 30, 25, 24), 27.0 projected. OBPR 2.96 (2nd on the team). 30.8 DK a game, 1.17 a minute; 4x in 2 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Patton Pinkins** ($4,600, 4-for-4 starter): 26.0 mpg (24, 27, 27, 26), 27.0 projected. OBPR 3.90 (1st on the team). 23.7 DK a game, 0.91 a minute; 4x in 2 of 4, 5x in 2, under 2x in 0. Recent 0.91 a minute vs EvanMiya's 0.62: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Ilias Kamardine** ($5,100, a starter in all 4) averages 23.8 minutes (28, 21, 26, 20), 24.2 projected. OBPR 2.53 (3rd on the team). 18.6 DK a game, 0.78 a minute; 4x in 1 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Ben Henshall** ($6,800, no starts in 4): 21.5 mpg (17, 20, 23, 26), 22.8 projected. OBPR 2.49 (4th on the team). 22.8 DK a game, 1.06 a minute; 4x in 2 of 4, 5x in 0, under 2x in 1. Recent 1.06 a minute vs EvanMiya's 0.81: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Corey Stephenson** ($7,700, a starter in all 4) averages 20.2 minutes (18, 19, 24, 20), 20.3 projected. OBPR 0.95 (7th on the team). 22.1 DK a game, 1.09 a minute; 4x in 0 of 4, 5x in 0, under 2x in 1. Recent 1.09 a minute vs EvanMiya's 0.91: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Santiago Trouet** ($5,000, off the bench every game) is at 19.5 mpg (22, 19, 19, 18), 17.5 projected. OBPR 1.17 (5th on the team). 27.5 DK a game, 1.41 a minute; 4x in 4 of 4, 5x in 3, under 2x in 0. Recent 1.41 a minute vs EvanMiya's 0.93: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Roman Siulepa** ($4,900, a starter in all 4) averages 17.5 minutes (12, 22, 17, 19), 16.2 projected. OBPR 1.11 (6th on the team). 17.0 DK a game, 0.97 a minute; 4x in 1 of 4, 5x in 0, under 2x in 0. **Fade**."
+     ],
+     [
+      "Pool.",
+      "Keep Clark, Pinkins, Kamardine, Henshall, Stephenson, Trouet. Siulepa: no 5x game in the last 5 and projected under 20 minutes, so **leave him out of your pool today**."
+     ]
+    ],
+    "games": 4,
+    "table": [
+     {
+      "id": "45058772",
+      "name": "Adam Clark",
+      "salary": 7500,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 26.25,
+      "last3": 26.33,
+      "proj_min": 27.0,
+      "dk_pg": 30.81,
+      "dk_pm": 1.17,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.96,
+      "obpr_rank": 2,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058844",
+      "name": "Patton Pinkins",
+      "salary": 4600,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 26.0,
+      "last3": 26.67,
+      "proj_min": 27.0,
+      "dk_pg": 23.69,
+      "dk_pm": 0.91,
+      "hits": 2,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 3.9,
+      "obpr_rank": 1,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058822",
+      "name": "Ilias Kamardine",
+      "salary": 5100,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 23.75,
+      "last3": 22.33,
+      "proj_min": 24.2,
+      "dk_pg": 18.56,
+      "dk_pm": 0.78,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.53,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058786",
+      "name": "Ben Henshall",
+      "salary": 6800,
+      "starts": 0,
+      "gp": 4,
+      "season_mpg": 21.5,
+      "last3": 23.0,
+      "proj_min": 22.8,
+      "dk_pg": 22.75,
+      "dk_pm": 1.06,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": 2.49,
+      "obpr_rank": 4,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058768",
+      "name": "Corey Stephenson",
+      "salary": 7700,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 20.25,
+      "last3": 21.0,
+      "proj_min": 20.3,
+      "dk_pg": 22.12,
+      "dk_pm": 1.09,
+      "hits": 0,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": 0.95,
+      "obpr_rank": 7,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058824",
+      "name": "Santiago Trouet",
+      "salary": 5000,
+      "starts": 0,
+      "gp": 4,
+      "season_mpg": 19.5,
+      "last3": 18.67,
+      "proj_min": 17.5,
+      "dk_pg": 27.5,
+      "dk_pm": 1.41,
+      "hits": 4,
+      "ceil": 3,
+      "floor": 0,
+      "obpr": 1.17,
+      "obpr_rank": 5,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058828",
+      "name": "Roman Siulepa",
+      "salary": 4900,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 17.5,
+      "last3": 19.33,
+      "proj_min": 16.2,
+      "dk_pg": 17.0,
+      "dk_pm": 0.97,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 1.11,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": true,
+      "shy": false
+     }
+    ]
+   },
+   "PROV": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Strong: Mack ($7.4k, 29 min, 4 of last 5 started, 24.0 DK a game). Fade: Mela, Page."
+     ],
+     [
+      "Providence today.",
+      "Per EvanMiya (2026-11-23), Providence's offense ranks 103rd and its true tempo 94th (70.9). VCU's defense ranks 44th, its pace 198th. The over/under is 154.5, 2nd of 4 on the slate; the spread has Providence -1.5, an implied 78.0 points. Read: no pace edge either way."
+     ],
+     [
+      "Flags:",
+      "Devin Vanterpool is Questionable; Devin Vanterpool carries sit risk (43% to play: played 2 of 5 games \u00b7 missed the last game \u00b7 last game 12 days ago); Ryan Mela is Questionable; Ryan Mela carries sit risk (56% to play: missed the last game \u00b7 played 3 of 5 games \u00b7 last game 9 days ago)."
+     ],
+     [
+      "Rotation.",
+      "Providence plays a **deep** rotation: 9 players at 15+ minutes a game; the top 5 take 63% of the minutes and the top 7 76% (5 games). The top 3 fantasy scorers have produced 46% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Mack, Vanterpool, Walters."
+     ],
+     [
+      "",
+      "**Miles Byrd** ($9,300, started every game) is at 30.2 mpg (25, 18, 37, 37, 34), 32.4 projected \u2014 **rising role**. OBPR 1.33 (5th on the team). 34.8 DK a game, 1.15 a minute; 4x in 3 of 5, 5x in 1, under 2x in 1."
+     ],
+     [
+      "",
+      "**Malik Mack** ($7,400, 4 of 5 starts) is at 29.2 mpg (27, 29, 32, 29, 29), 29.4 projected. OBPR 2.57 (1st on the team). 24.0 DK a game, 0.82 a minute; 4x in 0 of 5, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Gavin Hightower** ($3,700, 1 of 5 starts): 27.4 mpg (30, 30, 32, 22, 23), 23.7 projected. OBPR -0.27 (11th on the team). 15.5 DK a game, 0.57 a minute; 4x in 2 of 5, 5x in 1, under 2x in 0. Recent 0.57 a minute vs EvanMiya's 0.72: **due to bounce back**."
+     ],
+     [
+      "",
+      "**Devin Vanterpool** ($5,800, 1 of 2 starts) averages 24.5 minutes (26, 23), 21.9 projected. OBPR 0.22 (9th on the team). 31.0 DK a game, 1.27 a minute; 4x in 2 of 2, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Clyde Walters** ($4,500, 1 of 3 starts) averages 20.3 minutes (15, 19, 27), 18.3 projected. OBPR -0.86 (12th on the team). 18.1 DK a game, 0.89 a minute; 4x in 1 of 3, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Ryan Mela** ($6,600, started every game) is at 21.3 mpg (20, 27, 17), 17.9 projected. OBPR 1.61 (3rd on the team). 20.3 DK a game, 0.95 a minute; 4x in 0 of 3, 5x in 0, under 2x in 0. **Fade**."
+     ],
+     [
+      "",
+      "**Jacob Bannarbie** ($4,800, 4 of 5 starts): 22.4 mpg (25, 21, 29, 27, 10), 17.1 projected. OBPR 0.68 (6th on the team). 19.8 DK a game, 0.88 a minute; 4x in 3 of 5, 5x in 2, under 2x in 2."
+     ],
+     [
+      "",
+      "**Arrinten Page** ($7,600, 2 of 3 starts) is at 18.3 mpg (7, 27, 21), 13.9 projected. OBPR 0.51 (8th on the team). 20.6 DK a game, 1.12 a minute; 4x in 1 of 3, 5x in 0, under 2x in 1. **Shy away even if starting**: minutes too volatile and too low. **Fade**."
+     ],
+     [
+      "",
+      "**Leonardo Marangon** ($4,000, 4 of 5 starts) is at 17.0 mpg (23, 21, 11, 15, 15), 10.3 projected \u2014 **shrinking role**. OBPR -0.05 (10th on the team). 14.7 DK a game, 0.86 a minute; 4x in 3 of 5, 5x in 2, under 2x in 1. **Shy away even if starting**: minutes too volatile and too low."
+     ],
+     [
+      "The guard spots have been moving.",
+      "Mack has the starting job (4 of 5); Hightower's 27 minutes off the bench (1 of 5 starts) are as steady as a starter's (22-32)."
+     ],
+     [
+      "The forward spots have been moving.",
+      "Bannarbie has the starting job (4 of 5); Marangon starts (4 of 5) but plays 11-15 most nights (median 15). Walters: 1 of 3 starts, minutes 15, 19, 27. Page: 2 of 3 starts, minutes 7, 27, 21."
+     ],
+     [
+      "Pool.",
+      "Keep Byrd, Mack, Hightower, Vanterpool, Walters, Bannarbie, Marangon. Mela and Page: no 5x game in the last 5 and projected under 20 minutes, so **leave them out of your pool today**."
+     ]
+    ],
+    "games": 5,
+    "table": [
+     {
+      "id": "45058758",
+      "name": "Miles Byrd",
+      "salary": 9300,
+      "starts": 5,
+      "gp": 5,
+      "season_mpg": 30.2,
+      "last3": 36.0,
+      "proj_min": 32.4,
+      "dk_pg": 34.8,
+      "dk_pm": 1.15,
+      "hits": 3,
+      "ceil": 1,
+      "floor": 1,
+      "obpr": 1.33,
+      "obpr_rank": 5,
+      "form": "in line",
+      "min_note": "rising role",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058774",
+      "name": "Malik Mack",
+      "salary": 7400,
+      "starts": 4,
+      "gp": 5,
+      "season_mpg": 29.2,
+      "last3": 30.0,
+      "proj_min": 29.4,
+      "dk_pg": 24.0,
+      "dk_pm": 0.82,
+      "hits": 0,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.57,
+      "obpr_rank": 1,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058878",
+      "name": "Gavin Hightower",
+      "salary": 3700,
+      "starts": 1,
+      "gp": 5,
+      "season_mpg": 27.4,
+      "last3": 25.67,
+      "proj_min": 23.7,
+      "dk_pg": 15.5,
+      "dk_pm": 0.57,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": -0.27,
+      "obpr_rank": 11,
+      "form": "due to bounce back",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058808",
+      "name": "Devin Vanterpool",
+      "salary": 5800,
+      "starts": 1,
+      "gp": 2,
+      "season_mpg": 24.5,
+      "last3": 24.5,
+      "proj_min": 21.9,
+      "dk_pg": 31.0,
+      "dk_pm": 1.27,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 0.22,
+      "obpr_rank": 9,
+      "form": null,
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058848",
+      "name": "Clyde Walters",
+      "salary": 4500,
+      "starts": 1,
+      "gp": 3,
+      "season_mpg": 20.33,
+      "last3": 20.33,
+      "proj_min": 18.3,
+      "dk_pg": 18.08,
+      "dk_pm": 0.89,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": -0.86,
+      "obpr_rank": 12,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058790",
+      "name": "Ryan Mela",
+      "salary": 6600,
+      "starts": 3,
+      "gp": 3,
+      "season_mpg": 21.33,
+      "last3": 21.33,
+      "proj_min": 17.9,
+      "dk_pg": 20.33,
+      "dk_pm": 0.95,
+      "hits": 0,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 1.61,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": true,
+      "shy": false
+     },
+     {
+      "id": "45058834",
+      "name": "Jacob Bannarbie",
+      "salary": 4800,
+      "starts": 4,
+      "gp": 5,
+      "season_mpg": 22.4,
+      "last3": 22.0,
+      "proj_min": 17.1,
+      "dk_pg": 19.75,
+      "dk_pm": 0.88,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 2,
+      "obpr": 0.68,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058770",
+      "name": "Arrinten Page",
+      "salary": 7600,
+      "starts": 2,
+      "gp": 3,
+      "season_mpg": 18.33,
+      "last3": 18.33,
+      "proj_min": 13.9,
+      "dk_pg": 20.58,
+      "dk_pm": 1.12,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 1,
+      "obpr": 0.51,
+      "obpr_rank": 8,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": true,
+      "shy": true
+     },
+     {
+      "id": "45058866",
+      "name": "Leonardo Marangon",
+      "salary": 4000,
+      "starts": 4,
+      "gp": 5,
+      "season_mpg": 17.0,
+      "last3": 13.67,
+      "proj_min": 10.3,
+      "dk_pg": 14.7,
+      "dk_pm": 0.86,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 1,
+      "obpr": -0.05,
+      "obpr_rank": 10,
+      "form": "in line",
+      "min_note": "shrinking role",
+      "pool_out": false,
+      "shy": true
+     }
+    ]
+   },
+   "UW": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Core: Beasley, locked-in 34-minute roles."
+     ],
+     [
+      "Washington today.",
+      "Per EvanMiya (2026-11-23), Washington's offense ranks 81st and its true tempo 253rd (68.8). BYU's defense ranks 47th, its pace 36th. The over/under is 165.5, the highest on the slate, 7.0 over the next; the spread has Washington +11.5, an implied 77.0 points. Read: no pace edge either way."
+     ],
+     [
+      "Flags:",
+      "Mady Traore hasn't played this season (projection scaled)."
+     ],
+     [
+      "Rotation.",
+      "Washington plays a **standard** rotation: 7 players at 15+ minutes a game; the top 5 take 62% of the minutes and the top 7 82% (4 games). The top 3 fantasy scorers have produced 45% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Beasley, Comer, Yates."
+     ],
+     [
+      "",
+      "**Ryan Beasley** ($7,200, 3-for-3 starter): 33.3 mpg (36, 34, 30), 34.4 projected. OBPR 2.91 (1st on the team). 26.0 DK a game, 0.78 a minute; 4x in 1 of 3, 5x in 1, under 2x in 1."
+     ],
+     [
+      "",
+      "**LeJuan Watts** ($6,100, 2 of 4 starts) averages 27.0 minutes (32, 27, 23, 26), 26.8 projected. OBPR 2.64 (3rd on the team). 28.8 DK a game, 1.06 a minute; 4x in 4 of 4, 5x in 1, under 2x in 0. Recent 1.06 a minute vs EvanMiya's 0.92: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Nikola Dzepina** ($6,200, started every game) is at 26.0 mpg (30, 19, 24, 31), 25.4 projected. OBPR 0.56 (7th on the team). 28.9 DK a game, 1.11 a minute; 4x in 3 of 4, 5x in 2, under 2x in 1. Recent 1.11 a minute vs EvanMiya's 0.83: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Tayshawn Comer** ($5,000, 1 of 4 starts) averages 24.0 minutes (25, 23, 22, 26), 23.4 projected. OBPR 1.63 (5th on the team). 19.6 DK a game, 0.82 a minute; 4x in 2 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Steele Venters** ($6,000, 4-for-4 starter): 21.0 mpg (15, 18, 23, 28), 21.1 projected. OBPR 1.78 (4th on the team). 25.3 DK a game, 1.21 a minute; 4x in 2 of 4, 5x in 1, under 2x in 1. Recent 1.21 a minute vs EvanMiya's 0.70: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Wesley Yates III** ($4,800, 2 of 4 starts) is at 22.0 mpg (30, 23, 20, 15), 20.1 projected. OBPR 2.85 (2nd on the team). 17.4 DK a game, 0.79 a minute; 4x in 2 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Lathan Sommerville** ($3,800, 4-for-4 starter): 18.0 mpg (16, 17, 15, 24), 15.7 projected. OBPR 0.11 (8th on the team). 15.8 DK a game, 0.88 a minute; 4x in 2 of 4, 5x in 2, under 2x in 0. Recent 0.88 a minute vs EvanMiya's 0.72: **running hot, regression risk**."
+     ],
+     [
+      "",
+      "**Parker Friedrichsen** ($3,400, no starts in 4): 14.5 mpg (12, 21, 16, 9), 10.9 projected. OBPR 1.60 (6th on the team). 10.1 DK a game, 0.70 a minute; 4x in 1 of 4, 5x in 1, under 2x in 2. **Shy away even if starting**: minutes too volatile and too low."
+     ],
+     [
+      "The guard spots have been moving.",
+      "Watts: 2 of 4 starts, minutes 32, 27, 23, 26. Comer: 1 of 4 starts, minutes 25, 23, 22, 26. Yates: 2 of 4 starts, minutes 30, 23, 20, 15."
+     ],
+     [
+      "Pool.",
+      "Every rotation player here has a ceiling game recently; keep Beasley, Watts, Dzepina, Comer, Venters, Yates, Sommerville, Friedrichsen."
+     ]
+    ],
+    "games": 4,
+    "table": [
+     {
+      "id": "45058778",
+      "name": "Ryan Beasley",
+      "salary": 7200,
+      "starts": 3,
+      "gp": 3,
+      "season_mpg": 33.33,
+      "last3": 33.33,
+      "proj_min": 34.4,
+      "dk_pg": 26.0,
+      "dk_pm": 0.78,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 1,
+      "obpr": 2.91,
+      "obpr_rank": 1,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058800",
+      "name": "LeJuan Watts",
+      "salary": 6100,
+      "starts": 2,
+      "gp": 4,
+      "season_mpg": 27.0,
+      "last3": 25.33,
+      "proj_min": 26.8,
+      "dk_pg": 28.75,
+      "dk_pm": 1.06,
+      "hits": 4,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 2.64,
+      "obpr_rank": 3,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058798",
+      "name": "Nikola Dzepina",
+      "salary": 6200,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 26.0,
+      "last3": 24.67,
+      "proj_min": 25.4,
+      "dk_pg": 28.94,
+      "dk_pm": 1.11,
+      "hits": 3,
+      "ceil": 2,
+      "floor": 1,
+      "obpr": 0.56,
+      "obpr_rank": 7,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058826",
+      "name": "Tayshawn Comer",
+      "salary": 5000,
+      "starts": 1,
+      "gp": 4,
+      "season_mpg": 24.0,
+      "last3": 23.67,
+      "proj_min": 23.4,
+      "dk_pg": 19.56,
+      "dk_pm": 0.82,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 1.63,
+      "obpr_rank": 5,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058803",
+      "name": "Steele Venters",
+      "salary": 6000,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 21.0,
+      "last3": 23.0,
+      "proj_min": 21.1,
+      "dk_pg": 25.31,
+      "dk_pm": 1.21,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 1,
+      "obpr": 1.78,
+      "obpr_rank": 4,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058832",
+      "name": "Wesley Yates III",
+      "salary": 4800,
+      "starts": 2,
+      "gp": 4,
+      "season_mpg": 22.0,
+      "last3": 19.33,
+      "proj_min": 20.1,
+      "dk_pg": 17.44,
+      "dk_pm": 0.79,
+      "hits": 2,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.85,
+      "obpr_rank": 2,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058874",
+      "name": "Lathan Sommerville",
+      "salary": 3800,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 18.0,
+      "last3": 18.67,
+      "proj_min": 15.7,
+      "dk_pg": 15.81,
+      "dk_pm": 0.88,
+      "hits": 2,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 0.11,
+      "obpr_rank": 8,
+      "form": "running hot, regression risk",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058894",
+      "name": "Parker Friedrichsen",
+      "salary": 3400,
+      "starts": 0,
+      "gp": 4,
+      "season_mpg": 14.5,
+      "last3": 15.33,
+      "proj_min": 10.9,
+      "dk_pg": 10.12,
+      "dk_pm": 0.7,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 2,
+      "obpr": 1.6,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": true
+     }
+    ]
+   },
+   "VCU": {
+    "paras": [
+     [
+      "Bottom line.",
+      "Strong: Lewis ($6.9k, 36 min, 4 of last 4 started, 25.6 DK a game); Harper ($7.1k, 36 min, 4 of last 4 started, 29.4 DK a game); Djokovic ($8.0k, 33 min, 4 of last 4 started, 25.9 DK a game); Alston ($5.7k, 28 min, 0 of last 4 started, 27.6 DK a game). Fade: Belle."
+     ],
+     [
+      "VCU today.",
+      "Per EvanMiya (2026-11-23), VCU's offense ranks 61st and its true tempo 198th (69.6). Providence's defense ranks 21st, its pace 94th. The over/under is 154.5, 2nd of 4 on the slate; the spread has VCU +1.5, an implied 76.5 points. Read: no pace edge either way."
+     ],
+     [
+      "Flags:",
+      "Jordan Tillery is Questionable."
+     ],
+     [
+      "Rotation.",
+      "VCU plays a **standard** rotation: 7 players at 15+ minutes a game; the top 5 take 72% of the minutes and the top 7 88% (4 games). The top 3 fantasy scorers have produced 48% of the team's DraftKings points."
+     ],
+     [
+      "",
+      "Minutes safe as projected and output in line with EvanMiya: Harper, Djokovic, Alston, Jennings."
+     ],
+     [
+      "",
+      "**Nyk Lewis** ($6,900, 4-for-4 starter): 34.0 mpg (37, 30, 28, 41), 36.3 projected. OBPR 3.49 (1st on the team). 25.6 DK a game, 0.75 a minute; 4x in 1 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Blake Harper** ($7,100, 4-for-4 starter): 33.5 mpg (30, 36, 26, 42), 35.5 projected. OBPR 2.01 (5th on the team). 29.4 DK a game, 0.88 a minute; 4x in 2 of 4, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Lazar Djokovic** ($8,000, a starter in all 4) averages 31.5 minutes (35, 29, 25, 37), 33.2 projected. OBPR 2.08 (4th on the team). 25.9 DK a game, 0.82 a minute; 4x in 1 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Torey Alston** ($5,700, off the bench every game) is at 28.0 mpg (31, 30, 19, 32), 27.7 projected. OBPR 1.01 (7th on the team). 27.6 DK a game, 0.98 a minute; 4x in 2 of 4, 5x in 2, under 2x in 0."
+     ],
+     [
+      "",
+      "**Brandon Jennings** ($5,200, 4-for-4 starter): 22.0 mpg (14, 20, 19, 35), 23.2 projected. OBPR 2.25 (3rd on the team). 16.7 DK a game, 0.76 a minute; 4x in 1 of 4, 5x in 0, under 2x in 0."
+     ],
+     [
+      "",
+      "**Ahmad Nowell** ($3,800, a reserve in all 4) averages 18.2 minutes (22, 22, 16, 13), 13.8 projected. OBPR 2.64 (2nd on the team). 16.4 DK a game, 0.90 a minute; 4x in 1 of 4, 5x in 1, under 2x in 0."
+     ],
+     [
+      "",
+      "**Michael Belle** ($4,600, a starter in all 4) averages 15.2 minutes (12, 16, 16, 17), 12.8 projected. OBPR 1.50 (6th on the team). 11.3 DK a game, 0.74 a minute; 4x in 1 of 4, 5x in 0, under 2x in 2. **Fade**."
+     ],
+     [
+      "Pool.",
+      "Keep Lewis, Harper, Djokovic, Alston, Jennings, Nowell. Belle: no 5x game in the last 5 and projected under 20 minutes, so **leave him out of your pool today**."
+     ]
+    ],
+    "games": 4,
+    "table": [
+     {
+      "id": "45058784",
+      "name": "Nyk Lewis",
+      "salary": 6900,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 34.0,
+      "last3": 33.0,
+      "proj_min": 36.3,
+      "dk_pg": 25.56,
+      "dk_pm": 0.75,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 3.49,
+      "obpr_rank": 1,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058780",
+      "name": "Blake Harper",
+      "salary": 7100,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 33.5,
+      "last3": 34.67,
+      "proj_min": 35.5,
+      "dk_pg": 29.38,
+      "dk_pm": 0.88,
+      "hits": 2,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 2.01,
+      "obpr_rank": 5,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058766",
+      "name": "Lazar Djokovic",
+      "salary": 8000,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 31.5,
+      "last3": 30.33,
+      "proj_min": 33.2,
+      "dk_pg": 25.88,
+      "dk_pm": 0.82,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.08,
+      "obpr_rank": 4,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058810",
+      "name": "Torey Alston",
+      "salary": 5700,
+      "starts": 0,
+      "gp": 4,
+      "season_mpg": 28.0,
+      "last3": 27.0,
+      "proj_min": 27.7,
+      "dk_pg": 27.56,
+      "dk_pm": 0.98,
+      "hits": 2,
+      "ceil": 2,
+      "floor": 0,
+      "obpr": 1.01,
+      "obpr_rank": 7,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058820",
+      "name": "Brandon Jennings",
+      "salary": 5200,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 22.0,
+      "last3": 24.67,
+      "proj_min": 23.2,
+      "dk_pg": 16.69,
+      "dk_pm": 0.76,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 0,
+      "obpr": 2.25,
+      "obpr_rank": 3,
+      "form": "in line",
+      "min_note": "minutes safe as projected",
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058876",
+      "name": "Ahmad Nowell",
+      "salary": 3800,
+      "starts": 0,
+      "gp": 4,
+      "season_mpg": 18.25,
+      "last3": 17.0,
+      "proj_min": 13.8,
+      "dk_pg": 16.38,
+      "dk_pm": 0.9,
+      "hits": 1,
+      "ceil": 1,
+      "floor": 0,
+      "obpr": 2.64,
+      "obpr_rank": 2,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": false,
+      "shy": false
+     },
+     {
+      "id": "45058841",
+      "name": "Michael Belle",
+      "salary": 4600,
+      "starts": 4,
+      "gp": 4,
+      "season_mpg": 15.25,
+      "last3": 16.33,
+      "proj_min": 12.8,
+      "dk_pg": 11.31,
+      "dk_pm": 0.74,
+      "hits": 1,
+      "ceil": 0,
+      "floor": 2,
+      "obpr": 1.5,
+      "obpr_rank": 6,
+      "form": "in line",
+      "min_note": null,
+      "pool_out": true,
+      "shy": false
+     }
+    ]
+   }
+  }
  }
 }
