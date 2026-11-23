@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:17:21Z",
+ "generated_at": "2026-11-23T18:22:31Z",
  "slates": [
   {
    "draft_group_id": 157021,
@@ -1712,7 +1712,7 @@
      "name": "CBB $540 Swish [Single Entry, Top 2 Win]",
      "entry_fee": 100,
      "size": 6,
-     "entries": 3,
+     "entries": 4,
      "prizes": 540.0,
      "max_per_user": 1
     },
@@ -1750,6 +1750,15 @@
      "size": 4,
      "entries": 0,
      "prizes": 1000.0,
+     "max_per_user": 1
+    },
+    {
+     "id": 198121711,
+     "name": "CBB $85 Winner Take All [$300 to 1st]",
+     "entry_fee": 85,
+     "size": 4,
+     "entries": 2,
+     "prizes": 300.0,
      "max_per_user": 1
     },
     {
@@ -1807,20 +1816,11 @@
      "max_per_user": 1
     },
     {
-     "id": 198121711,
-     "name": "CBB $85 Winner Take All [$300 to 1st]",
-     "entry_fee": 85,
-     "size": 4,
-     "entries": 2,
-     "prizes": 300.0,
-     "max_per_user": 1
-    },
-    {
      "id": 198124026,
      "name": "CBB $200 And-One",
      "entry_fee": 1,
      "size": 237,
-     "entries": 158,
+     "entries": 159,
      "prizes": 200.0,
      "max_per_user": 7,
      "payouts": [
@@ -1876,7 +1876,7 @@
      "name": "CBB $50 Quarter Jukebox [Just $0.25!]",
      "entry_fee": 0.25,
      "size": 237,
-     "entries": 97,
+     "entries": 102,
      "prizes": 50.0,
      "max_per_user": 7,
      "payouts": [
@@ -1954,7 +1954,7 @@
      "name": "CBB Satellite to NFL 11-26 $5 Thanksgiving Millionaire",
      "entry_fee": 0.25,
      "size": 23,
-     "entries": 12,
+     "entries": 13,
      "prizes": 5.0,
      "max_per_user": 1
     },
@@ -2017,7 +2017,7 @@
      "name": "CBB $1 Triple Up [Top 9 Win $3]",
      "entry_fee": 1,
      "size": 31,
-     "entries": 0,
+     "entries": 4,
      "prizes": 27.0,
      "max_per_user": 1
     },
@@ -2062,7 +2062,7 @@
      "name": "CBB $1 Double Up",
      "entry_fee": 1,
      "size": 23,
-     "entries": 15,
+     "entries": 18,
      "prizes": 20.0,
      "max_per_user": 1
     },
@@ -4162,7 +4162,7 @@
      "full": true
     }
    ],
-   "contests_at": "2026-11-23T18:17:21+00:00"
+   "contests_at": "2026-11-23T18:22:31+00:00"
   }
  ]
 }
