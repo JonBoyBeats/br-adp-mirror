@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T11:26:16Z",
+ "generated_at": "2026-11-28T14:25:19Z",
  "about": "Aggregate grades of external projection sources run in shadow (battle-royale-research scripts/dk_source.py). Aggregates only: the sources are paid content and no per-player value leaves the private repo.",
  "intake": [
   {
@@ -383,5 +383,18 @@
     }
    ]
   }
+ },
+ "value_own": {
+  "prereg": "br_rankings ed9377e",
+  "previous_terms": [
+   "chalk_team",
+   "big"
+  ],
+  "source_nights": 0,
+  "nights": [],
+  "first_read_at": 5,
+  "decision_at": 10,
+  "status": "context",
+  "note": "no slate has both a source file and graded real ownership yet"
  }
 }
