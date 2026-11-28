@@ -1,0 +1,387 @@
+{
+ "generated_at": "2026-11-28T11:26:16Z",
+ "about": "Aggregate grades of external projection sources run in shadow (battle-royale-research scripts/dk_source.py). Aggregates only: the sources are paid content and no per-player value leaves the private repo.",
+ "intake": [
+  {
+   "source": "gajewski",
+   "file": "2026-11-27_157547.tsv",
+   "slate": "2026-11-27_157547",
+   "rows": 243,
+   "matched": 243,
+   "slate_players": 243,
+   "how": {
+    "full": 243,
+    "name+salary": 0,
+    "none": 0
+   },
+   "rate": 1.0,
+   "own_column": false,
+   "lock_players": 230,
+   "ours_matched": 230,
+   "teams_covered": 16,
+   "teams": 16,
+   "teams_missing": []
+  },
+  {
+   "source": "rotowire",
+   "file": "2026-11-27_all.csv",
+   "slate": "2026-11-27_157545",
+   "rows": 383,
+   "matched": 175,
+   "slate_players": 316,
+   "how": {
+    "name+team": 172,
+    "last name + initial, team": 3,
+    "name only": 0,
+    "none": 208
+   },
+   "rate": 0.4569,
+   "own_column": false,
+   "lock_players": 305,
+   "ours_matched": 175,
+   "teams_covered": 19,
+   "teams": 20,
+   "teams_missing": [
+    "STMRY"
+   ]
+  },
+  {
+   "source": "rotowire",
+   "file": "2026-11-27_all.csv",
+   "slate": "2026-11-27_157547",
+   "rows": 383,
+   "matched": 117,
+   "slate_players": 243,
+   "how": {
+    "name+team": 117,
+    "last name + initial, team": 0,
+    "name only": 0,
+    "none": 266
+   },
+   "rate": 0.3055,
+   "own_column": false,
+   "lock_players": 230,
+   "ours_matched": 117,
+   "teams_covered": 13,
+   "teams": 16,
+   "teams_missing": [
+    "GONZ",
+    "SDSU",
+    "WICH"
+   ]
+  }
+ ],
+ "sources": {
+  "gajewski": {
+   "slates": [
+    {
+     "slate": "2026-11-27_157547",
+     "status": "graded",
+     "coverage": {
+      "ours_matched": 230,
+      "lock_players": 230,
+      "teams_covered": 16,
+      "teams": 16,
+      "teams_missing": []
+     },
+     "rows": 230,
+     "rot_min": {
+      "ours": 8.234782608695653,
+      "source": 8.119565217391305,
+      "ruler": 8.15108695652174,
+      "n": 92,
+      "bias_ours": -1.9673913043478262,
+      "bias_source": -3.402173913043478
+     },
+     "stars_pts": {
+      "ours": 13.470454545454546,
+      "source": 12.983636363636364,
+      "ruler": 14.088636363636363,
+      "n": 22,
+      "bias_ours": -2.729545454545455,
+      "bias_source": -6.036363636363636
+     },
+     "rot_pts": {
+      "ours": 9.283695652173913,
+      "source": 9.995,
+      "ruler": 9.107608695652173,
+      "n": 92,
+      "bias_ours": -2.0576086956521737,
+      "bias_source": -4.8734782608695655
+     },
+     "all_pts": {
+      "ours": 6.7658695652173915,
+      "source": 6.450782608695652,
+      "ruler": 7.515,
+      "n": 230,
+      "bias_ours": -1.2971739130434783,
+      "bias_source": -2.520086956521739
+     },
+     "all_min": {
+      "ours": 6.334782608695652,
+      "source": 5.178260869565217,
+      "ruler": 7.170869565217392,
+      "n": 230,
+      "bias_ours": -1.3217391304347825,
+      "bias_source": -1.317391304347826
+     },
+     "spearman": {
+      "ours": 0.30399490874659313,
+      "source": 0.38369949858356883,
+      "n": 125
+     },
+     "disagree": {
+      "below $7k": {
+       "n": 42,
+       "source_closer": 0.47619047619047616,
+       "mae_ours_minus_source": -0.06928571428571455
+      },
+      "$7k+": {
+       "n": 18,
+       "source_closer": 0.3888888888888889,
+       "mae_ours_minus_source": 0.36611111111111033
+      }
+     },
+     "min_disagree": {
+      "below $7k": {
+       "n": 10,
+       "source_closer": 10,
+       "ours_closer": 0,
+       "mae_ours_minus_source": 6.9
+      },
+      "$7k+": {
+       "n": 2,
+       "source_closer": 1,
+       "ours_closer": 1,
+       "mae_ours_minus_source": 11.7
+      }
+     },
+     "ppm": {
+      "below $7k": {
+       "n": 97,
+       "mae_ours": 0.24751290529416936,
+       "mae_source": 0.2688562950424153,
+       "bias_ours": -0.04222128716315311,
+       "bias_source": -0.1285688283213101
+      },
+      "$7k+": {
+       "n": 17,
+       "mae_ours": 0.25732277866098996,
+       "mae_source": 0.2977174192855041,
+       "bias_ours": -0.06078818101624382,
+       "bias_source": -0.1587101413799814
+      }
+     }
+    }
+   ]
+  },
+  "rotowire": {
+   "slates": [
+    {
+     "slate": "2026-11-27_157545",
+     "status": "graded",
+     "coverage": {
+      "ours_matched": 175,
+      "lock_players": 305,
+      "teams_covered": 19,
+      "teams": 20,
+      "teams_missing": [
+       "STMRY"
+      ]
+     },
+     "rows": 175,
+     "rot_min": {
+      "ours": 5.997368421052632,
+      "source": 5.723684210526316,
+      "ruler": 5.826315789473684,
+      "n": 76,
+      "bias_ours": 0.9394736842105261,
+      "bias_source": 0.2236842105263158
+     },
+     "stars_pts": {
+      "ours": 9.096428571428572,
+      "source": 6.992142857142857,
+      "ruler": 9.548809523809524,
+      "n": 42,
+      "bias_ours": -2.9869047619047615,
+      "bias_source": -1.7607142857142857
+     },
+     "rot_pts": {
+      "ours": 8.670394736842105,
+      "source": 7.622763157894737,
+      "ruler": 8.784868421052632,
+      "n": 76,
+      "bias_ours": 1.042763157894737,
+      "bias_source": 0.9172368421052632
+     },
+     "all_pts": {
+      "ours": 7.263714285714285,
+      "source": 6.7568,
+      "ruler": 8.432857142857143,
+      "n": 175,
+      "bias_ours": -0.19685714285714281,
+      "bias_source": -0.9184
+     },
+     "all_min": {
+      "ours": 5.156,
+      "source": 5.788571428571428,
+      "ruler": 6.462857142857143,
+      "n": 175,
+      "bias_ours": 0.9754285714285713,
+      "bias_source": -0.76
+     },
+     "spearman": {
+      "ours": 0.5334768933493577,
+      "source": 0.6427329515416894,
+      "n": 137
+     },
+     "disagree": {
+      "below $7k": {
+       "n": 38,
+       "source_closer": 0.47368421052631576,
+       "mae_ours_minus_source": 0.4089473684210523
+      },
+      "$7k+": {
+       "n": 14,
+       "source_closer": 0.8571428571428571,
+       "mae_ours_minus_source": 3.6557142857142852
+      }
+     },
+     "min_disagree": {
+      "below $7k": {
+       "n": 30,
+       "source_closer": 12,
+       "ours_closer": 18,
+       "mae_ours_minus_source": -1.35
+      },
+      "$7k+": {
+       "n": 2,
+       "source_closer": 1,
+       "ours_closer": 1,
+       "mae_ours_minus_source": -8.25
+      }
+     },
+     "ppm": {
+      "below $7k": {
+       "n": 94,
+       "mae_ours": 0.2477062627327894,
+       "mae_source": 0.2128934846005404,
+       "bias_ours": -0.022613646496121152,
+       "bias_source": -0.008829499730908965
+      },
+      "$7k+": {
+       "n": 33,
+       "mae_ours": 0.3093631569717007,
+       "mae_source": 0.2454762685003157,
+       "bias_ours": -0.14464262965731448,
+       "bias_source": -0.09402105948498742
+      }
+     }
+    },
+    {
+     "slate": "2026-11-27_157547",
+     "status": "graded",
+     "coverage": {
+      "ours_matched": 117,
+      "lock_players": 230,
+      "teams_covered": 13,
+      "teams": 16,
+      "teams_missing": [
+       "GONZ",
+       "SDSU",
+       "WICH"
+      ]
+     },
+     "rows": 117,
+     "rot_min": {
+      "ours": 8.1375,
+      "source": 8.125,
+      "ruler": 8.075,
+      "n": 64,
+      "bias_ours": -3.6062499999999997,
+      "bias_source": -4.0625
+     },
+     "stars_pts": {
+      "ours": 13.652631578947368,
+      "source": 12.07,
+      "ruler": 14.542105263157895,
+      "n": 19,
+      "bias_ours": -4.157894736842105,
+      "bias_source": -0.5878947368421054
+     },
+     "rot_pts": {
+      "ours": 8.475,
+      "source": 8.1846875,
+      "ruler": 8.3015625,
+      "n": 64,
+      "bias_ours": -3.1999999999999997,
+      "bias_source": -3.1374999999999997
+     },
+     "all_pts": {
+      "ours": 8.625213675213676,
+      "source": 8.52965811965812,
+      "ruler": 9.597863247863248,
+      "n": 117,
+      "bias_ours": -1.6816239316239316,
+      "bias_source": -1.859059829059829
+     },
+     "all_min": {
+      "ours": 7.966666666666667,
+      "source": 8.264957264957266,
+      "ruler": 9.018803418803419,
+      "n": 117,
+      "bias_ours": -1.6606837606837606,
+      "bias_source": -2.7094017094017095
+     },
+     "spearman": {
+      "ours": 0.3472813824957538,
+      "source": 0.41814447370597047,
+      "n": 92
+     },
+     "disagree": {
+      "below $7k": {
+       "n": 27,
+       "source_closer": 0.5185185185185185,
+       "mae_ours_minus_source": 0.7559259259259258
+      },
+      "$7k+": {
+       "n": 6,
+       "source_closer": 0.3333333333333333,
+       "mae_ours_minus_source": -0.04499999999999993
+      }
+     },
+     "min_disagree": {
+      "below $7k": {
+       "n": 16,
+       "source_closer": 6,
+       "ours_closer": 9,
+       "mae_ours_minus_source": -0.41875000000000007
+      },
+      "$7k+": {
+       "n": 3,
+       "source_closer": 1,
+       "ours_closer": 2,
+       "mae_ours_minus_source": 0.4666666666666662
+      }
+     },
+     "ppm": {
+      "below $7k": {
+       "n": 65,
+       "mae_ours": 0.21939656630518847,
+       "mae_source": 0.19344254210362005,
+       "bias_ours": -0.03332173007125353,
+       "bias_source": -0.023244175085548158
+      },
+      "$7k+": {
+       "n": 13,
+       "mae_ours": 0.2573956643225793,
+       "mae_source": 0.21951985313619976,
+       "bias_ours": -0.01926815166641099,
+       "bias_source": 0.013667212671555736
+      }
+     }
+    }
+   ]
+  }
+ }
+}
